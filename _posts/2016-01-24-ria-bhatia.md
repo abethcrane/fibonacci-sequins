@@ -3,7 +3,7 @@ layout: post
 title: "Ria Bhatia Open Sources Her Life"
 date: 2016-01-24 10:22
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

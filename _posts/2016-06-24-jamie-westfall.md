@@ -3,7 +3,7 @@ layout: post
 title: "Jamie Westfall Answers the Great Question... Of Life, the Universe and Everything"
 date: 2016-06-24 16:56
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Florida, Tech]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Harjyot Singh is an Artist in a Lab Coat"
 date: 2016-02-09 11:59
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Edinburgh, Fashion Dudes]
 ---
 

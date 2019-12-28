@@ -3,7 +3,7 @@ layout: post
 title: "Jill Jermyn - From Concerts to Coding"
 date: 2016-05-28 13:26
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, intern, Microsoft]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Beverly Shen: She Can Do It!"
 date: 2015-08-14 08:06
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

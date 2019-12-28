@@ -3,7 +3,7 @@ layout: post
 title: "In which David McKinnon uses 'Tracky Dacks' in every day conversation"
 date: 2015-09-25 07:38
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashion Dudes, Tech]
 ---
 

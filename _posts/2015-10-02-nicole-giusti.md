@@ -3,7 +3,7 @@ layout: post
 title: "Nicole Giusti makes WISHES come true"
 date: 2015-10-02 15:28
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

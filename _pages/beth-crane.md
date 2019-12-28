@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: page
 title: "About Beth Crane ✨"
 date: 2019-10-17 05:09
 author: abethcrane
 categories: [early-career]
+---
 
 ### Tell us a little about you.
 
@@ -19,7 +20,7 @@ I'm also a [photographer](http://instagram.com/abethcrane) (more on [flickr](ht
 
 Ask me about Effective Altruism, or why Nobody Wants To See Birds.
 
-What are you working on at the moment, and what do you love about it?
+### What are you working on at the moment, and what do you love about it?
 
 ![This Blazer is from Free People and it's one of my favorite jackets](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_7645-1024x683.jpg)
 
@@ -29,7 +30,7 @@ It's the most intense onboarding I've done - I'm learning about the healthcare i
 
 I love that I'm learning a lot (I bought [this great notebook](https://designworksink.com/products/5775b003ebbd1a06a7c30276) that I take to every meeting), that my team are super friendly, and that my manager is giving me the space to prioritize gathering context and reading up on best practices over immediately contributing code.
 
-What do you feel most you in and why?
+### What do you feel most you in and why?
 
 - ![Zara skirt, UO sweater, Ecco boots](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_0217-2-819x1024.jpg)
 
@@ -39,7 +40,7 @@ A short skirt, crop tee, denim jacket, lightweight dangly earrings. A mix of bla
 
 That said, I feel most *free* when I know my outfit can take me anywhere. So a 3-seasons outfit of sneakers, leggings, a sweat-resistant shirt, a lightweight sweater.
 
-How did you land where you are now? Did you have a plan?
+### How did you land where you are now? Did you have a plan?
 
 ![I bought this jumpsuit in a vintage shop in Amsterdam and it's everything.](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_4978-1024x820.jpg)
 
@@ -49,7 +50,7 @@ I want to make the world better, but I'm not sure just yet how to go about doing
 
 That's all the meta-level, the object level answer is that I accepted my intern return offer from Microsoft after graduating, worked there on some very cool cutting edge tech for almost 5 years, and now I've pivoted completely to a smaller company on the opposite coast working with very classic tech in healthcare.
 
-How has your style evolved to what it is now?
+### How has your style evolved to what it is now?
 
 ![Icebreaker merino wool shirt, Ona bag, Gap Jeans, Snapchat Spectacles, UO Coco red sweater](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_2278-1024x732.jpg)
 
@@ -69,13 +70,13 @@ This year I've been very into Gap jeans - they have a Tall line which is perfect
 
 I leaned pretty heavily on Aritzia for smarter staples when I first got to NYC. They're more fast-fashion than I'd like, and pricier, but their [Babaton blouses](https://www.aritzia.com/us/en/product/murphy-blouse/55975.html?dwvar_55975_color=1274) go with everything and look great - sometimes you just need a staple.
 
-What do you wish you'd known when you first started working?
+### What do you wish you'd known when you first started working?
 
 ![This jumpsuit is also Lazy Oaf, like my pants! My sneakers are Nike - I spent a month trying to find the perfect pair of comfy/supportive sneakers that I could wear with any of my travel clothes. I wanted them to be all 1 color, but not black.](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_2249-820x1024.jpg)
 
 That you can set up regular 1:1s with your coworkers, not just your manager, and that you can at any point hit someone up for a 1:1 coffee/walk just to get to know the other person better. It's wild to me that I worked with some people for months/years and never chatted with them 1:1.
 
-Is your professional style different from your personal style?
+### Is your professional style different from your personal style?
 
 ![Pants from Lazy Oaf! They're a British brand, but I bought these pants in Sydney. Sweater is Royal Robbins.](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_20190713_110705-819x1024.jpg)
 
@@ -85,7 +86,7 @@ Practical considerations: My new office is always freezing, so I plan what I wea
 
 Stylistic differences: My wardrobe is a mostly-overlapping Venn diagram, where the work-only clothes include some tech-themed graphic tees, and the !work-only clothes include some shorter skirts, very cropped shirts, graphic tees with expletives, cocktail dresses, etc.
 
-What's a project you've worked on that you're proud of?
+### What's a project you've worked on that you're proud of?
 
 ![Orange juice is an accessory, yes? This sweater is from UO, and the scarf is [BetaBrand](https://www.betabrand.com/plum-cotton-cashmere-convertible-blanket-scarf) (it has pockets!).](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_2055-1024x732.jpg)
 

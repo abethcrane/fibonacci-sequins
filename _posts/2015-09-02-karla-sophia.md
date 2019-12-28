@@ -3,7 +3,7 @@ layout: post
 title: "The Adventures of Karla Larriva & Sophia Pandey"
 date: 2015-09-02 06:30
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Friendship, Tech]
 ---
 

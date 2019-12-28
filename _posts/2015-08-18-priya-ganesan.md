@@ -3,7 +3,7 @@ layout: post
 title: "Dismantling stereotypes, social good, and Priya Ganesan++"
 date: 2015-08-18 08:00
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

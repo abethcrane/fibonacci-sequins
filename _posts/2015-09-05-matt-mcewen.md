@@ -3,7 +3,7 @@ layout: post
 title: "Getting Stuck In with Matt McEwen"
 date: 2015-09-05 07:00
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Australia, Fashion Dudes, Science]
 ---
 

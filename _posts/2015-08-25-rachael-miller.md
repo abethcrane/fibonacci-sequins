@@ -3,7 +3,7 @@ layout: post
 title: "The Renaissance Wolverine: Rachael Miller!"
 date: 2015-08-25 07:00
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

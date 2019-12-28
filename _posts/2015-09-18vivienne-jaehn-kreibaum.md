@@ -3,7 +3,7 @@ layout: post
 title: "Vivienne Jaehn-Kreibaum in Wonderland"
 date: 2015-09-18 07:25
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

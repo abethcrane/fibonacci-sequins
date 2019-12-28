@@ -3,7 +3,7 @@ layout: post
 title: "The Sparkly, Superhero Tanya Talkar"
 date: 2015-09-15 09:25
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

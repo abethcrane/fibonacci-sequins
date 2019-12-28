@@ -3,7 +3,7 @@ layout: post
 title: "Poet & Quant: Maya Ganesan"
 date: 2015-08-21 08:00
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

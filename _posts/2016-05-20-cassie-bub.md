@@ -3,7 +3,7 @@ layout: post
 title: "Cassie Bub's Boots Were Meant For Walking"
 date: 2016-05-20 06:09
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Microsoft, Seattle, Tech, Texas]
 ---
 

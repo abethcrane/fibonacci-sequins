@@ -3,7 +3,7 @@ layout: post
 title: "Meera Parat has a hella good time"
 date: 2015-11-17 17:12
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Alex Kearney shows us the dapper side of practical"
 date: 2016-09-02 08:20
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Edinburgh, Fashionista]
 ---
 

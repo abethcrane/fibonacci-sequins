@@ -3,7 +3,7 @@ layout: post
 title: "Erin Winick Makes It Work"
 date: 2016-05-15 23:26
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Florida]
 ---
 

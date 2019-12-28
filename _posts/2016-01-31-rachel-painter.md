@@ -3,7 +3,7 @@ layout: post
 title: "Rachel Painter Brightens Our Day"
 date: 2016-01-31 09:42
 author: abethcrane
-categories: [Students]
+categories: [students]
 tags: [Edinburgh, Fashionista]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Nilofer Rajpurkar is not a word, a line, or a girl that can be defined"
 date: 2015-10-13 06:15
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 

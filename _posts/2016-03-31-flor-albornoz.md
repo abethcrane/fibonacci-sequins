@@ -3,7 +3,7 @@ layout: post
 title: "Flor Albornoz"
 date: 2016-03-31 07:27
 author: donainparis@gmail.com
-categories: [Students]
+categories: [students]
 tags: [Fashionista, Tech]
 ---
 
