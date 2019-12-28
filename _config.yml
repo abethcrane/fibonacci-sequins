@@ -1,30 +1,21 @@
-# Welcome to Jekyll!
+# Welcome to Sinai Jekyll Theme!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
----
+theme_version: 1.0.1
+
 layout: post
 title: "Fibonacci Sequins"
 email: hello@bethcrane.com
 description: Celebrating fresh style and interesting humans in STEM fields
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-insta_username: fibonaccisequinsblog
+instagram: https://www.instagram.com/fibonaccisequinsblog
 permalink: /:title/
 timezone: America/New_York
-nav_pages:
-  About Beth: /about-beth
 category_blurbs:
   students: "Our up-and-at-em high school & college students"
   early-career: "Starry-eyed young’uns carving out a place for themselves"
@@ -33,19 +24,25 @@ category_blurbs:
   fashion-post: "Sometimes we just want to post cute outfits 💁"
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+markdown:  kramdown
+permalink: pretty
+paginate:  12
+sass:
+  style: compressed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
