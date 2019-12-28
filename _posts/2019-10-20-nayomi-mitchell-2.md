@@ -2,16 +2,16 @@
 layout: post
 title: "Nayomi Mitchell designs her wardrobe and your documents"
 date: 2019-10-20 22:58
-author: abethcrane
-categories: [early-career]
-tags: [Seattle, Where are they now]
+author: Beth Crane
+tags: [early-career, where-are-they-now]
+location: Seattle
+company: Microsoft
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_6339.jpg'
 ---
 
-*I'm excited to welcome Nayomi back to the blog, as the latest person in our* [*Where are they now?*](https://fibonaccisequinsblog.com/tag/where-are-they-now/) *series. When we [featured Nayomi back in 2016](http://fibonaccisequinsblog.com/nayomi-mitchell/) she was just starting her career, and she's now been at Microsoft for over 3 years*, *carving out a role that allows her to blend her mix of interests and talents.*
+*I'm excited to welcome Nayomi back to the blog, as the latest person in our* [*Where are they now?*](https://fibonaccisequinsblog.com/tag/where-are-they-now/) *series. When we [featured Nayomi back in 2016](https://fibonaccisequinsblog.com/nayomi-mitchell/) she was just starting her career, and she's now been at Microsoft for over 3 years*, *carving out a role that allows her to blend her mix of interests and talents.*
 
 ### Tell us a little about you?
-
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_6339-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_6339-1024x683.jpg)
 
 My name is Nayomi. I'm from Atlanta, GA, but currently live in the great PNW! I'm very passionate about technology and design, engaging in both for my job and my hobbies! I'm currently a software engineer at Microsoft, helping users create beautiful Word documents.
 
@@ -98,4 +98,4 @@ IG \| [Nayomitchell](https://www.instagram.com/Nayomitchell/)
 *xx 
 Beth ✨*
 
-*P.S. Dial back time and take a peek at Nayomi's [first appearance on the blog](http://fibonaccisequinsblog.com/nayomi-mitchell/).*
+*P.S. Dial back time and take a peek at Nayomi's [first appearance on the blog](https://fibonaccisequinsblog.com/nayomi-mitchell/).*

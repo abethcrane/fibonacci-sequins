@@ -2,8 +2,9 @@
 layout: post
 title: "About Dona Sarkar"
 date: 2015-08-10 10:10
-author: donainparis@gmail.com
-categories: [industry-veterans]
+author: Dona Sarkar
+tags: [industry-veterans]
+image:
 ---
 
 ### Tell us a little about you.
@@ -20,7 +21,7 @@ I’m also very devoted to promoting diversity in the STEM fields and travel aro
 
  
 ![Dress: [Luly Yang Mini-Monarch](https://lulyyang.com/stretch-mikado-monarch-print-tulip-hem-dress) 
-Photo from a magazine shoot by [Adrian Busse](http://www.adrianbusse.com/)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/08/Luly1.jpg)
+Photo from a magazine shoot by [Adrian Busse](http://www.adrianbusse.com/)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/Luly1.jpg)
 
 My first outfit is probably my most favorite thing in my closet. I had the privilege of wearing Luly's iconic Monarch dress for my engagement shoot a few years ago, so when she debuted her Ready-to-Wear collection earlier this year and had the Mini-Monarch as the show-stopper, I HAD to have it.  You can bet I saved up for this investment piece that I'll have forever. In the background, you can see a snake printed dress with a sweetheart neckline. That was a birthday gift my husband conspired with Luly & team to make for me. It's called Sweet Poison (similar [here](https://lulyyang.com/shop-collections/luly-yang/aurelia-strapless-pleated-a-line-cocktail-dress-1810)) and I can't wait to find an occasion to wear it!
 
@@ -35,7 +36,7 @@ I love fashion that has a story and most of my favorite pieces are either design
 ### How did your style evolve to what it is now?
 
  
-![Dress: [Sue Wong](http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16) (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=455872956&pid=uid4889-31045667-16))](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/08/RunWay1-683x1024.jpg)
+![Dress: [Sue Wong](http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16) (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=455872956&pid=uid4889-31045667-16))](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/RunWay1-683x1024.jpg)
 
 I went through a plethora of styles before I found "me". When I was in high school, I can honestly say I had zero style. Seriously, zero.  I was a shy, nerdy kid and I never wanted to draw attention to myself so I wore huge everything. In college, I decided to change who I was and really embraced a bohemian, feminine aesthetic with long skirts and giant silver jewelry. When I first started working, I thought I had to dress like a stereotypical tech guy, so I wore baggy cargo pants and free t-shirts from career fairs. I realized I wasn’t being myself and in turn, wasn’t doing my best work, so I decided to start dressing like the pictures I kept dogearing in magazines.
 
@@ -44,7 +45,7 @@ Now I would say my style is "statement". I love attention-grabbing statement pie
 ### Do you have any style icons or favorite brands?
 
  
-![Dress: [Rag & Bone](http://www.shopstyle.com/browse/dresses?fts=rag+and+bone+leather) / Shoes: [Jeffrey Campbell Spike Lita's](http://www.jeffreycampbellshoes.com/vault/spike#.VcTaf25Viko)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/08/Vogue-680x1024.jpg)
+![Dress: [Rag & Bone](http://www.shopstyle.com/browse/dresses?fts=rag+and+bone+leather) / Shoes: [Jeffrey Campbell Spike Lita's](http://www.jeffreycampbellshoes.com/vault/spike#.VcTaf25Viko)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/Vogue-680x1024.jpg)
 
 My favorite designer is [Luly Yang](https://lulyyang.com/). She's not only incredibly talented with color and texture, but she really understands a woman's body. Every single thing I've ever tried on from her lines have been infinitely flattering and her ready-to-wear collection makes it easy for me to wear Luly for more than special occasions.
 
@@ -57,7 +58,7 @@ I am a shoe-aholic! My favorite designers are [John Fluevog](https://www.fluevog
 ### Any advice for a young person thinking about getting into a STEM field?
 
  
-![Dress: Dona Sarkar (Roses are Black)/ Shoes: [Fluevog](https://www.fluevog.com/)(http://ir-na.amazon-adsystem.com/e/ir?t=fibonsequi-20&l=as2&o=1&a=B00K8Q54NO){width="1" height="1"} (Similar [here](http://www.amazon.com/gp/product/B00K8Q54PM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K8Q54PM&linkCode=as2&tag=fibonsequi-20&linkId=WUPITZW7RCCYN7VQ))](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/08/Engagement-e1438966712941.jpg)
+![Dress: Dona Sarkar (Roses are Black)/ Shoes: [Fluevog](https://www.fluevog.com/)(http://ir-na.amazon-adsystem.com/e/ir?t=fibonsequi-20&l=as2&o=1&a=B00K8Q54NO){width="1" height="1"} (Similar [here](http://www.amazon.com/gp/product/B00K8Q54PM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K8Q54PM&linkCode=as2&tag=fibonsequi-20&linkId=WUPITZW7RCCYN7VQ))](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/Engagement-e1438966712941.jpg)
 
 When we’re young, we have so many interests: space travel, dance, art, fashion, sports. But as we grow up, people beat this creativity out of us with lots of talk of being "practical". Don’t let that happen. Stay creative. Stay a dreamer. Stay a multi-hyphenate. It will help you. Trust me on this one. People *still* tell me I can’t be an engineer, a fashion designer, a writer and a speaker at the same time. Why not? We live to be up to 120 years. The old "rules" of having one job do not apply! So I decided to add in fashion blogger to the mix instead of giving anything up. Having so many interests really helps me relate better to all kinds of people around the world, including customers of my technology and use my creativity in all aspects of my life.
 

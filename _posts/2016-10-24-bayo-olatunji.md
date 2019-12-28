@@ -2,16 +2,17 @@
 layout: post
 title: "Bayo Olatunji knows how to pose (or was that code?)"
 date: 2016-10-24 08:52
-author: abethcrane
-categories: [early-career]
-tags: [Fashion Dudes, Seattle, Tech]
+author: Beth Crane
+tags: [early-career, fashion-dudes]
+location: Seattle
+company: Microsoft
+field: Tech
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1589.jpg'
 ---
 
-*Bayo was such a delight to shoot. After rescheduling our shoot multiple times we finally met up on a grey morning in Volunteer Park. Bayo's love for uniqlo was apparently, but it was amazing to see how he came into himself in his second outfit. We had a blast talking and posing, and hope you have just as much fun reading through his interview :)*
+*Bayo was such a delight to shoot. After rescheduling multiple times we finally met up on a grey morning in Volunteer Park. Bayo's love for uniqlo was apparently, but it was amazing to see how he came into himself in his second outfit. We had a blast talking and posing, and hope you have just as much fun reading through his interview :)*
 
 ### Tell us a little about you.
-
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1589-1024x475.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1589.jpg)
 
 I’m a Nigerian that moved to the United States in 2000. This is where I discovered Windows 98 and decided I wanted to work for the company that made it (Microsoft). I thought Microsoft made the whole computer E2E: the OS, the hardware, and the whole internet. This false assumption is what drove me find a way to join the company.
 
@@ -23,16 +24,16 @@ I believe the sky is NOT the limit - our imaginations are. This belief lead me t
 
 I used to be very much anti-chic, but my sister has made it her mission to fix that.
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1508-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1508.jpg) 
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1508-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1508.jpg) 
 I  usually like to find clothes that are simple and elegant. When I was in China, I discovered Uniqlo, which I have to say is high on my fav store list now. I got a few nice button up shirts, T shirts, and a simple Jacket. This (hopefully) usually keeps me in the simple-yet-elegant bucket.
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1627-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1627.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1627-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1627.jpg)
 
 This is a Nigerian outfit that was made when I went home last year. Every time I go back home my mom always commissions our tailor to make us a new outfit for that year. The jacket is one I got made when I was in Thailand. I noticed they pair very well together and have combined them since. It's multi-cultural :)
 
 ### How did your style evolve to what it is now?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1473-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1473-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603.jpg)
 
 As I mentioned earlier, I used to not be a "chic" person. I kind of wore whatever was comfortable. I couldn’t find a good intersection between comfort, elegant, and NOT STUPIDLY EXPENSIVE. My sister wanted to make sure I didn’t embarrass her when we are out together (jk), so she started buying me nice looking clothes as gifts.
 
@@ -40,13 +41,13 @@ My sister’s efforts + being around chic people + having $$ has allowed me to 
 
 ### Do you have any style icons or favorite brands?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603-683x1024.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1603-683x1024.jpg)
 
 Uniqlo hahaha. I just discovered it and I will rave about their clean and simple style to the world.
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1465-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1465.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1465-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1465.jpg)
 
 STEM is basically seeping into everything, so STEM can probably lead you into any interest. This path you are about to choose is going to be difficult, but trust me, it’s definitely worth it. Here are some things to remember:
 
@@ -57,7 +58,7 @@ STEM is basically seeping into everything, so STEM can probably lead you into an
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1614-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1614-1024x683.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1614-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1614-1024x683.jpg)
 
 I have worked on so many things at Microsoft and believe me, I am very proud of them all. For this let's do a throwback - at MIT I took a class called [6.111](http://web.mit.edu/6.111/www/f2015/index.html) which focused on digital systems. For our final project, we decided to create the game, Guitar Hero, using FPGAs and real guitars. The number of things we had to learn was ridiculous but so much fun. Some at the top of my mind are:
 
@@ -71,7 +72,7 @@ I know many of you have stories of living in the lab, I'd love you to share th
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1544-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1544.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1544-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/10/IMG_1544.jpg)
 
 [Facebook](https://www.facebook.com/bayo0) / [Twitter](https://twitter.com/lilibayo) (I should use this more) / [Instagram](https://www.instagram.com/lilijason6/)
 

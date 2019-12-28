@@ -12,17 +12,24 @@
     </div>
 
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='c-footer__headline'>Navigation</p>
-
+    <p class='c-footer__headline'>Navigation</p>
       <ul class='c-footer-list o-plain-list'>
         {% include navigation.html %}
+        <li class='c-nav__item'>
+          <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
+            <span class='c-nav__icon' data-icon='ei-search' data-size='s'></span>
+          </a>
+        </li>
       </ul>
     </div>
 
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='c-footer__headline'>Newsletter</p>
-
-      {% include subscribe-form.html %}
+        <p class='c-footer__headline'>By Location</p>
+        <ul class='c-footer-list o-plain-list'>
+            {% for Location in site.locations %}
+            <li><a href='{{ site.baseurl }}/location/{{ location[0] }}'>{{ location[0] }}</a><li>
+          {% endfor %}
+        </ul>
     </div>
 
     <div class='o-grid__col o-grid__col--full'>

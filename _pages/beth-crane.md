@@ -2,13 +2,14 @@
 layout: page
 title: "About Beth Crane ✨"
 date: 2019-10-17 05:09
-author: abethcrane
-categories: [early-career]
+author: Beth Crane
+tags: [early-career]
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_9154-1-1024x819.jpg'
 ---
 
 ### Tell us a little about you.
 
-![Hanging out on some arty steps in Hongdae, Seoul. Wearing shorts (it is \*so\* difficult to find high-rise shorts that are decent but not knee-length!) and a linen shirt, both from J-Crew.](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_9154-1-1024x819.jpg)
+[Hanging out on some arty steps in Hongdae, Seoul. Wearing shorts (it is \*so\* difficult to find high-rise shorts that are decent but not knee-length!) and a linen shirt, both from J-Crew.](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_9154-1-1024x819.jpg)
 
 Hi, I'm Beth! I have colorful hair and I love natural light and my least favorite sound is airplanes flying over my apartment.
 
@@ -22,19 +23,19 @@ Ask me about Effective Altruism, or why Nobody Wants To See Birds.
 
 ### What are you working on at the moment, and what do you love about it?
 
-![This Blazer is from Free People and it's one of my favorite jackets](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_7645-1024x683.jpg)
+[This Blazer is from Free People and it's one of my favorite jackets](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_7645-1024x683.jpg)
 
 I just started a new job about 2 months ago and so mostly I'm working on learning a lot. People often describe it as drinking from the firehose, but this time around for me it feels like being a sponge - absorbing as much as possible!
 
-It's the most intense onboarding I've done - I'm learning about the healthcare industry, about oncology (Cancer: The Emperor of all maladies is a great book I highly recommend), about medical billing, how Flatiron operates, the relationship between Roche (parent company), Flatiron, and all of the sibling companies, getting to know all my coworkers, and navigating a new city and norms! On top of that, the tech stack is very standard, but largely new to me, coming from VR, so I'm working with databases for the first time (wild, I know), and learning react. 
+It's the most intense onboarding I've done - I'm learning about the healthcare industry, about oncology (Cancer: The Emperor of all maladies is a great book I highly recommend), about medical billing, how Flatiron operates, the relationship between Roche (parent company) + Flatiron, + all of the sibling companies, getting to know all my coworkers, and navigating a new city and norms! On top of that, the tech stack is very standard, but largely new to me (coming from VR) so I'm working with databases for the first time (*wild*, I know), and learning react. 
 
 I love that I'm learning a lot (I bought [this great notebook](https://designworksink.com/products/5775b003ebbd1a06a7c30276) that I take to every meeting), that my team are super friendly, and that my manager is giving me the space to prioritize gathering context and reading up on best practices over immediately contributing code.
 
 ### What do you feel most you in and why?
 
-- ![Zara skirt, UO sweater, Ecco boots](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_0217-2-819x1024.jpg)
+[Zara skirt, UO sweater, Ecco boots](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_0217-2-819x1024.jpg)
 
-- ![Photo by [Dan Holodak](http://instagram.com/danwiththeblue)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_0219-1-819x1024.jpg)
+[Photo by [Dan Holodak](http://instagram.com/danwiththeblue)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/10/IMG_0219-1-819x1024.jpg)
 
 A short skirt, crop tee, denim jacket, lightweight dangly earrings. A mix of black/white/colors. Good walking boots. Mascara and Sephora's blackberry sorbet lipstick. It's an outfit combo that makes me feel put together, cute, and fun!
 

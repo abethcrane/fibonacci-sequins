@@ -2,16 +2,18 @@
 layout: post
 title: "In which David McKinnon uses 'Tracky Dacks' in every day conversation"
 date: 2015-09-25 07:38
-author: abethcrane
-categories: [students]
-tags: [Fashion Dudes, Tech]
+author: Beth Crane
+tags: [Student, fashion-dudes]
+location: Sydney
+field: Tech
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2136.jpg'
 ---
 
 *Beth went to UNSW with David, running into him in different classes here and there, but she properly met him over Southern Summer last year when he interned at Microsoft (with crazy blue hair, of course!). His willingness to climb trees and show off dramatic cinematic poses made this shoot exactly the kind of thing Beth loves doing (Dona - you'll be glad to hear I didn't climb any myself!).*
 
 ### Tell us a little about you.
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2136-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2136.jpg) Coat: Vakko (similar [here](http://amzn.to/1Fyh8oj)) / Shoes: Doc Martens (similar [here](http://amzn.to/1Fyhhbn))
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2136-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2136.jpg) Coat: Vakko (similar [here](http://amzn.to/1Fyh8oj)) / Shoes: Doc Martens (similar [here](http://amzn.to/1Fyhhbn))
 
 I’m in my fourth year of university, studying Computer Engineering and Mathematics at UNSW (where I'm in our [Robocup SPL team](http://www.cse.unsw.edu.au/about-us/help-resources/for-students/student-projects/robocup/), aiding the robots in their inevitable revolution against muggle humanity). I saw the UNSW robolab during an Engineering open day shindig when I was in high school, and fell in love with robots. To be stuck in a lab playing with robots all day is literally a dream come true - my degree is currently at the best it’s been yet and I love it. Robots are just so cool - mechanical, electronic and programming challenges all mixed together in a package that looks so freaking awesome when it works.
 
@@ -24,7 +26,7 @@ I also enjoy reading, learning about rationality and psychology, mountain climbi
 
 ### Tell us about what you're wearing.
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2355-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2355.jpg) Sneakers: North Face
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2355-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2355.jpg) Sneakers: North Face
 
 For years I searched for a long black leather coat before finding this one in an op-shop *(thrift shop, for our American readers)* just next to Microsoft’s Bellevue campus, and I just had to have it. Whilst the Australian heat renders it mostly impractical, in winter it
 
@@ -41,9 +43,9 @@ The Ring - well, it’s the One Ring. ‘Nuff said.
 
 ### How did your style evolve to what it is now?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1938-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1938.jpg) Pants: [Eddie Bauer](http://www.eddiebauer.com/product/men--39-s-legend-wash-cargo-pants---classic-fit/10307633/_/A-ebSku_0036050283009666__10307633_catalog10002_en__US?showProducts&backToCat=Cargo+Pants&previousPage=LNAV&tab=men&color=283) / Boots: Doc Martens / Shirt: RedBubble / Coat: Vakko
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1938-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1938.jpg) Pants: [Eddie Bauer](http://www.eddiebauer.com/product/men--39-s-legend-wash-cargo-pants---classic-fit/10307633/_/A-ebSku_0036050283009666__10307633_catalog10002_en__US?showProducts&backToCat=Cargo+Pants&previousPage=LNAV&tab=men&color=283) / Boots: Doc Martens / Shirt: RedBubble / Coat: Vakko
 
-I used to just stick to black everything  - hoodie, pants/shorts, plus the joke shirt - but then when I got to uni and started expanding my movie character costume wardrobe I discovered that there were other fun things to wear - like long coats. Nowadays I'm going to second [Matt McEwen](http://www.fibonaccisequinsblog.com/matt-mcewen/) - Form Follows Function. My clothing tends to be based foremost on what is most useful (hence the cargo pants - enough pockets to hold anything and everything I own), and then secondly on what I think fits the mood. Bright, sunny, day? Shorts, perhaps, and a Hawaiian shirt, or white joke shirt. Dark and gloomy day? Coat, cargo pants, darker joke shirt.
+I used to just stick to black everything  - hoodie, pants/shorts, plus the joke shirt - but then when I got to uni and started expanding my movie character costume wardrobe I discovered that there were other fun things to wear - like long coats. Nowadays I'm going to second [Matt McEwen](https://fibonaccisequinsblog.com/matt-mcewen/) - Form Follows Function. My clothing tends to be based foremost on what is most useful (hence the cargo pants - enough pockets to hold anything and everything I own), and then secondly on what I think fits the mood. Bright, sunny, day? Shorts, perhaps, and a Hawaiian shirt, or white joke shirt. Dark and gloomy day? Coat, cargo pants, darker joke shirt.
 
 More recently I've discovered the joys of styling one’s hair, and trying to fit a deliberate look - like you’re from a movie. Currently my hair is blonde-streaked, which is the aftermath of purple dye. Previous hairstyles I’ve been through are a massive ponytail, then that all blue, a Ned Kelly-style beard, various goatees, plaits, etc. My hair is now really where my style shows.
 
@@ -51,7 +53,7 @@ More recently I've discovered the joys of styling one’s hair, and trying to f
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2374-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2374.jpg) Watch: [Sewor](http://www.banggood.com/Sewor-Stainless-Steel-Band-Calendar-Mechanical-Watch-p-970508.html)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2374-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2374.jpg) Watch: [Sewor](http://www.banggood.com/Sewor-Stainless-Steel-Band-Calendar-Mechanical-Watch-p-970508.html)
 
 **Create your confidence**
 
@@ -69,7 +71,7 @@ I’ve had many a poorly taught class on a subject I love, so I’ve learnt (the
 
 ### What is a common misconception about tech or STEM fields that you'd like to clear up?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1976-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1976.jpg) Glasses: Tiposi
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1976-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1976.jpg) Glasses: Tiposi
 
 I’ve had a lot of people seemingly put off my field of CS or mathematics after they see me geeking out over something or remember what they’ve seen on The Big Bang Theory or The IT Crowd, and then think we’re all specky, pasty basement-dwelling anti-social geeks who don’t have any other interests. That impression is just blatantly wrong, and this blog is living proof!
 
@@ -79,7 +81,7 @@ We are diverse people who exist outside of our work. Don’t let stereotypes let
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1902-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1902.jpg) Boots: Doc Martens / Pants: Eddie Bauer / Shirt: RedBubble
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1902-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1902.jpg) Boots: Doc Martens / Pants: Eddie Bauer / Shirt: RedBubble
 
 Hmmm, tough one. One of the ones I’m most proud of and think I can go far with is the tune I helped arrange for me and my band. After many an hour watching the same youtube clip, and then more work with one of the band members with a good ear for tone, I managed to write the theme song for Game of Thrones for the bagpipes, and now play this, whilst riding a unicycle.
 
@@ -87,7 +89,7 @@ Another is my [bagpipe cover for Muse’s Knights of Cydonia](https://www.youtub
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2362-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2362.jpg) That sick braid.
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2362-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2362.jpg) That sick braid.
 
 [Facebook](https://facebook.com/david.mcchicken) is the best way to actually contact me, but I also have a [blog of my internship adventures](http://www.macca-d.blogspot.com) that may well be filled in more in future, as well as a small-but-very-slowly-growing [youtube channel of my unipiping adventures](https://www.youtube.com/channel/UC_319xfHH5czlGW31IaY1vQ), The Bagcycler.
 

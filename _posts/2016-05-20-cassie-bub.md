@@ -2,16 +2,17 @@
 layout: post
 title: "Cassie Bub's Boots Were Meant For Walking"
 date: 2016-05-20 06:09
-author: abethcrane
-categories: [students]
-tags: [Fashionista, Microsoft, Seattle, Tech, Texas]
+author: Beth Crane
+tags: [Student]
+location: Seattle
+company: Microsoft
+field: Tech
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8572.jpg'
 ---
 
 *We had the pleasure of meeting Cassie Bub when she was an intern and immediately we knew what we were going to make her do for her photos...I mean, let's be real, how often are you going to meet a computer scientist + musician + GYMNAST!  We managed to catch this feisty multi-hyphenate in a net and insisted she tell us all the things. *
 
 ### Tell us a little about you.
-
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8572-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8572.jpg)
 
 I am a rising junior at Texas A&M University majoring in Computer Science with Minors in Math and Neuroscience. I also spent last summer as an Explorer Intern at Microsoft working on Bing answers, and will be returning this summer. I fell in love with the uniqueness that is computer science in high school, and that feeling has only increased throughout my years in college. It continues to astound me just how complex and powerful computers are.
 
@@ -37,7 +38,7 @@ It's scary to put yourself out there, whether that's a new outfit or as simple a
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8415-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8415.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8415-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8415.jpg)
 
 One of the cool things about the field as it is evolving now, is that is incredibly low-cost to you to get involved. There is still a learning curve to get started, but there are so many resources online that are free and make it easy to learn. If you really like something in the STEM field utilize these resources that people have created for you! There is so much information out there, and it's never to late to start!
 
@@ -45,12 +46,12 @@ I was intimidated by the people who said they had been coding for years and knew
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8422-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8422.jpg) 
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8422-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8422.jpg) 
 This past summer I worked on Bing answers and was able to incorporate my love for music into something really cool! [I created a guitar tuner](https://www.bing.com/search?q=guitar+tuner&go=Submit&qs=n&form=QBLH&pq=guitar+tuner&sc=8-11&sp=-1&sk=&ghc=1&cvid=ca04a98645654bdcb930d9e149559790), and so far it seems like people are really liking it!
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8406-683x1024.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8406.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8406-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/05/IMG_8406.jpg)
 
 [Twitter](https://twitter.com/cassiebub) & [Instagram](https://instagram.com/c_bub) :)
 

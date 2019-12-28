@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Mahak Mithani to welcome in the new year"
-date: 2019-12-27 13:04
-author: abethcrane
-categories: [early-career]
+date: 2019-12-28 08:04
+author: Beth Crane
+location: Seattle
+company: Microsoft
+field: Tech
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6821.jpg'
 ---
 
 ### Tell us a little about you?
-
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6821-791x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6821-791x1024.jpg)
 
 My name is Mahak Mithani and I’m an incessantly sarcastic Program Manager 2 on the Mixed Reality team at Microsoft. I moved to the Seattle area from Houston two years ago and have been trying to find my niche ever since.
 

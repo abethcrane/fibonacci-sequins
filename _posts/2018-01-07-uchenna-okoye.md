@@ -2,14 +2,15 @@
 layout: post
 title: "Uchenna Okoye goes Naija Style"
 date: 2018-01-07 08:00
-author: abethcrane
-categories: [Students]
-tags: [Fashionista, Pandora, San Francisco, Tech]
+author: Beth Crane
+tags: [early-career]
+location: San Francisco
+company: Pandora
+field: Tech
+image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5972.jpg'
 ---
 
 ### Tell us a little about you.
-
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5972-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5972.jpg)
 
 I am a software engineer at Pandora Media. I graduated in 2017 with my master's in computer science before joining Pandora full time. I am originally from Nigeria.
 
@@ -19,7 +20,7 @@ I had never been exposed to programming prior to this and I found it very enjoya
 
 ### Tell us about what you're wearing.
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5978-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5978.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5978-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5978.jpg)
 
 In both instances, I am wearing Nigerian attires. They were designed by an amazing Nigeria designer back home. The shirt and pants features a modern style of African clothing. It is meant to be comfortable and stylish. The dress has dashiki-styled prints, originates from West Africa. The word dashiki means "shirt" in Hausa, and the style was commonly used for shirts but has now evolved as a popular print for many types of outfits.
 
@@ -41,7 +42,7 @@ I am most proud of a project I worked on involving Internet Of Things where user
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5866-1024x683.jpg)](http://www.fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5866.jpg)
+[![](https://fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5866-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2018/01/IMG_5866.jpg)
 
 Often times, people have a misconception about tech that you need to have a heavy background in math. While this may be true in some subsets of software engineering/computer science, not everything in software engineering requires a heavy math background. If you have a strong logical skills, computer science could very well be a good place for you. There are other soft skills in computer science that many people often overlook, and unfortunately, often disqualify themselves from being able to pursue fields in the tech industry.
 

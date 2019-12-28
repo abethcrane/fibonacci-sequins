@@ -20,12 +20,12 @@ category_blurbs:
   students: "Our up-and-at-em high school & college students"
   early-career: "Starry-eyed young’uns carving out a place for themselves"
   industry-veterans: "Folks who’ve already made a definite mark" 
-  stem-retirees: "Onwards and upwards to different and interesting things"
+  retired-from-stem: "Onwards and upwards to different and interesting things"
   fashion-post: "Sometimes we just want to post cute outfits 💁"
 
 # Build settings
 markdown:  kramdown
-permalink: pretty
+#permalink: pretty
 paginate:  12
 sass:
   style: compressed
