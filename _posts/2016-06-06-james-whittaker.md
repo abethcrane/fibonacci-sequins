@@ -24,7 +24,7 @@ I specialize in enjoying life. I’m really picky about the activities I engage 
 
 {% responsive_image path: "images/posts/2016/05/IMG_9755-683x1024.jpg" %}
 
-I have on cool socks. Socks are the fashion equivalent of your soul. They aren’t on full external display and people have to be around you for a while before getting a glimpse of them. Mine have little beer mugs on them *[![](we found them!)](http://amzn.to/25IbxYY).* Yep, that’s my soul all right … it’s a little malty. I enjoy exerting my personality with my clothes. I wear a lot of music t’s that I buy when I go to concerts with my kids. And, of course, I have built a brand out of my "do epic shit" shirts. Those are fun and almost serve as a warning to people about what I am really like as a person.
+I have on cool socks. Socks are the fashion equivalent of your soul. They aren’t on full external display and people have to be around you for a while before getting a glimpse of them. Mine have little beer mugs on them *([we found them!](http://amzn.to/25IbxYY))*. Yep, that’s my soul all right...it’s a little malty. I enjoy exerting my personality with my clothes. I wear a lot of music t’s that I buy when I go to concerts with my kids. And, of course, I have built a brand out of my "do epic shit" shirts. Those are fun and almost serve as a warning to people about what I am really like as a person.
 
 *(Um, side note, THOSE SHOES YO! [These want to be as cool](http://amzn.to/1U3lRSV), but nowhere near as cool as the ones above)*
 
@@ -38,7 +38,7 @@ This is one reason I don’t wear suits. The European suit culture, to me, screa
 
 My style is low-effort. I am blessed by sharing my life with people who like to shop. They pick things out for me. Sometimes I come home to a great big pile of clothes and I get to try on things while they assess my look. I love those days! Whenever there is an intersection of "dad that looks good on you" and "this feels good on me" then I keep it. Anything that fails either of those tests goes back.
 
-When you grow up wearing mostly hand-me-downs, clothes that fit and feel right are a big deal. And when someone with style tells you it looks good … well, I don’t care who you are, getting compliments on how you look feels good. That’s right, I said it, looking good feels good. Go on demand my man card, I’ll gladly give it up.
+When you grow up wearing mostly hand-me-downs, clothes that fit and feel right are a big deal. And when someone with style tells you it looks good...well, I don’t care who you are, getting compliments on how you look feels good. That’s right, I said it, looking good feels good. Go on demand my man card, I’ll gladly give it up.
 
 Einstein famously didn’t give a shit about how he looked. I’m not so sure I believe that; he had the coolest hair and if he really didn’t care then he would have blended in but he didn’t. His clothes made him stand out. They made a statement. I am different. I am me. In "not caring" how he looked he made the biggest fashion statement of them all.
 
@@ -46,7 +46,7 @@ Einstein famously didn’t give a shit about how he looked. I’m not so sure I 
 
 {% responsive_image path: "images/posts/2016/05/IMG_9699-683x1024.jpg" %}
 
-Caution advised. Careers in STEM are great. Education in STEM … not so much. I think we over rotate on math and arcane facts and figures that just aren’t useful in real careers. When was the last time anyone, other than an 11th grade math teacher, needed to factor a trinomial in their actual job? STEM edu tends toward the rote but a STEM career is everything but rote. It requires a lot of creativity so do not let the educational system take away from your creative self. Never neglect the arts. Never neglect your creative lifestyle. If you are going to study STEM, get a creative side hustle going to ensure your creative juices remain nice and liquid.
+Caution advised. Careers in STEM are great. Education in STEM...not so much. I think we over rotate on math and arcane facts and figures that just aren’t useful in real careers. When was the last time anyone, other than an 11th grade math teacher, needed to factor a trinomial in their actual job? STEM edu tends toward the rote but a STEM career is everything but rote. It requires a lot of creativity so do not let the educational system take away from your creative self. Never neglect the arts. Never neglect your creative lifestyle. If you are going to study STEM, get a creative side hustle going to ensure your creative juices remain nice and liquid.
 
 Seriously, look at the true STEM heroes like Elon Musk and Steve Jobs. They were creative as hell. They weren’t successful because they work in STEM fields but because of their creativity and critical thinking. The people who neglect their creativity end up being minions for those who don’t
 

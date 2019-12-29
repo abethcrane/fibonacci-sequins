@@ -36,7 +36,7 @@ My favorite part of this outfit is definitely my KCPR pin.
 
 My mom dressed me and my younger sister identically (purple tracksuits, Pokémon shirts, etc.) until middle school, but I’ve been through a lot of phases since then. Most notably, I used to be a scene girl, so I wore a lot of eyeliner, black hoodies, and neon-colored pants.
 
-Nowadays, I’m probably wearing any combination of floral prints, fishnets, dad sweaters, denim (in every form except jeans…), cardigans, crushed velvet, and polka dots.
+Nowadays, I’m probably wearing any combination of floral prints, fishnets, dad sweaters, denim (in every form except jeans...), cardigans, crushed velvet, and polka dots.
 
 ### Any advice for a young person thinking about getting into a STEM field?
 

@@ -66,7 +66,7 @@ I have worked on so many things at Microsoft and believe me, I am very proud of 
 2. Learn about [Fast Fourier Transforms](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 3. How to get an [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) to display something
 
-We basically lived in the lab that semester. The project started without even knowing If it was possible, but we managed to break down each obstacle into a simper problem and solved them. Even though the class was divided into teams, the whole class basically worked on all projects since most of us picked things that were way beyond us. By putting all our heads together, we were able to do amazing things. At the end, when we got it working…. Oh the feels
+We basically lived in the lab that semester. The project started without even knowing If it was possible, but we managed to break down each obstacle into a simper problem and solved them. Even though the class was divided into teams, the whole class basically worked on all projects since most of us picked things that were way beyond us. By putting all our heads together, we were able to do amazing things. At the end, when we got it working.... Oh the feels
 
 I know many of you have stories of living in the lab, I'd love you to share them with me (find me on fb/insta/twitter below).
 

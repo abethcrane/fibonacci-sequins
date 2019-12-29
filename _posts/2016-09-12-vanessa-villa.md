@@ -42,7 +42,7 @@ I also can’t help but to have been influenced by my surroundings; I've become 
 
 {% responsive_image path: "images/posts/2016/09/IMG_9053-683x1024.jpg" %}
 
-If your field punches you in the stomach (which it will…last minute assignments are the worst) , punch back and do it the way your gut tells you to - if that’s by eating gummy bears at a hackathon, cool! If it's by wearing a cowgirl hat while you code, that’s cool too!
+If your field punches you in the stomach (which it will...last minute assignments are the worst) , punch back and do it the way your gut tells you to - if that’s by eating gummy bears at a hackathon, cool! If it's by wearing a cowgirl hat while you code, that’s cool too!
 
 Get an internship, shadow a professional, explore all of the field and find out what interests you and what you are passionate about. I think it's very important to try and figure out what you like and don't like about the field early on. Have confidence in yourself and your abilities...you may surprise yourself.
 

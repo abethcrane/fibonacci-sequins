@@ -30,7 +30,7 @@ I also enjoy reading, learning about rationality and psychology, mountain climbi
 
 For years I searched for a long black leather coat before finding this one in an op-shop *(thrift shop, for our American readers)* just next to Microsoft’s Bellevue campus, and I just had to have it. Whilst the Australian heat renders it mostly impractical, in winter it
 
-**a)** keeps out rain, wind, knives, bullets, …anything, and 
+**a)** keeps out rain, wind, knives, bullets, ...anything, and 
 **b)** just looks awesome and makes me feel like I’m in a movie. (*Something similar [here](http://amzn.to/1Fyh8oj)*)
 
 The boots are Doc Martens, and also came from an op-shop, but this one in [Nowra, Australia](https://en.wikipedia.org/wiki/Nowra,_New_South_Wales). These are yet another piece of my *"I’m in a movie" *winter ensemble. Sure, they look chunky, heavy, and are hell to lace up, but I still take any excuse to wear them. (*Something similarly bad-ass [here](http://amzn.to/1Fyhhbn)*)

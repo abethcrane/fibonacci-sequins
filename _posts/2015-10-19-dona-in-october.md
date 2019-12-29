@@ -8,7 +8,7 @@ location: Seattle
 image: '/images/posts/2015/10/IMG_3866.jpg'
 ---
 
-Ah, fall. Where a not-so-young woman’s thoughts turn to…cozy mornings spent with a hot cup of coffee wrapped in knits and (faux) furs. I LOVE fall. It feels like…new beginnings.  New year full of possibilities. A chance for reinvention.  But first thing: The Fall Wardrobe.
+Ah, fall. Where a not-so-young woman’s thoughts turn to...cozy mornings spent with a hot cup of coffee wrapped in knits and (faux) furs. I LOVE fall. It feels like...new beginnings.  New year full of possibilities. A chance for reinvention.  But first thing: The Fall Wardrobe.
 
 No lie, the big, fat issues of Vogue, Elle, Harper’s, Cosmo, Marie Claire, Glamour, MORE and many others are what I live for in September.  I easily spend two entire weekends learning all of the latest trends and watching repeats of the New York Fashion Week coverage over and over.
 
@@ -18,7 +18,7 @@ Then comes the best part, the shopping.  This year I did what I usually do - g
 
 OMG this coat. This coat is my favorite thing I bought this year and is reserved for fashion events and date nights with my sweetheart.
 
-I got it in NYC during my book launch event with consumer press. I was walking through SoHo and I saw it in the window of a little boutique called [3NY](http://www.3nyboutiques.com/). I practically sprinted across the street to investigate. It looked steampunk, futuristic, elegant…and terrible, impractical white. I had to have it.  It’s by an independent designer named SoHung (Tom) Tong of [SoHung Designs](http://www.sohungdesigns.com/press.html) who went to Parson's School of Design and his works are legit pieces of art. Each one is hand-made and one of a kind. I am wildly in love with his work.
+I got it in NYC during my book launch event with consumer press. I was walking through SoHo and I saw it in the window of a little boutique called [3NY](http://www.3nyboutiques.com/). I practically sprinted across the street to investigate. It looked steampunk, futuristic, elegant...and terrible, impractical white. I had to have it.  It’s by an independent designer named SoHung (Tom) Tong of [SoHung Designs](http://www.sohungdesigns.com/press.html) who went to Parson's School of Design and his works are legit pieces of art. Each one is hand-made and one of a kind. I am wildly in love with his work.
 
 I wore this to the Rachel Zoe show at Bellevue Fashion Week and just random people kept asking where it was from. I felt so bad I didn’t have cards to give credit to Tom. The man is a genius. I will be making a stop into both 3NY and Tim's boutique every chance I get for sure.
 

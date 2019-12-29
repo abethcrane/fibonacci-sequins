@@ -10,7 +10,7 @@ field: Tech
 image: '/images/posts/2015/10/IMG_3473.jpg'
 ---
 
-*When in Madrid…post about Madrileñas! Since Dona has been in Spain this week on a crazy European book and speaking tour, we thought this was exactly the right time to debut one particular wonderful lady we met this summer. We met Dana when she was an intern and loved her effortless yet chic style. As Dona walked around Madrid for the last 30 hours, she realized this is precisely what everyone in this city embodies as well. The focus on clean lines, solid colors in highly flattering, luxurious fabrics is almost an obsession in Madrid. There is precisely zero sloppy street style to be seen! We shouldn’t be surprised, seeing as Spain is the birthplace of our favorite brands for un-basic basics such as Zara, Mango, Camper and for fun prints, Desigual and Cuesto.*
+*When in Madrid...post about Madrileñas! Since Dona has been in Spain this week on a crazy European book and speaking tour, we thought this was exactly the right time to debut one particular wonderful lady we met this summer. We met Dana when she was an intern and loved her effortless yet chic style. As Dona walked around Madrid for the last 30 hours, she realized this is precisely what everyone in this city embodies as well. The focus on clean lines, solid colors in highly flattering, luxurious fabrics is almost an obsession in Madrid. There is precisely zero sloppy street style to be seen! We shouldn’t be surprised, seeing as Spain is the birthplace of our favorite brands for un-basic basics such as Zara, Mango, Camper and for fun prints, Desigual and Cuesto.*
 
 *So how did a native Madrileña like Dana end up in Seattle? Read on to find out!*
 

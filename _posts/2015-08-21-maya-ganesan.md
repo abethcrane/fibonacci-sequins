@@ -30,7 +30,7 @@ Outside of all that, I love design and typography, *Doctor Who*, Shakespeare, w
 
 *Blue skirt + black top + blue bracelet + bow necklace: *
 
-The skirt is a personal favorite of mine, one that I’ve worn to so many events and trips – I love the way the fabric moves, and the colors are so vibrant! The blue bracelet is one that my sister got for me when she was in Greece, and the bow necklace I picked up in Philadelphia at a conference I was speaking at. I got one for my sister, too, so we can match whenever we want to…
+The skirt is a personal favorite of mine, one that I’ve worn to so many events and trips – I love the way the fabric moves, and the colors are so vibrant! The blue bracelet is one that my sister got for me when she was in Greece, and the bow necklace I picked up in Philadelphia at a conference I was speaking at. I got one for my sister, too, so we can match whenever we want to...
 
 *White and black tank top + denim jacket + jeans + boots:*
 
@@ -49,7 +49,7 @@ About five years ago, I decided I was tired of living in constant awe of my well
 
 {% responsive_image path: "images/posts/2015/08/IMG_1771-683x1024.jpg" %}
 
-There's a really common misconception – one that I, admittedly, subscribed to for a long time – that in order to be successful and happy in a STEM field, you have to be naturally good at it, or you have to have been doing it since you could walk. As I meet more people in the STEM fields, I discover that a lot of them didn't envision their careers when they were little kids; in fact, many of them didn’t expect to end up where they did. I've met people who got foreign language majors, people who did a complete 180 on their career choice, people who have hopped around in different jobs… Everyone has his or her own path to getting to a STEM field, and that’s part of the growing diversity that makes these industries continually stronger. The only prerequisite for succeeding at STEM is enthusiasm!
+There's a really common misconception – one that I, admittedly, subscribed to for a long time – that in order to be successful and happy in a STEM field, you have to be naturally good at it, or you have to have been doing it since you could walk. As I meet more people in the STEM fields, I discover that a lot of them didn't envision their careers when they were little kids; in fact, many of them didn’t expect to end up where they did. I've met people who got foreign language majors, people who did a complete 180 on their career choice, people who have hopped around in different jobs... Everyone has his or her own path to getting to a STEM field, and that’s part of the growing diversity that makes these industries continually stronger. The only prerequisite for succeeding at STEM is enthusiasm!
 
 Personally, it has taken me a long time to figure out what I want to do with my life, and I'm still not entirely sure what my career is going to be. But I know that I want to spend my life doing something that has a positive impact on the world, and that goal is what motivates me every single day!
 

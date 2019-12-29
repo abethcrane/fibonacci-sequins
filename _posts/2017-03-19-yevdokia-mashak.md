@@ -77,7 +77,7 @@ Yes!
 
 There is plenty of information and advice out there about how to get into your chosen STEM field: what schools to go to, what to study, how to interview, and how to be successful in your career once you’re there. Do that, fine, but while you’re doing it, LIVE.
 
-Have hobbies… or even other professions. Spend time with your family (blood or chosen). Meet new people. Travel. Do whatever is important to you.
+Have hobbies... or even other professions. Spend time with your family (blood or chosen). Meet new people. Travel. Do whatever is important to you.
 
 For example, school helped me become a pretty good programmer, but what helps me be a creative programmer who can understand the needs of a wide variety of people is having access to the different perspectives I’ve acquired through my hobbies (crocheting, dance, fashion), other jobs (teaching, daycare, running an online yarn store), being to other places (Australia, China), and interacting with the people in my life and that I meet day to day.
 

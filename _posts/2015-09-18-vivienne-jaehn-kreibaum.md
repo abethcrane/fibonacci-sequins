@@ -59,7 +59,7 @@ Can you guess who designed this dress? I can’t! It was a lucky find at the Eas
 
 Sheer fabric is intriguing, and I use that feature of the piece to take the outfit from work to date night. Floral is not to be underestimated, because it really changes the mood of an outfit and makes me feel like I fit into the natural environment.
 
-The earrings that I like to match with this outfit remind me of a solar system, or a beautiful illustration of centripetal force. But I digress… it is amazing what you can find when digging through your mother’s or grandmother’s collection of jewelry!
+The earrings that I like to match with this outfit remind me of a solar system, or a beautiful illustration of centripetal force. But I digress... it is amazing what you can find when digging through your mother’s or grandmother’s collection of jewelry!
 
 ### How did your style evolve to what it is now?
 
@@ -78,7 +78,7 @@ Earrings are typically my only accessory, and I love lace and high-waisted or hi
 
 {% responsive_image path: "images/posts/2015/08/IMG_3694-2-683x1024.jpg" %}
 
-Since I mostly shop consignment, I don’t often purchase from big brands. But that doesn’t mean I haven't cultivated an indulgent Instagram following for companies like Kit and Ace (ethically produced cashmere), For Love and Lemons (abundantly lacey clothing and lingerie), Freddy (jeans that are girl’s butt's best friend), ALO Yoga (great for working out, dance, and… yoga!)
+Since I mostly shop consignment, I don’t often purchase from big brands. But that doesn’t mean I haven't cultivated an indulgent Instagram following for companies like Kit and Ace (ethically produced cashmere), For Love and Lemons (abundantly lacey clothing and lingerie), Freddy (jeans that are girl’s butt's best friend), ALO Yoga (great for working out, dance, and... yoga!)
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
