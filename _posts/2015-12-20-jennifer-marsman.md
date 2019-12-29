@@ -5,7 +5,7 @@ date: 2015-12-20 10:24
 author: Beth Crane
 tags: [industry-veterans]
 location: Texas
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5045.jpg'
+image: '/images/posts/2015/11/IMG_5045.jpg'
 ---
 
 *Dona's had the pleasure of knowing OF Jennifer Marsman for many years, but only had the pleasure of meeting this lovely, brilliant, hilarious lady during during a rendition of her infamous [Career Advice To the Tune of Glee](http://blogs.msdn.com/b/jennifer/archive/2014/10/07/career-advice-secrets-to-success-in-the-style-of-glee.aspx). Since then, Dona knew they had to be best friends forever. Read on to find out more about Jennifer's amazing job, her style and her advice for the next gen of people who want her job!*
@@ -18,7 +18,7 @@ On a personal note, I’m happily married with 3 incredible kids.  I love readi
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5054-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5054.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5054-1024x683.jpg" %}
 
 Dona and Beth caught up with me in Houston, where we were all participating in the [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org/).  Unfortunately, that was near the end of a month of travel for me, so for this impromptu photo shoot, I didn’t bring a wide range of clothing.
 
@@ -30,7 +30,7 @@ In terms of jewelry, I wear two rings that I never take off: my wedding ring on 
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5052-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5052.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5052-1024x683.jpg" %}
 
 I have to speak at a lot of conferences in my role at work.  When I first started out, I dressed more "business casual" in skirts or nice slacks.  After being asked if I was in sales or recruiting a million times, I started wearing jeans and t-shirts to fit in with the "developer" guys.  This is sad, but there was a noticeable difference in the way I was treated when I looked the part.  It’s great that Dona and Beth are leading this charge with their blog, highlighting the fundamental idea behind [\#iLookLikeAnEngineer](https://medium.com/the-coffeelicious/you-may-have-seen-my-face-on-bart-8b9561003e0f), that we come in lots of different looks which are equally valid.
 
@@ -40,13 +40,13 @@ Finally, let’s discuss maternity fashion!  There’s a major style evolution 
 
 ### Do you have any style icons or favorite brands?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5089-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5089.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5089-683x1024.jpg" %}
 
 If I could choose one person’s entire closet to steal, it would be Kate Middleton. (I’m trying to get fascinators to catch on in the US…no luck yet!) I like tailored, classic pieces. Currently, in the fall, I like layering a blazer or a jacket over a top with jeans, and adding a scarf for extra elegance (and warmth!). Another go-to look is leggings with a long sweater and boots. (This is super comfy when you’re just working from home.)
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5100-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5100.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5100-683x1024.jpg" %}
 
 I work with students often in my role.  I’ve been asked for advice enough that I decided to have fun with it, and created a presentation where [I map popular songs to career advice](http://blogs.msdn.com/b/jennifer/archive/2014/10/07/career-advice-secrets-to-success-in-the-style-of-glee.aspx).
 
@@ -60,7 +60,7 @@ Above all, find your passion.  There are so many cool subfields just in compute
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5136-1-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5136-1.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5136-1024x683.jpg" %}
 
 When I was a software developer working for Microsoft in Redmond, we built a Natural User Interface Platform.  I had just graduated from college and was the most junior developer on the team, so at the beginning, I owned Logging (whoo hoo!).  But I set out to do the BEST LOGGING EVER, and because I contributed quality work, I continued to get more and more responsibilities.  By the end of my time on that team, I was developing our intent processor for grouping clusters of similar search sessions together, for which I was awarded a patent.  (So whatever you are doing – do it 110%.)
 
@@ -70,13 +70,13 @@ Finally, I’m extremely proud of my 3 kids.  They amaze me every day with thei
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5179-699x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5179.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5179-699x1024.jpg" %}
 
 The technology field is sometimes portrayed as very isolated work.  In the media, we see programmers holed up in their offices (or their basements) cranking out code.  We do this sometimes, but in reality, building software is very much a team sport.  As a software developer, I worked daily with program managers who helped chart the vision and specify the software’s behavior and with testers who would use very creative techniques to catch as many bugs as possible before the software went out the door.
 
 ### Anything else you'd like to share with the audience?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5105-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5105.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5105-683x1024.jpg" %}
 
 Believe in yourself! There is a phenomenon known as impostor syndrome, in which high-achieving people feel like impostors or frauds that are not truly deserving of their success. They feel like they are fooling everyone else into believing they are more intelligent than they actually are, and will one day be exposed as an impostor. Impostor syndrome affects people across the board, but it is especially common in women.
 
@@ -88,7 +88,7 @@ In my job, I have seen so many success stories, especially in the "women in tech
 
 I use Facebook for personal stuff (i.e. pictures of my kids) and Twitter for work-related stuff.  If you are interested in machine learning or other tech topics, you are welcome to [follow me on Twitter](http://twitter.com/jennifermarsman) or subscribe to [my blog](http://blogs.msdn.com/jennifer).
 
-*We are simply obsessed with Jen's GitHub belt (must have!), film noir-esque photo shoot (a first for us!) and fantastic, practical career advice. We love that this powerful woman is a technical overachiever as well as being a dedicated parent and an excellent friend. We did this photoshoot, literally by cellphone light outside the Grace Hopper conference center before and evening of networking and learning. That kind of multi-tasking is what Jennifer excels at and a skill we admire tremendously. Till next time! *
+*We are simply obsessed with Jen's GitHub belt (must have!), film noir-esque photo shoot (a first for us!) and fantastic, practical career advice. We love that this powerful woman is a technical overachiever as well as being a dedicated parent and an excellent friend. We did this photoshoot, literally by cellphone light outside the Grace Hopper conference center before an evening of networking and learning. That kind of multi-tasking is what Jennifer excels at and a skill we admire tremendously. Till next time! *
 
 *Love,*
 

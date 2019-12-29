@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3473.jpg'
+image: '/images/posts/2015/10/IMG_3473.jpg'
 ---
 
 *When in Madrid…post about Madrileñas! Since Dona has been in Spain this week on a crazy European book and speaking tour, we thought this was exactly the right time to debut one particular wonderful lady we met this summer. We met Dana when she was an intern and loved her effortless yet chic style. As Dona walked around Madrid for the last 30 hours, she realized this is precisely what everyone in this city embodies as well. The focus on clean lines, solid colors in highly flattering, luxurious fabrics is almost an obsession in Madrid. There is precisely zero sloppy street style to be seen! We shouldn’t be surprised, seeing as Spain is the birthplace of our favorite brands for un-basic basics such as Zara, Mango, Camper and for fun prints, Desigual and Cuesto.*
@@ -22,13 +22,13 @@ I have loved art since I can remember and wanted to be a painter/artist/graphic 
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3656.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_3656.jpg" %}
 
 I am wearing a [dress](http://amzn.to/1WbBkyF) from Loft, which means very little since basically everything I own is from there. I love solid colors, among which olive greens and teals are my favorite. Same as with prints, I tend to prefer simple accessories so when I bought this [necklace](http://amzn.to/1k1yDDI) I had to wait for around 4 months to build the courage to wear it outside. However, I can't live without my [Michael Kors' watch](http://amzn.to/1jHbBCJ) and my purse from Asos :)
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3661.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_3661.jpg" %}
 
 In Spain, everyone is **really** into fashion (Like **really**. Like ***grocery-shopping-really)*** so I feel like coming to college made me give a lot less damns about it. I really like outfits I can wear both in the States and back at home and look "nice and presentable but not a try hard" in both, which happens to be very hard. (Toms, Rainbow sandals, that black basic NorthFace that every girl (including me) has... are huge no-no's in Spain, unless you are going hiking? Maybe a nature expedition far away from cameras?)
 
@@ -40,7 +40,7 @@ As I said before, I dream about Loft clothes (probably because they send way too
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3459-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3459-683x1024.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_3459-683x1024.jpg" %}
 
 Believe in yourself and remind yourself every day how kickass you are (fake it, till you make it). If you wake up every morning believing it, it will show in the confidence you do things, remind you that you should speak your mind and will also help other believe in you and your ideas.
 
@@ -48,7 +48,7 @@ Sometimes, this field might feel like it's not made for you and be intimidating.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3488-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_3488-1024x683.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_3488-1024x683.jpg" %}
 
 [https://instagram.com/dnicolaeva](http://instagram.com/dnicolaeva) & [goodreads.com/dnicolaeva](http://goodreads.com/dnicolaeva)
 

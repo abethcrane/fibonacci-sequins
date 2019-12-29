@@ -7,14 +7,14 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2392.jpg'
+image: '/images/posts/2015/08/IMG_2392.jpg'
 ---
 
 We reached out to Karla Larriva to do a photo shoot with us and she brought along her friend Sophia Pandey as moral support and personal stylist. These two met while doing internships in Microsoft's IT department and immediately became good friends.  We had a really fun photo shoot showing off both of their passions, talents and well as penchants for awesome cocktail rings!
 
 ### Tell us a little about you.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2392-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2392.jpg) Karla on the right:  Shirt: Worthington (Similar [here](http://amzn.to/1NWQJSQ))/ Karla's Necklace: Ecuador  (Similar [here](http://amzn.to/1UqM4IE))/ Karla's Jeans: Target  (Similar [here](http://amzn.to/1JMcij5))/ Karla's Shoes: Payless Shoes (Similar [here](http://amzn.to/1NWRpYp), [here](http://amzn.to/1UqMkHD) and [here](http://amzn.to/1NWRCLk)) / Sophia on the left: Sweater: Nordstrom (Similar [here](http://amzn.to/1UqMuyT))
+{% responsive_image path: "images/posts/2015/08/IMG_2392-1024x683.jpg" caption: "Karla on the right: Shirt: Worthington / Necklace: Ecuador / Jeans: Target / Shoes: Payless Shoes<br />Sophia on the left: Sweater: Nordstrom" %}
 
 **Karla:** I was born and raised in Ecuador, although I'm currently living in Utah pursuing a Computer Engineering degree at Brigham Young University in Provo. This Summer I'm a Program Manager intern for ECO-Operations under MSIT, where I'm in charge of the well-being of a project which will be used to report service health of systems in our organization.
 
@@ -28,7 +28,7 @@ I love being able to go to new places around the world and embrace new cultures 
 
 ### Tell us about what you're wearing.
 
-[![Shirt: / Necklace: / Skirt: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2600-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2600.jpg) Blouse: H&M (Similar [here](http://amzn.to/1UqMG13)), Skirt: Similar [here](http://amzn.to/1JMd0wE) / Necklace: Forever21
+{% responsive_image path: "images/posts/2015/08/IMG_2600-683x1024.jpg" %}
 
 **Karla:** My jewelry is made of [Tagua nut](http://amzn.to/1UqMONS) (aka vegetable ivory), a common type of jewelry in Ecuador (similar necklace [here](http://amzn.to/1KqzCt9)).
 
@@ -38,7 +38,7 @@ My more formal outfit is something that I usually wear for big meetings or Chur
 
 ### How did your style evolve to what it is now?
 
-[![Jacket: / Shirt: / Jeans:](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2552-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2552.jpg) Jacket: Purchased in Venice (Similar [here](http://amzn.to/1UqN4wr)) / Shirt: Nordstrom (Similar [here](http://amzn.to/1KqBfac)) / Jeans: Seven for all Mankind  (Similar [here](http://amzn.to/1KqBx0V))/ Shoes: Joe's Jeans (Similar [here](http://amzn.to/1KqBx0V) and [here](http://amzn.to/1ihnT3D))
+{% responsive_image path: "images/posts/2015/08/IMG_2552-683x1024.jpg" caption: "acket: Purchased in Venice / Shirt: Nordstrom / Jeans: Seven for all Mankind / Shoes: Joe's Jeans" %}
 
 **Karla: **I went through different phases of style throughout High School until I found the type of fashion that I like: playful and chic. Two examples;
 
@@ -50,7 +50,7 @@ In addition, I love pokemon, digimon, anime, etc. I always carry with me my poke
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![Shoes: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2608-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2608.jpg) Shoes: Payless Shoe Source
+{% responsive_image path: "images/posts/2015/08/IMG_2608-683x1024.jpg" %}
 
 **Karla:** Get into the field! If you have passion, STEM isn't as hard as people think - so don't let what society says define you :)
 
@@ -62,7 +62,7 @@ My overall advice - don’t make assumptions about what you like and dislike bef
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![Glasses: / Headscarf: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2579-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2579.jpg) Glasses: Dolce & Gabbana / Headband: American Eagle
+{% responsive_image path: "images/posts/2015/08/IMG_2579-1024x683.jpg" caption: "Glasses: Dolce & Gabbana / Headband: American Eagle" %}
 
 **Sophia: **I couldn’t narrow it down to just one, so here are my two proudest project accomplishments thus far:
 
@@ -71,7 +71,7 @@ My overall advice - don’t make assumptions about what you like and dislike bef
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![Karla's Ring: / Sophia's Ring: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2461-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2461.jpg) Karla's Ring (bottom): ABSADITagua
+{% responsive_image path: "images/posts/2015/08/IMG_2461-683x1024.jpg" %}
 
 - [Sophia's Instagram](https://instagram.com/sophiapandey/)
 - [Sophia's Twitter](https://twitter.com/SophiaPandey19)

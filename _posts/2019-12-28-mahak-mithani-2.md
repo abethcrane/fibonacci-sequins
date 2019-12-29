@@ -6,7 +6,7 @@ author: Beth Crane
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6821.jpg'
+image: '/images/posts/2019/12/IMG_6821.jpg'
 ---
 
 ### Tell us a little about you?
@@ -17,7 +17,7 @@ I went to Texas A&M University where I got my Bachelor’s in Computer Science. 
 
 ### How has your style evolved to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6804-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6804-683x1024.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6804.jpg" %}
 
 It was a rough transition from broke college student to paycheck-receiving techie, and my wardrobe was definitely affected. In school, I shopped from budget-friendly places like Forever 21, H&M, Rue 21, Plato’s Closet, and Etiquette, and even continued to do so after I began working. It took a few unfortunate incidents with my washer-dryer to learn that these clothes were not the fittest to survive. Eventually, I changed my perspective and began to value quality of my clothes over quantity. This meant saying no to buy-one-get-one-for-$1 sales, but that was probably for the best. Sometimes I’m still shocked at my receipt after a shopping spree, and sometimes I avoid wearing my nice clothes, saying they’re only for a "special occasion." But when you realize that you don’t need a special occasion to dress up, that’s when the next part of your life begins.
 
@@ -27,13 +27,13 @@ My friends and coworkers can tell when I’m not feeling my best just by the sho
 
 ### What are you working on at the moment, and what do you love about it?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6908-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6908-1024x683.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6908.jpg" %}
 
 I’m currently working on Microsoft Dynamics 365 Product Visualize. It’s a mobile iOS application that uses mixed reality to make the sales process quicker and more efficient. I love that I get to build real-life applications of mixed reality for the enterprise world. I’ve never really been a ‘gamer,’ so I’m actually much more in my element making a business application than a first-person shooter game.
 
 ### What do you wish you'd known when you were studying?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6796-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6796-1024x683.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6796.jpg" %}
 
 Computer Science was rough. I went through elementary and high school loving math and science. Subjects and studying came easy to me. I was fortunate enough to consistently make good grades and rank first in my class. However, I never took a Computer Science course in school, despite choosing it as my major when applying to universities. When I began college, I was intimidated by all the boys in my class who had been coding for years now and knew way more, or at least acted like they did. This was the first time that learning wasn’t coming naturally to me. I wasn’t doing well and I was scared to ask for help. I even made up my mind to change majors. I sat down with my professor and told her how I was feeling. She was upset for a second, but asked me if this was because I was feeling intimidated by certain individuals in class. I sheepishly admitted I was. She told me that sometimes, some people speak very loudly to appear smarter, but they’re not. She reassured me that there will come a point where their extent of Computer Science knowledge ends, and they will quiet down. She also told me that I’m actually performing very well and that I shouldn’t give up. That bit of reassurance was enough to keep me in the major, however difficult the next few years were. Admittedly, I was always better at theory and weaker in application of what I learned; I understood the subject, but always found it difficult to code successfully.
 
@@ -45,7 +45,7 @@ Secondly, I learned about my personal obstacles in the workplace. I grew up bein
 
 ### How did you land where you are now? Did you have a plan?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6788-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6788-683x1024.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6788.jpg" %}
 
 Funny you should ask that! I actually recounted my path to the Mixed Reality team on my website.
 
@@ -65,7 +65,7 @@ A few months ago I had an incident with a manager on my team. The whole experien
 
 ### What's a project you've worked on that you're proud of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6849-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6849-683x1024.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6849.jpg" %}
 
 Last year, I had the opportunity to demo one of my sister products, Remote Assist, on stage during Satya’s corenote at Inspire. I spoke in the T-Mobile arena in Las Vegas and over 40,000 people watched in person and online. It was an incredible opportunity to represent the organization I work for and I was extremely humbled to have been chosen. You can check out the video below, or [on my website.](http://www.mahakmithani.com/)
 
@@ -74,7 +74,7 @@ Last year, I had the opportunity to demo one of my sister products, Remote Assis
 
 ### What is the best way for people to connect with you?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6921-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2019/12/IMG_6921-1024x683.jpg)
+{% responsive_image path: "images/posts/2019/12/IMG_6921.jpg" %}
 
 You can check out my website at [mahakmithani.com](http://mahakmithani.com/)
 

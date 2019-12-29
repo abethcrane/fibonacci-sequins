@@ -5,7 +5,7 @@ date: 2016-01-04 20:06
 author: Beth Crane
 tags: [Student]
 location: Edinburgh
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6682.jpg'
+image: '/images/posts/2015/12/IMG_6682.jpg'
 ---
 
 *Beth was lucky enough to go on a whirlwind recruiting trip to Edinburgh in November, where she met some fabulous Comp Sci students - you'll see their profiles over the next few months.*
@@ -22,7 +22,7 @@ Five things I love are [Matt Corby](http://mattcorby.com.au/splash/telluric), Bu
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6758-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6758.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6758-683x1024.jpg" %}
 
 In this outfit, I'm wearing a vintage [wool cape](http://amzn.to/1RdtM0X), a thrifted [silk blouse](http://amzn.to/1RdtwyV), and a [denim skirt](http://amzn.to/22I08o5) from Monki.
 
@@ -30,7 +30,7 @@ In my more colorful outfit I have a old [Petit Bateau raincoat](http://amzn.to/
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6702-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6702.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6702-1024x683.jpg" %}
 
 I got really into thrift shopping when I was little - I'd say around age 11. I've picked up some pretty interesting pieces over that time; my favorite is an old belt with gold Egyptian landmarks on it that doesn't close properly so I've never worn it.
 
@@ -38,7 +38,7 @@ I'm pretty into art, so I've always wanted to have a unique curated look. I've n
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6796-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6796.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6796-1024x683.jpg" %}
 
 Before I came to university, I hadn't done any programming or really anything related to Computer Science. I based my decision on the fact that I really liked math and I really liked sci-fi, which in retrospect was not the best idea.
 
@@ -48,7 +48,7 @@ Also don't base your degree choices on your favourite TV shows.
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6731-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6731.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6731-1024x683.jpg" %}
 
 I wouldn't really say there's any one thing I'm proudest of, but I'm pretty excited about lots of things!
 
@@ -60,7 +60,7 @@ I think STEM fields have a massive impact on the world and it's really important
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6717-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6717.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6717-1024x683.jpg" %}
 
 I've gotten a lot of weird reactions when I say I do Computer Science - sometimes even disbelief. One guy told me to switch course; he thought I'd do better in journalism or something like that. There's a lot of stigma around studying Computer Science, and the stereotype that it's very antisocial, geeky field is something that I was worried about when applying.
 
@@ -68,7 +68,7 @@ However, I've met so many super cool people, and I'm really happy I chose it. Th
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6737-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/12/IMG_6737.jpg)
+{% responsive_image path: "images/posts/2015/12/IMG_6737-1024x683.jpg" %}
 
 I'm not super active on social media, but you can follow me on Instagram ([1996anders](http://instagram.com/1996anders)) or find me on [LinkedIn](https://uk.linkedin.com/in/lina-andersson-02772410a)! I also have a [pretentious Tumblr](http://texas1996.tumblr.com).
 

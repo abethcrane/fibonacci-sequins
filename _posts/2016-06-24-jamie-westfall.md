@@ -5,7 +5,7 @@ date: 2016-06-24 16:56
 author: Beth Crane
 tags: [Student]
 location: Florida
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8914.jpg'
+image: '/images/posts/2016/06/IMG_8914.jpg'
 ---
 
 *Beth had the pleasure of meeting Jamie during a speaking engagement in Florida. She was immediately taken by this young woman's brightly coloured outlook on life...and then discovered our favorite thing: a multi-hyphenate!  Read on to hear about how Jamie (LITERALLY) juggles her fascinating life. *
@@ -20,9 +20,9 @@ I generally spend my free time reading, making art, and seeing bands perform. I 
 
 I’m excited to return to school in the fall, but for now I’m really enjoying the summer - I’m in Indiana for an internship with Cummins doing 3D design and analysis for engine parts. The specific division of the company I work in identifies issues with old models of parts and designs ways to refurbish them when broken so that they can be salvaged instead of replaced with new parts. It’s been an amazing experience so far, and I’ve definitely been enjoying getting to explore a different part of the country.
 
-**Describe yourself in one word**
+### Describe yourself in one word
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8848-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8848.jpg)
+{% responsive_image path: "images/posts/2016/06/IMG_8848-683x1024.jpg" %}
 
 "Average." I mean, I have my own hobbies, personality traits, and style preferences, but then again, so does everyone else. My characteristics aren’t unique to me, I believe that we mostly become a reflection of the people and things around us. However, we do have the ability to filter through it all and attempt to make sense of it in our own ways.
 
@@ -30,7 +30,7 @@ I draw many aspects of my personal philosophy from absurdism. I try my best to e
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8859-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8859.jpg)
+{% responsive_image path: "images/posts/2016/06/IMG_8859-1024x683.jpg" %}
 
 I like clothing that has character, which is why I enjoy customizing mine in my free time. Whenever something rips or gets worn out, I sew/glue it back together, add a patch, or make more rips so that the rest of the clothing item matches. In this manner, I have altered my black long sleeved shirt, pair of jeans, backpack, tights, creepers, red flannel shirt, and vans that I’m wearing in the photos.
 
@@ -40,7 +40,7 @@ Second outfit: I got these [pants](https://www.facebook.com/gopaliimports/) at a
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8680-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8680.jpg)
+{% responsive_image path: "images/posts/2016/06/IMG_8680-683x1024.jpg" %}
 
 I love wearing bright colors and mixed patterns. To me, the goal of fashion should not be to turn ourselves into some untouchable image of perfection, but rather to give other people a reason to come up and talk to us. Projecting your personality onto your clothing makes it much easier for this to happen; complimenting or asking about someone’s outfit is an easy doorway to starting a conversation.
 
@@ -48,13 +48,13 @@ My current style is an accumulation of all of the different stylistic phases I�
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8783-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8783.jpg)
+{% responsive_image path: "images/posts/2016/06/IMG_8783-1024x683.jpg" %}
 
 My advice is: don’t worry about it. You have plenty of time to figure out what you want to do in college. And don’t be afraid to change majors—if you realize you don’t enjoy STEM jobs, find something that you do enjoy. Let your interests come first and you’ll find a way to turn them into a career.
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8767-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/06/IMG_8767.jpg)
+{% responsive_image path: "images/posts/2016/06/IMG_8767-1024x683.jpg" %}
 
 I haven’t done anything particularly remarkable with my life, especially compared to all of the incredible people featured in this blog. Nevertheless, I try to enact change on a small level through my everyday life. I’m a vegetarian because factory farming results in horrific conditions for both the animals and factory workers alike. In our current system, the quality of life of factory workers is exploited for the financial gain of the few and the collective satisfaction of our taste buds. It’s not something we like to think about, but there are people spending 10+ hours a day performing repetitive and often hazardous labor being denied bathroom breaks and yet are still struggling to financially support their families because having a menial job is better than having no job. Too often I’ve found that fortunate people seem to think that their "success" in life (i.e, money) is gained entirely due to their own hard work and wit, rather than primarily an incredibly lucky combination of being born with intelligence and having access to resources; only around 10% of the global population has graduated from or is currently attending a college. I believe that globalizing higher education and equalizing the quality of life for all people should be a priority. This is the main reason I feel drawn to a career in computer engineering; full automation of work is necessary in order to realize this goal. The substitution of human labor with machines has been and will continue to be a challenging transition. Instead of meeting it with opposition, we need to recognize that it signifies a momentous achievement of mankind as a whole, and embrace the changes that are about to take place, beginning with shorter working hours and a shift in types of available jobs.
 

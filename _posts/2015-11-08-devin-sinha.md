@@ -7,7 +7,7 @@ tags: [early-career, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4371.jpg'
+image: '/images/posts/2015/11/IMG_4371.jpg'
 ---
 
 *After a bit of a hiatus due to a heavy travel fall, we are back! And we are back with a vengeance with one of the most talented tech dudes we know! Devin Sinha is not only an awesome software engineer, but also a hit musician, social media expert as well as being an all-around super friendly guy.  Dona loved working with him in Windows and when Devin brought his guitar into the office, [team meetings were awesomely musical](https://www.facebook.com/literati/videos/vb.2204306/10103858457941173/?type=2&theater). We couldn't resist the opportunity to kidnap Devin, drag him into a field and make him play a few of his hit songs for us while we did this profile. *
@@ -24,7 +24,7 @@ This year, I’ve been working on my second studio LP which will release in earl
 
 ### Tell us a little about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4457-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4457.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4457-683x1024.jpg" %}
 
 I’ve never considered myself to be too fashion forward – I’ve always liked clothing that is comfortable, fits well, and helps me express myself.  As a performer and entertainer, I try to find clothes that will match my musical style on stage – something that I would call a more classic style, as my music is a mix between Americana, contemporary folk, and indie rock. Here I'm wearing something I'd wear for a performance: the [shoes](http://amzn.to/20EF4xP) are Banana Republic, the [cardigan](http://amzn.to/1Pw8nNJ) is from Banana Republic's Heritage line and the [white v-neck shirt](http://amzn.to/1QctxCe) is from Nordstrom's Rail line.
 
@@ -32,13 +32,13 @@ Off stage,  I’m just as happy wearing Pumas, jeans from Gap and a t-shirt. Th
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4424-1-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4424-1.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4424-683x1024.jpg" %}
 
 Stem fields are exceptionally challenging and personally rewarding.  Oftentimes, engineering feels like you’re trying to solve a puzzle while at the same time building all the pieces.  You’ll be doing yourself a favor to study any subject that involves logic and analytics, but I strongly believe that math and science classes aren’t the only path you should take.  Some of my favorite classes in school were in philosophy, linguistics, and foreign language.
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4330-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4330.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4330-1024x683.jpg" %}
 
 Within my day jobs, my proudest product is contributing to the launch of Windows 10.  A flagship product at Microsoft, it’s used by literally hundreds of millions of people all over the globe *(Understatement! Devin is one of the star customer engagement and social media champions in Windows and frequently tweets cool new functionality from this [handle](https://twitter.com/windowsinsider)). * It’s amazing to think that I have helped create something the entire world uses every day.
 
@@ -46,13 +46,13 @@ Beyond that, the release of my albums is my proudest achievement, as it’s taki
 
 ### Are there any misconceptions about tech or STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4387-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4387.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4387-1024x683.jpg" %}
 
 I think there are still stereotypes of what it means to be a Software Engineer, or in STEM at all.  Many of my coworkers are some of the smartest, most fascinating people I know with a wide range of talents in and outside of work, and the idea that everyone in STEM is antisocial and just wants to sit at a desk all day is far from accurate.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4489-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4489.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4489-1024x683.jpg" %}
 
 I’m everywhere on social media!  Here are the places I like to hang out:
 
@@ -64,7 +64,7 @@ I’m everywhere on social media!  Here are the places I like to hang out:
 
 ### Anything else you'd like to share with the audience?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4255-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_4255.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_4255-683x1024.jpg" %}
 
 Don’t limit yourself to one thing in life.  If you have multiple passions, as I do with technology and music, pursue them all.  You’ll be busy, but never bored, and you’ll discover that you can achieve more than you imagined if you just take the first steps.
 

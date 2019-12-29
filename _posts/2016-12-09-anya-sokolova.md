@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9765.jpg'
+image: /images/posts/2016/12/IMG_9765.jpg'
 ---
 
 ### Tell us a little about you.
@@ -20,7 +20,7 @@ Besides that, I'm crazy for learning about other cultures. My dream is to speak 
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9793-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9793.jpg)
+{% responsive_image path: "images/posts/2016/12/IMG_9793-683x1024.jpg" %}
 
 The skirt I found in a small boutique in Utah. A pair of Converse is a must-have in my closet; by now, I have retired four pairs of this same model.
 
@@ -30,7 +30,7 @@ The jacket I got in Lithuania. No story behind the heels, they are just cute.
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9927-819x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9927.jpg)
+{% responsive_image path: "images/posts/2016/12/IMG_9927-819x1024.jpg" %}
 
 I think as a teenager I went through every hair color and every clothing style. At some point I decided not to choose one style but to have it all (sorry, capsule wardrobe fans). Right now my style can be described by two rules:
 
@@ -39,7 +39,7 @@ I think as a teenager I went through every hair color and every clothing style. 
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9963-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9963.jpg)
+{% responsive_image path: "images/posts/2016/12/IMG_9963-683x1024.jpg" %}
 
 If you think that STEM doesn't have what you're interested in, think again. There is so much more to it than coding, pizza, and computer games. I left STEM when I was 18 because I thought it was too limiting.
 
@@ -47,13 +47,13 @@ It took me five years to realize that it actually opens endless possibilities. Y
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9770-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9770.jpg)
+{% responsive_image path: "images/posts/2016/12/IMG_9770-1024x683.jpg" %}
 
 Weirdly, not a flashy one but the one I had to beat my head against the wall for the most - migrating a data mining pipeline onto a completely new technology. It sounds a little boring - let's pretend I said a toy fridge robot that comes to your office. I did that too.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9957-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/12/IMG_9957.jpg)
+{% responsive_image path: "images/posts/2016/12/IMG_9957-1024x683.jpg" %}
 
 I just started two travel photo accounts - @anyameetsworld! [instagram](http://instagram.com/anyameetsworld)
 

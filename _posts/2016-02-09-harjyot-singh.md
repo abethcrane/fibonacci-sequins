@@ -5,7 +5,7 @@ date: 2016-02-09 11:59
 author: Beth Crane
 tags: [Student, fashion-dudes]
 location: Edinburgh
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6503.jpg'
+image: '/images/posts/2016/01/IMG_6503.jpg'
 ---
 
 *Harry is the third of our five Edinburgh students in this series. When Beth asked around at the CS events for who she should profile, the unanimous response was for this guy right here, so you can guess how much fun the shoot was! Read on for sentences like "So naturally I play Guitar for an Indie/Alternative Rock band her*e." (Gosh, naturally!).
@@ -20,7 +20,7 @@ I'm also a lot into the fitness scene so you'll always spot me either at the gy
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6532-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6532.jpg)
+{% responsive_image path: "images/posts/2016/01/IMG_6532-1024x683.jpg" %}
 
 For my first outfit, I am wearing slim fit black [jeans](http://amzn.to/1KDwVF1) from Lee, A plain organic cotton [t-shirt](http://amzn.to/1KDx4YW) from h&m and some random [overcoat](http://amzn.to/1SejYE7) I picked up at the thrift store.
 
@@ -28,7 +28,7 @@ For the second, the overall things are the same except the shirt - It's a black 
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6434-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6434-1024x683.jpg)
+{% responsive_image path: "images/posts/2016/01/IMG_6434-1024x683.jpg" %}
 
 To begin with, when I was back in India, I never really paid attention to how I dressed or what I looked like. However once I got to UK, I saw how people expressed themselves with their clothing. I started exploring, and as a firm believer in the italian saying of* sprezzatura*, I really loved the elegance of 3 piece italian suits but also the care-free look of the street hipster style.
 
@@ -38,7 +38,7 @@ A thing I never really understood up until maybe a few months back is how impor
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6385-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6385.jpg)
+{% responsive_image path: "images/posts/2016/01/IMG_6385-683x1024.jpg" %}
 
 Don't let what people tell you deter you! You might find people who are better than you, know much more than you, or spend most of their time just doing STEM related things. Don't let that make you think that you aren't good enough!
 
@@ -48,7 +48,7 @@ Oh, and don't forget to live.
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6512-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6512.jpg) 
+{% responsive_image path: "images/posts/2016/01/IMG_6512-683x1024.jpg" %} 
 I haven't had a chance to really work on too many projects during my short term at university, but the one that comes to mind is GreatUniHack in Manchester, early 2015.
 
 GreatUniHack  is a 36-hour long hack that I and some friends decided to embark on. After much debate we decided to build a simple client that allows you to summarize and forward your emails as text messages. We wanted the basic functionality of being able to send/receive, but we also added in some cool features like being able to see the trend of emails you receive.
@@ -59,7 +59,7 @@ The best thing about the weekend was that I was able to help make my teammates'
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6415-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/01/IMG_6415.jpg)
+{% responsive_image path: "images/posts/2016/01/IMG_6415-1024x683.jpg" %}
 
 **I have often come across people who tell me I talk a lot for a computer science guy, and I think that's a big misconception. No, we don't all spend our lives in front of a computer screen, no we don't all* *obsess over the same pop culture things (anime, star wars, etc pick your poison), nor do we wear the same hoodie to lectures for a week!**
 

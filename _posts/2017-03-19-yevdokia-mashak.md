@@ -7,14 +7,14 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3893.jpg'
+image: '/images/posts/2017/03/IMG_3893.jpg'
 ---
 
 *Yevdokia Mashak is currently a Technical Artist working on Virtual/Mixed reality projects at Microsoft - which is where I was fortunate enough to run into her. She stops by my desk to say hi and update me on the status of her tiny desk plant Penelope once a week or so, and I'm always delighted to see what inspiring outfit she's come up with. I'm very excited to introduce you all to her;*
 
 ### Tell us a little about you.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3686-1024x639.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3686-1024x639.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3686-1024x639.jpg" %}
 
 I’m a steampunk programmer empowering creativity and self-expression wherever I can. At work, I empower artists by writing customized tools, plugins, and shaders. At home, I rearranged our apartment so that my husband ([Jacob Mashak](http://www.jacobmashak.com/bio.html), composer) and I each have a spacious creative studio. Everywhere I go, I wear steampunk clothes to show people that it’s safe to be self-expressed.
 
@@ -22,7 +22,7 @@ If right now you’re wondering, "What’s steampunk?", I’ll whet you’re cur
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3566-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3566-683x1024.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3566-683x1024.jpg" %}
 
 I think this outfit is one of my favorites. It's very steampunk, and it’s a good representation of all the different kinds of places I find my clothes. Bottom to top:
 
@@ -38,7 +38,7 @@ Oh, and in case you're curious, my hair was cut and colored by [Siddal](http://w
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_4070-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_4070.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_4070-683x1024.jpg" %}
 
 One day, it hit me that there’s no dress code at my job. I realized, "T-shirts, hoodies, and jeans aren’t the work uniform. I can wear whatever I want!" This epiphany blew my mind. I asked myself, "Okay, so if I could wear anything I want to work, what would I wear?" Myself answered immediately: "Steampunk!" So, I resolved to come in the next Monday in full steampunk regalia.
 
@@ -56,7 +56,7 @@ Over time, my entire wardrobe has transformed. I’ve worn some version of Victi
 
 ### Do you have any style icons or favorite brands?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3975-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3975.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3975-1024x683.jpg" %}
 
 Because of how broad some of the brands are that I use (Hearts & Roses, I’m looking at you), it would probably actually be more helpful to list the places that I shop. Aside from thrift stores like Good Will and Value Village, I’ve gotten most of my favorite clothing from:
 
@@ -71,7 +71,7 @@ I also currently have about two dozen corsets that I’ve collected from [Corset
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3563-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3563.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3563-1024x683.jpg" %}
 
 Yes!
 
@@ -83,7 +83,7 @@ For example, school helped me become a pretty good programmer, but what helps me
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3773-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3773.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3773-1024x683.jpg" %}
 
 Recently, that would probably be my Wacky Week project. On my [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) team at Microsoft, we got to try anything we wanted for one week, so long as it had something to do with HoloLens. I decided to try to demonstrate that we can already create truly immersive experiences with existing tech, so long as we’re careful about how we design those experiences.
 
@@ -91,13 +91,13 @@ My hypothesis was that if I made haptic gloves with vibrating motors in the fing
 
 ### Anything else you'd like to share?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3607-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3607.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3607-683x1024.jpg" %}
 
 "Be excellent to each other." – Bill S. Preston, Esq.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3724-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2017/03/IMG_3724.jpg)
+{% responsive_image path: "images/posts/2017/03/IMG_3724-1024x683.jpg" %}
 
 I’m not consistently on social media, but for what it’s worth you can certainly follow me on [Facebook](http://www.facebook.com/yevdokia).
 

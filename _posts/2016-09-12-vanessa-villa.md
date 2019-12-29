@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8879.jpg'
+image: '/images/posts/2016/09/IMG_8879.jpg'
 ---
 
 *We were won over instantly by Vanessa's versatile outfits - somehow grunge and chic at the same time? Read on to hear about how gummy bears help her program, and the ways she disconnects from the world.*
@@ -22,17 +22,17 @@ Whenever things start getting busy in the quarter, I make sure to go out to the 
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9040-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9040.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_9040-683x1024.jpg" %}
 
 My first outfit is very versatile. I wear it for those days that I have a presentation and want to go dancing later. Its comfortable and edgy with just a little bit of class.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8919-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8919.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_8919-1024x683.jpg" %}
 
 My second outfit is more on the daring side. I like to think that it's fun and certainly the best for exploring around. You never know when you are going to need to twirl or run around.
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9095-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9095-1024x683.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_9095-1024x683.jpg" %}
 
 When I first started playing around with different styles, I knew that I had to be comfortable in what I was wearing. I liked to think of myself as a bit of a rebel sometimes and quickly fell in love with the alternative/punk look. I also loved the iconic and classic looks of Coco Chanel. Why not wear pearls with your black skinny jeans and acid washed top? Lately, I have been experimenting with brighter colors and I can't wait to see how it goes.
 
@@ -40,7 +40,7 @@ I also can’t help but to have been influenced by my surroundings; I've become 
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9053-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9053.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_9053-683x1024.jpg" %}
 
 If your field punches you in the stomach (which it will…last minute assignments are the worst) , punch back and do it the way your gut tells you to - if that’s by eating gummy bears at a hackathon, cool! If it's by wearing a cowgirl hat while you code, that’s cool too!
 
@@ -48,7 +48,7 @@ Get an internship, shadow a professional, explore all of the field and find out 
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9077-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_9077.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_9077-1024x683.jpg" %}
 
 There was a project this past year where we had a client that wanted an app to count cell colonies in a petri dish. Between working on the problem with the assigned group and in a Computer Vision class, we made a kick ass algorithm that was better than anything currently available in the mobile app market. I really feel like that project gave us valuable experience in designing a product from start to finish for a client.
 
@@ -58,7 +58,7 @@ The algorithm was a great product but the experience and bonds created is what I
 
 ### Anything else you'd like to share with the audience?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8936-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8936-1024x683.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_8936-1024x683.jpg" %}
 
 Don't worry about what other people think and do what makes you happy!
 
@@ -68,7 +68,7 @@ Everybody has a different comfort setting and different interests, so acknowledg
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8891-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/09/IMG_8891.jpg)
+{% responsive_image path: "images/posts/2016/09/IMG_8891-683x1024.jpg" %}
 
 You can find Vanessa on [Facebook](https://www.facebook.com/vanesvilla) or [Instagram](https://www.instagram.com/vanessa_villa239/) :)
 

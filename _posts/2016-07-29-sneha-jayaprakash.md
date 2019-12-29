@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1416.jpg'
+image: '/images/posts/2016/07/IMG_1416.jpg'
 ---
 
 *Sneha joins our ranks as another socially-minded budding entrepreneur; she likes thrift clothes, is already tri-lingual, and her startup just kick-started $13,000. Pretty freaking cool, right? Read on for her story.*
@@ -20,7 +20,7 @@ My favorite aspect of software development is understanding how that technology 
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1473-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1473.jpg)
+{% responsive_image path: "images/posts/2016/07/IMG_1473-1024x683.jpg" %}
 
 I try to live sustainably, so most of my clothes come from a women’s clothing exchange group at UC San Diego, thrift stores, or small local vendors at street fairs. Reduce, reuse, recycle! I’m also really sentimental about clothing and jewelry that other people give me, so I tend to wear gifts more often than the clothes I buy for myself.
 
@@ -28,7 +28,7 @@ The red shirt was a gift from my grandfather, who passed away last year, the fla
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1344-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1344.jpg)
+{% responsive_image path: "images/posts/2016/07/IMG_1344-683x1024.jpg" %}
 
 Just go for it! Don’t overthink it and let yourself feel overwhelmed by the challenge. Everyone needs to start somewhere, and if STEM is what you’re passionate about, the best way to get involved is to immerse yourself in the field.
 
@@ -38,7 +38,7 @@ We live in the golden age of the Internet, and there are so many free resources 
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1239-819x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1239.jpg)
+{% responsive_image path: "images/posts/2016/07/IMG_1239-819x1024.jpg" %}
 
 Outside of work and school, I run a social good company called [Giventure](http://www.giventure.org/#about), with the goal of enabling anyone to volunteer anywhere, anytime. Our mobile and web platforms are your personal assistant for volunteering, helping you find community service opportunities with nonprofit organizations supporting your favorite causes.
 
@@ -46,7 +46,7 @@ Running Giventure has introduced me to some truly incredible opportunities; I wa
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1310-819x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2016/07/IMG_1310-819x1024.jpg)
+{% responsive_image path: "images/posts/2016/07/IMG_1310-819x1024.jpg" %}
 
 I post pictures of all of the octopuses I run across on my [Instagram as @simplysneha](http://instagram.com/simplysneha), and I’m on [Twitter as @thisissnehaaa](http://twitter.com/thisissnehaaa).
 

@@ -7,7 +7,7 @@ tags: [early-career, Design]
 location: Seattle
 company: Tableau
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5790.jpg'
+image: '/images/posts/2015/11/IMG_5790.jpg'
 ---
 
 *Alex graciously agreed to get up early on a Sunday morning and take Beth on a run-through of her regular weekday commute. Gallivanting around Fremont to find the most perfect lighting with this badass woman was a delight that we can't wait to share with you, so without further adieu...*
@@ -30,7 +30,7 @@ By day, I work as a UX Designer at Tableau solving amazing problems around data 
 
 ### Tell us about what you're wearing.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5658-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5658.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5658-683x1024.jpg" %}
 
 For my first outfit, I’m wearing a vintage London Fog [raincoat](http://amzn.to/1ScsJ1k) that I couldn’t pass up from the thrift store. I’m complimenting the boxy, dramatic look of the coat with a form-fitting dress and [Oxford shoes](http://amzn.to/1RvPihu). I like how the dress is understated enough to not compete with the coat, but can still stand on its own.
 
@@ -40,7 +40,7 @@ This third outfit is a little more formal. I’m wearing a [shirt](http://amzn.t
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5813-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5813.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5813-1024x683.jpg" %}
 
 My style has evolved from something I’ve envisioned for a long time but have never been able to execute. I grew up in a very conservative household where deviating from the norm was heavily looked down on. Every aspect of my appearance was monitored and I wasn’t allowed to do things like cut my hair short or wear certain styles.
 
@@ -54,7 +54,7 @@ It’s a continual journey to true self-assurance, but I’m a lot closer than I
 
 ### Do you have any style icons or favorite brands?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5797-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5685.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5797-1024x683.jpg" %}
 
 I’m most inspired by the people I see in my own neighborhood. The people of Seattle have a unique style that puts individuality and functionality over being sexy or attention-grabbing.
 
@@ -62,19 +62,19 @@ As for brands, I like the understated, classic style of American Apparel but don
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5685-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5685-1024x683.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5685-1024x683.jpg" %}
 
 About 90% of what you learn in school you will never use in the real world. About 90% of what you use in the real world you will never learn in school.
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5742-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5742.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5742-1024x683.jpg" %}
 
 During one freelance project, I designed the UX + UI + Visual library for an entire web application that serviced 3 very different user types in only 40 hours (the client had a time constraint). It was an insane week but to this day I consider it one of the strongest projects on my portfolio.
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5855-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5855.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5855-683x1024.jpg" %}
 
 When I was young, I was told that if you want a good STEM job you have to take it at a STEM-focused company. For example, if you wanted a good software engineering job, you should go to Microsoft.
 
@@ -88,7 +88,7 @@ My interest in print came about from my interests in art and drawing, and a stro
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5757-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/11/IMG_5757.jpg)
+{% responsive_image path: "images/posts/2015/11/IMG_5757-1024x683.jpg" %}
 
 Instagram: @baneyro 
 

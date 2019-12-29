@@ -6,14 +6,14 @@ author: Beth Crane
 tags: [Student, fashion-dudes]
 location: Sydney
 field: Science
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2311.jpg'
+image: '/images/posts/2015/09/IMG_2311.jpg'
 ---
 
 *Beth went to UNSW with Matt and took advantage of being back in Sydney to hit him up for a photo shoot. Matt's a fast-talking quantum physicist and theatre nerd who embodies the idea of form-following-function; his outfits don't just have to take him from the office to dinner, but also to messing with hardware and running rehearsals.*
 
 ### Tell us a little about you.
 
-[![Coat: / Shirt: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2011-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2011.jpg) Coat: Esprit (Similar [here](http://amzn.to/1Ol5fBU)), Shirt Similar [here](http://amzn.to/1Ol5s8m)
+{% responsive_image path: "images/posts/2015/09/IMG_2011-683x1024.jpg" caption: "Coat: Esprit" %}
 
 I'm a 4th year Physics and Computer Engineering student at [UNSW](http://www.unsw.com/) in Sydney, Australia, spending far too much of my time on totally unrelated pursuits.
 
@@ -27,7 +27,7 @@ But I spend most of my time doing theater; I've taken two major lead roles in m
 
 ### Tell us about what you're wearing.
 
-[![Headphones: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2349-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2349.jpg) Headphones: [AudioTechnica](http://amzn.to/1N9FrtQ)
+{% responsive_image path: "images/posts/2015/09/IMG_2349-1024x683.jpg" caption: "Headphones: [<a href='http://amzn.to/1N9FrtQ'>AudioTechnica</a>" %}
 
 The shirt is a good example of how I buy new clothes - I wandered past a pop-up factory clearance in the city years ago and it was on special, so I decided I needed another shirt.
 
@@ -41,7 +41,7 @@ It's also got huge lapels, and I have an entertaining tendency to hang my lanky 
 
 ### How did your style evolve to what it is now?
 
-![Jacket: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2330-1024x683.jpg) Jacket: Billabong (Similar for [men](http://amzn.to/1Ol6i4L) and [women](http://amzn.to/1Ol6AJ5))
+{% responsive_image path: "images/posts/2015/09/IMG_2330-1024x683.jpg" caption: "Jacket: Billabong" %)
 
 With very little prompting or effort - it's all very Form Follows Function. This is not to say that form is unimportant (people who think it is tend to look silly, and that has its own disadvantages), but things should look and be the way they are for a reason that's more than just lone aesthetics.
 
@@ -49,7 +49,7 @@ I tend to end up in coloured shirts+jeans+boots+jackets a lot because it's the m
 
 ### Do you have any style icons or favorite brands?
 
-[![Shoes: Palladium](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2015-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2015.jpg) Shoes: [Palladium](http://amzn.to/1JHhWUy)
+{% responsive_image path: "images/posts/2015/09/IMG_2015-1024x683.jpg" caption: "Shoes: Palladium" %}
 
 I'd like to specifically point out my boots and my headphones -
 
@@ -69,7 +69,8 @@ The one thing I will say about them is that the laces on my original pair were s
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![Shirt: / Jeans: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1950-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_1950.jpg) Jeans: Just Jeans
+{% responsive_image path: "images/posts/2015/09/IMG_1950-1024x683.jpg" caption: "Jeans: Just Jeans" %}
+
 
 Get Stuck In Immediately!
 
@@ -83,7 +84,7 @@ Don't wait till you're rich, and don't wait till university. Start doing cool sh
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![Jeans: Just Jeans / Jacket: Billabong / Shirt: ThinkGeek / Boots: Palladium](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2311-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2311.jpg) Jeans: Just Jeans / Jacket: Billabong / Shirt: ThinkGeek / Boots: Palladium
+{% responsive_image path: "images/posts/2015/09/IMG_2311-683x1024.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong / Shirt: ThinkGeek / Boots: Palladium" %}
 
 Definitely working at the quantum computing center.
 
@@ -99,7 +100,7 @@ Casual afternoon tasks at the center include attempting to become a semi-expert 
 
 ### What's a misconception about a STEM field that you'd like to clear up?
 
-![Jeans: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2112-1024x683.jpg) Jeans: Just Jeans / Coat: Esprit
+{% responsive_image path: "images/posts/2015/09/IMG_2112-1024x683.jpg" caption: "Jeans: Just Jeans / Coat: Esprit" %}
 
 QUANTUM PHYSICS IS NOT ABOUT CATS.
 
@@ -126,7 +127,8 @@ Those cross-discipline isomorphisms are super cool, but also are really interest
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![Jeans: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2328-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/09/IMG_2328.jpg) Jeans: Just Jeans / Jacket: Billabong
+{% responsive_image path: "images/posts/2015/09/IMG_2328-683x1024.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong" %}
+
 
 I write blogs and other things but haven't unified where I publish them yet. When I do, it'll be located at [doublestruck.me](http://doublestruck.me/)
 

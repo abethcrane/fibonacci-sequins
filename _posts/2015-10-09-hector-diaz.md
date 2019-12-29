@@ -7,7 +7,7 @@ tags: [early-career, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2901.jpg'
+image: '/images/posts/2015/10/IMG_2901.jpg'
 ---
 
 *This week’s Fibonacci Sequins star is very special to us because Dona hired Hector Diaz way back in the day for his first internship at Microsoft during an event in Mexico City.  Since then, she has loved watching that brilliant young student bloom into a successful software engineer, and also become a cornerstone in the men’s fashion scene as a star fashion blogger and collaborator!  Read on to see how Hector’s transformation happened and what’s next!*
@@ -27,21 +27,21 @@ Some of my other interests are concerts and film, which are also a big deal her
 
 Here you can see me wearing two outfits which are perfect for fall.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2719-819x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2719.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2719-819x1024.jpg" %}
 
-This first one is a very casual, almost professor-like look of sports jacket (similar [here](http://amzn.to/1jf3Bsk) and [here](http://www.clubmonaco.com/product/index.jsp?productId=65204516)), shirt (similar [here](http://amzn.to/1GzSDlS) and [here](http://www.clubmonaco.com/product/index.jsp?productId=58716146)) corduroy pants (similar [here](http://amzn.to/1GzSDlS) and [here](http://www.clubmonaco.com/product/index.jsp?productId=65203376)), and tie (similar [here](http://amzn.to/1GzSKOx)) - sports coats are coming in really strong this season. This one I got from Club Monaco, which is one of my favorite shops. The shirt I’m wearing is also from Club Monaco, and it has a flower print on it. I love wearing prints and playing around with color and patterns. This one in particular really caught my eye because it has beautiful colors, and the pattern almost creates a sense of movement. The corduroy pants are made of one of the warmest, most versatile fabrics you are going to find; it works well in every season except summer, is extremely comfortable, and it can look very formal or very casual depending on what you pair it with.
+This first one is a very casual, almost professor-like look of sports jacket , shirt  corduroy pants , and tie  - sports coats are coming in really strong this season. This one I got from Club Monaco, which is one of my favorite shops. The shirt I’m wearing is also from Club Monaco, and it has a flower print on it. I love wearing prints and playing around with color and patterns. This one in particular really caught my eye because it has beautiful colors, and the pattern almost creates a sense of movement. The corduroy pants are made of one of the warmest, most versatile fabrics you are going to find; it works well in every season except summer, is extremely comfortable, and it can look very formal or very casual depending on what you pair it with.
 
-To complement this look, I added an extra accessory, this embroidered bracelet from Club Monaco as well, and my favorite pair of brown shoes from Aldo (similar [here](http://amzn.to/1GzSSO0) and [here](http://www.aldoshoes.com/us/en_US/men/shoes/dress-shoes/c/221/HASU/p/34679816-28)). Notice how the belt matches the same color as the shoes - if there are any rules in menswear, this is one of the most important.
+To complement this look, I added an extra accessory, this embroidered bracelet from Club Monaco as well, and my favorite pair of brown shoes from Aldo . Notice how the belt matches the same color as the shoes - if there are any rules in menswear, this is one of the most important.
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2913-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2913.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2913-683x1024.jpg" %}
 
-My second outfit is way more sporty but still cool and really comfortable. I’m wearing a navy-crew, long-sleeve shirt from J. Crew (similar [here](http://amzn.to/1jSqlOG) and [here](https://www.jcrew.com/mens_category/polostees/longsleeve/PRDOVR~C6665/C6665.jsp)) with a pair of joggers from Topman (similar [here](http://amzn.to/1GzT6o7) and [here](http://shop.nordstrom.com/s/topman-jogger-chinos/3834986?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=498&cm_sp=personalizedsort-_-browseresults-_-1_2_A)). Joggers are really strong this fall season, since they are a bit warmer than jeans or regular pants and still look amazing with just a t-shirt or a long-sleeve v-neck. They’re pretty handy as well in any season but summer, so the versatility is again a great point here. As you can see, I love clothes that can be used on different outfits and different seasons, where just the styling creates a whole new different look.
+My second outfit is way more sporty but still cool and really comfortable. I’m wearing a navy-crew, long-sleeve shirt from J. Crew  with a pair of joggers from Topman . Joggers are really strong this fall season, since they are a bit warmer than jeans or regular pants and still look amazing with just a t-shirt or a long-sleeve v-neck. They’re pretty handy as well in any season but summer, so the versatility is again a great point here. As you can see, I love clothes that can be used on different outfits and different seasons, where just the styling creates a whole new different look.
 
-I’m also wearing a last-season olive green jacket from H&M (similar [here](http://amzn.to/1LDielE) and [here](http://www.hm.com/us/product/77541?article=77541-A)) which has come in handy in the PNW. I was trying to go for a more outdoorsy, Northwest look with this ensemble. As an accessory, I’m wearing a navy-crew bracelet (similar [here](http://amzn.to/1GzTgff) and [here](https://www.jcrew.com/mens_category/accessories/watchesandwatchstraps/PRDOVR~13837/13837.jsp?color_name=MARINE%20TEAL%20ORANGE&styles=13837-EF2918)) which matches the shirt. I like adding these smaller details to most of my outfits. The Creative Recreation shoes (similar [here](http://amzn.to/1LlfKWP) and [here](http://shop.nordstrom.com/s/creative-recreation-vito-sneaker/4024207)) complete the look, which are really comfy and look amazing with the joggers. This is a company from California and I love their sense of style without losing the comfort of the shoes.
+I’m also wearing a last-season olive green jacket from H&M  which has come in handy in the PNW. I was trying to go for a more outdoorsy, Northwest look with this ensemble. As an accessory, I’m wearing a navy-crew bracelet  which matches the shirt. I like adding these smaller details to most of my outfits. The Creative Recreation shoes  complete the look, which are really comfy and look amazing with the joggers. This is a company from California and I love their sense of style without losing the comfort of the shoes.
 
 ### How did your style evolve to what it is now?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2766-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2766.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2766-1024x683.jpg" %}
 
 I wasn’t that into fashion at the beginning of my college years. I had always liked shopping though, and some of the dearest memories that I have from when I lived back in Mexico are from my mom, sister, and I going to the mall together. It was an amazing experience and we always had so much fun while doing it together; sometimes spending more than half a day on a single store just fitting into everything we liked and showing how it looked to one another. However, my style was really simple - a t-shirts with jeans kind of guy.
 
@@ -51,7 +51,7 @@ When moved here full-time I found a group of friends who are also into shopping
 
 ### How would you describe your style?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2742-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2742.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2742-1024x683.jpg" %}
 
 If I could describe my style in 2 words it would be casual and comfortable. I always like my outfits to have an ease to them, a this-is-just-something-I-threw-on-me vibe but without leaving aside the detail and the thought that went behind it. And I like them to be comfortable, because let’s face it, in an world where we are running up and down every day in a variety of environments and situations, you don’t want your clothes to be a hindrance to what you can achieve, and you also don’t want to look out of place or out of yourself because of something that’s too difficult to walk in, or too bulky, or too warm. The more comfortable you are the easiest it will be to portray yourself with confidence, and people will notice this when they see you.
 
@@ -61,7 +61,7 @@ All and all, my main goal is to let my inner voice be heard through the way tha
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![Autumn means playing in the leaves - @fibonaccisequinsblog is going to be so much fun over the next few months!](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2842-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2842.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2842-683x1024.jpg" caption: "Autumn means playing in the leaves - @fibonaccisequinsblog is going to be so much fun over the next few months!" %}
 
 My advice to anyone thinking about getting into any field whatsoever is to just follow your passion and don’t let other things get in your way. Especially in STEM there seems to be a popularity around it at the moment because let’s face it, we’ve transitioned from a point when technology was a just a tool to us, a mean to achieve something in an easier way, to a real life-shaping, people-touching discipline. Nowadays technology is defining how we interact with each other; it’s connecting the world as never before, and it’s giving form to the way we create and foster human relationships.
 
@@ -73,7 +73,7 @@ Technology revolves around ideas and innovation, and that’s why you always ne
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2795-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2795.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2795-1024x683.jpg" %}
 
 I’ve done many things that I feel really proud about at work. Both of my internship projects, for instance, were really cool, and I also like a lot what I have done in 4 years at Microsoft.
 
@@ -87,7 +87,7 @@ Little by little my blog audience started growing and growing, eventually expand
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2696-819x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2696.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2696-819x1024.jpg" %}
 
 YES!
 
@@ -99,7 +99,7 @@ Finally, some people think that the tech world doesn’t favor diversity. From
 
 ### What is the best way for people to follow you on social media?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2774-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2774.jpg)
+{% responsive_image path: "images/posts/2015/10/IMG_2774-1024x683.jpg" %}
 
 - [My blog! (geek-q.com)](http://geek-q.com)
 - [Facebook](http://www.facebook.com/hector.diaz.mtz)
@@ -110,7 +110,7 @@ Finally, some people think that the tech world doesn’t favor diversity. From
 
 ### Anything else you'd like to share with the audience?
 
-[![](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2761-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/10/IMG_2761.jpg) 
+{% responsive_image path: "images/posts/2015/10/IMG_2761-683x1024.jpg" %} 
 Be yourself. Be confident. Don’t be afraid to take risks. Follow your passions. Have dreams. Make mistakes. Fix your mistakes. Don’t keep regrets. Seize life by the moment. Be nice to people. Give your best every time. Love your family and friends. Keep in touch with good people. Be curious. Never stop learning. Love yourself.
 
 Thank you for reading my story today and I hope you all have a very fashionable, happy life!

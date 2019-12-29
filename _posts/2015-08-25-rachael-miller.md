@@ -7,14 +7,14 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2310.jpg'
+image: '/images/posts/2015/08/IMG_2310.jpg'
 ---
 
-[We loved meeting University of Michigan Wolverine (\#GoBlue!) Rachael Miller, an all-around renaissance woman whose style has evolved from "hiding" to embracing her inner punk-fairy-princess. She specializes in tech and dabbles in RPG games, art, sculpture and floating through the woods in the most beautiful maxi dress we've ever seen! ]
+[We loved meeting University of Michigan Wolverine (#GoBlue!) Rachael Miller, an all-around renaissance woman whose style has evolved from "hiding" to embracing her inner punk-fairy-princess. She specializes in tech and dabbles in RPG games, art, sculpture and floating through the woods in the most beautiful maxi dress we've ever seen! ]
 
 ### Tell us a little about you.
 
-[![Dress: / Jacket: / Necklace: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2310-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2310.jpg) Dress: Forever 21  (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=474916723&pid=uid4889-31045667-16) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=446790912&pid=uid4889-31045667-16)/ Jacket: Express (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=427881227&pid=uid4889-31045667-16) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=469579332&pid=uid4889-31045667-16))/ Necklace: Forever 21 (Similar [here](http://amzn.to/1MSMhp8) and [here](http://amzn.to/1V8Yvv0))
+{% responsive_image path: "images/posts/2015/08/IMG_2310-1024x683.jpg" %}
 
 My goal is to make tools for people that help make the world more awesome! Right now, I’m a product manager intern at Microsoft working on Word. This is my third internship here, and I love how there’s so many ways to have an impact on the product and on our customers. When I’m not in Seattle, I’m a computer science student at the University of Michigan and a consultant/programmer at the UM3D Lab, where we help students and professors from all fields bring their ideas to life with 3D printers, visualization tools, workshops, and all things 3D. I’m also one of the leaders of gEECS- Girls in Electrical Engineering and Computer Science, Michigan’s club devoted to improving the gender balance in tech.
 
@@ -22,7 +22,7 @@ Outside school and work, I’m a huge geek about tabletop RPG games- I play D&D,
 
 ### Tell us about what you're wearing.
 
-[![Dress: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1981-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1981.jpg) Dress: Forever 21 (Similar [here](http://amzn.to/1EhGmH2) and [here](http://amzn.to/1Kjj2d5))
+{% responsive_image path: "images/posts/2015/08/IMG_1981-683x1024.jpg" %}
 
 The white dress I'm wearing is how I discovered that maxi-dresses are quite possibly my favorite thing. They’re so comfy while looking so grand! I love that this one has layers that make it interesting and a bit mysterious. My friends named it my hippie princess dress. I’ve also got flash tattoos on my knuckles, which I like because they’re just light, sparkly adornments (that go really well with my ring).
 
@@ -36,7 +36,7 @@ The pendant necklace is one of my go-tos, and for some reason people often ask 
 
 ### How did your style evolve to what it is now?
 
-[![Dress: / Shoes: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2198-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2198.jpg) Dress: American Eagle (Similar [here](http://amzn.to/1UcunN0) and [here](http://amzn.to/1V90n6T))/ Shoes: Aerosoles (Similar [here](http://amzn.to/1UcuGXY) and [here](http://amzn.to/1V90Iq9))
+{% responsive_image path: "images/posts/2015/08/IMG_2198-683x1024.jpg"  %}
 
 I have been through so many style transitions! When I was younger I felt awkward in "girly" clothes, and I was afraid of being made fun of, so I stuck with plain clothes that wouldn’t get me noticed. Once I discovered that feeling awkward and weird is just part of growing up and not something preventable by a change of clothes, I started exploring style more. I made a point to push boundaries and find unexpected combos, and started to gravitate toward "punk."
 
@@ -44,7 +44,7 @@ Eventually my tastes started to broaden, and I had fun flip-flopping between flo
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![Necklace:](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2277-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2277.jpg) Necklace: Forever 21 (Similar [here](http://amzn.to/1MSMhp8) and [here](http://amzn.to/1V8Yvv0))
+{% responsive_image path: "images/posts/2015/08/IMG_2277-683x1024.jpg" %}
 
 - Jump right in and meet as many of your peers as you can.
 - Find a women-in-tech org, or make one.
@@ -56,7 +56,7 @@ Eventually my tastes started to broaden, and I had fun flip-flopping between flo
 
 ### What would you say is the project you've done that you're proudest of?
 
-[![Dress: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2012-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2012.jpg) Dress:  [Forever 21 (Similar ][here](http://amzn.to/1EhGmH2)[ and ][here](http://amzn.to/1Kjj2d5)[)]
+{% responsive_image path: "images/posts/2015/08/IMG_2012-683x1024.jpg" %}
 
 [This one!](http://www.eecs.umich.edu/eecs/about/articles/2013/MICWIC_poster_award.html) I am (and have been for four years) working on an interaction system that will help scientists examine complex data using virtual reality. Our brains weren’t made to think with flat planes, mice and keyboards- they’re made to comprehend the 3D world!
 
@@ -64,7 +64,7 @@ The tools I’m building will make it possible for people to see information in 
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![Shoes: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2216-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_2216.jpg) Shoes: Aerosoles (Similar [here](http://amzn.to/1UcuGXY) and [here](http://amzn.to/1V90Iq9))
+{% responsive_image path: "images/posts/2015/08/IMG_2216-1024x683.jpg" caption: "Shoes: Aerosoles" %}
 
 To be honest, I don’t have much of a public social media presence, but you can definitely add me on [Facebook](http://facebook.com/rachael.miller.1420) or [LinkedIn](https://www.linkedin.com/pub/rachael-miller/59/18a/315), or send me an email at <mrachael@umich.edu> any time :)
 

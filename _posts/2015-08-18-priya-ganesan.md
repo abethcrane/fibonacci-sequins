@@ -7,14 +7,14 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1594.jpg'
+image: '/images/posts/2015/08/IMG_1594.jpg'
 ---
 
 *Dona had the pleasure of meeting Priya Ganesan at [Grace Hopper](http://gracehopper.org/) 2014 where Priya asked her to speak at Stanford about the intersection of tech and other industries for the [SHE++](http://www.sheplusplus.org/) organization's fall event. Dona was continually impressed by Priya's love of bright colors and classic lines during all of their meetings, a trend, it turns out she brings to life in all of her outfits. We learned that Priya's younger sister Maya is also quite the fashionista.  We call this week Ganesan Week and we will be showing off both sisters (and a special guest!) *
 
 ### Tell us a little about you.
 
-[![Boots: / Leggings: / Shirt: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1594-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1594.jpg) Boots: Similar [here](http://amzn.to/1KtG38Z) and [here](http://amzn.to/1K3FKWm)/ Leggings: [Xhilaration Target](http://www.target.com/bp/xhilaration) (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=473736673&pid=uid4889-31045667-16), [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=480545549&pid=uid4889-31045667-16) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=482000203&pid=uid4889-31045667-16)) / Top: [BCX Macy's](http://www1.macys.com/shop/junior-clothing/bcx-juniors-clothing?id=53640) (Similar [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=432874704&pid=uid4889-31045667-16) and [here](http://amzn.to/1E35hOn))
+{% responsive_image path: "images/posts/2015/08/IMG_1594-1024x683.jpg" %}
 
 I'm a rising junior and Computer Science major at Stanford University. I'm focusing my studies on natural language processing and information analysis because a) it's fun, and b) the applications to other fields are exciting and endless.
 
@@ -26,7 +26,7 @@ I love to read (I used to run a book blog, sadly now defunct), play tennis, danc
 
 ### Tell us about what you're wearing.
 
-[![Dress: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1700-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1700.jpg) Dress: [Nordstrom](http://shop.nordstrom.com/) (Similar [here](http://amzn.to/1JfjsQV), [here](http://amzn.to/1E36EMZ) , [here](http://amzn.to/1E36OnE) and [here](http://www.shopstyle.com/action/loadRetailerProductPage?id=479154166&pid=uid4889-31045667-16))
+{% responsive_image path: "images/posts/2015/08/IMG_1700-683x1024.jpg" %}
 
 Yellow Top/Snake Leggings: My sister urged me not to get these leggings because she thought they looked creepy, but I thought the snake pattern was different and cool! The first time I wore them, I actually scared myself because I mistook my leg for a snake at one point. I love the cheerful yellow color and cutout pattern on the straps of the top, and the boots are super comfy - I wear them everywhere!
 
@@ -36,7 +36,7 @@ Cream Lace Top/Jeans: Although I'd like to say that I dress up every day, I have
 
 ### How did your style evolve to what it is now?
 
-[![Shoes: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1914-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1914.jpg) Shoes: [Bongo](http://www.bongo.com/) (Similar [here](http://amzn.to/1E37aux), [here](http://amzn.to/1KtHZyd) and [here](http://amzn.to/1E37vgF))
+{% responsive_image path: "images/posts/2015/08/IMG_1914-1024x683.jpg" %}
 
 I've always loved bright, colorful, flashy clothes. I think this may be partially because Indian clothes are so vibrant and opulent. But I also think of myself as a pretty playful person and wearing colorful clothes makes me feel happier and more energetic.
 
@@ -46,7 +46,7 @@ I don't wear glitter anymore, but I still try to wear clothes that are fun, whet
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-[![Dress: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1670-683x1024.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1670.jpg) Dress: [Nordstrom](http://shop.nordstrom.com/)
+{% responsive_image path: "images/posts/2015/08/IMG_1670-683x1024.jpg" %}
 
 Some of the coolest jobs that utilize STEM aren't in inherently STEM fields, and aren't just desk jobs either. One of my friends is a tech intern this summer at a major fashion retailer and gets to see some of the ins and outs of the fashion industry. Another friend gets to constantly travel around the world and meet new people for her tech job. And some of the most impactful and fulfilling jobs are at the intersection of science/tech and another field.
 
@@ -54,7 +54,7 @@ Also, just because you are interested in STEM doesn't mean you have to be obsess
 
 ### What is the best way (if any) for people to follow you on social media?
 
-[![Priya: Maya: ](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1882-1024x683.jpg)](https://fibonaccisequinsblog.com/wp-content/uploads/2015/08/IMG_1882.jpg) Priya on the left: Lace top: (Similar [here](http://amzn.to/1Jfn9Ga) and [here](http://amzn.to/1NCNU7c))/Jeans:  [Blue Spice](http://amzn.to/1Jfo2P7) (Similar [here](http://amzn.to/1E38H3P) and [here](http://amzn.to/1KtJmgi))
+{% responsive_image path: "images/posts/2015/08/IMG_1882-1024x683.jpg" %}
 
 You can find me on [Facebook](http://facebook.com/priyagan) :)
 

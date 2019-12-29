@@ -20,4 +20,4 @@ If you or someone you know want to be featured on Fibonacci Sequins, please cont
 
 Love,
 
-Beth (and the ghost of Dona’s free time)
+Beth (and the ghost of Dona’s free time
