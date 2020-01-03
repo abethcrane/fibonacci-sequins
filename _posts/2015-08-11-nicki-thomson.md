@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_0928.jpg'
+image: 'images/posts/2015/08/IMG_0928.jpg'
 ---
 
 *Our first guest on Fibonacci Sequins is Nicki Thomson, a fellow fashion designer, Young Adult book-lover as well as being an intern at Microsoft this summer. We immediately spotted Nicki in a crowd because of her gorgeous, bright green kiwi dress! It turns out it was a piece Nicki had made herself. We loved the fashion choices Nicki brought with her and are very excited to share her story.*

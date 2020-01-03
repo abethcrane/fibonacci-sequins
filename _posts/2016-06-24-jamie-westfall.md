@@ -5,7 +5,7 @@ date: 2016-06-24 16:56
 author: Beth Crane
 tags: [Student]
 location: Florida
-image: '/images/posts/2016/06/IMG_8914.jpg'
+image: 'images/posts/2016/06/IMG_8914.jpg'
 ---
 
 *Beth had the pleasure of meeting Jamie during a speaking engagement in Florida. She was immediately taken by this young woman's brightly coloured outlook on life...and then discovered our favorite thing: a multi-hyphenate!  Read on to hear about how Jamie (LITERALLY) juggles her fascinating life. *

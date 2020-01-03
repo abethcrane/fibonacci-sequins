@@ -7,7 +7,7 @@ tags: [early-career, Design]
 location: Seattle
 company: Tableau
 field: Tech
-image: '/images/posts/2015/11/IMG_5790.jpg'
+image: 'images/posts/2015/11/IMG_5790.jpg'
 ---
 
 *Alex graciously agreed to get up early on a Sunday morning and take Beth on a run-through of her regular weekday commute. Gallivanting around Fremont to find the most perfect lighting with this badass woman was a delight that we can't wait to share with you, so without further adieu...*

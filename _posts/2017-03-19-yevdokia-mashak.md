@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2017/03/IMG_3893.jpg'
+image: 'images/posts/2017/03/IMG_3893.jpg'
 ---
 
 *Yevdokia Mashak is currently a Technical Artist working on Virtual/Mixed reality projects at Microsoft - which is where I was fortunate enough to run into her. She stops by my desk to say hi and update me on the status of her tiny desk plant Penelope once a week or so, and I'm always delighted to see what inspiring outfit she's come up with. I'm very excited to introduce you all to her;*

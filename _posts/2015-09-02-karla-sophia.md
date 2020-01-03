@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_2392.jpg'
+image: 'images/posts/2015/08/IMG_2392.jpg'
 ---
 
 We reached out to Karla Larriva to do a photo shoot with us and she brought along her friend Sophia Pandey as moral support and personal stylist. These two met while doing internships in Microsoft's IT department and immediately became good friends.  We had a really fun photo shoot showing off both of their passions, talents and well as penchants for awesome cocktail rings!

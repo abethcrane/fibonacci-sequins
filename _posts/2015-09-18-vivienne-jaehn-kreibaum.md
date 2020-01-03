@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_3325-683x1024.jpg'
+image: 'images/posts/2015/08/IMG_3325-683x1024.jpg'
 ---
 
 *One day Beth and Dona were nonchalantly strolling through the woods when, lo and behold, we encountered the one and only Alice.*

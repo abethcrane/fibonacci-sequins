@@ -7,7 +7,7 @@ tags: [early-career]
 location: San Francisco
 company: Pandora
 field: Tech
-image: '/images/posts/2018/01/IMG_5972.jpg'
+image: 'images/posts/2018/01/IMG_5972.jpg'
 ---
 
 ### Tell us a little about you.

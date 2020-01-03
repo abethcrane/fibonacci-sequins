@@ -5,7 +5,7 @@ date: 2015-12-12 12:07
 author: Dona Sarkar
 tags: [fashion-post]
 location: New York
-image: '/images/posts/2015/12/HourOfCodeNasdaq.jpg'
+image: 'images/posts/2015/12/HourOfCodeNasdaq.jpg'
 ---
 
 Every company is a tech company. Do you use email? Do you use social media? Do you look at customer data? Do you have machines and other automated systems that do work that humans used to have to? Yep, you work in a tech company.  Do you have the right tools in your toolbelt to succeed?

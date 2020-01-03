@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/12/IMG_6130.jpg'
+image: 'images/posts/2015/12/IMG_6130.jpg'
 ---
 
 *Have you ever wanted  to move to Paris?*

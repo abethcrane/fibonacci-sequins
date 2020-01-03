@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/09/IMG_8879.jpg'
+image: 'images/posts/2016/09/IMG_8879.jpg'
 ---
 
 *We were won over instantly by Vanessa's versatile outfits - somehow grunge and chic at the same time? Read on to hear about how gummy bears help her program, and the ways she disconnects from the world.*

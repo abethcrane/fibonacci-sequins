@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2017/02/IMG_2887.jpg'
+image: 'images/posts/2017/02/IMG_2887.jpg'
 ---
 
 *Jasmine is the living embodiment of a multi-hyphenate. She's passionate, hard-working and good at putting a positive spin on things whilst also not taking no for an answer. And with all the cool projects she's got going on, she definitely knows how to dress for the different roles she plays in different spheres.*

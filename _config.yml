@@ -35,9 +35,6 @@ plugins:
   - jekyll/tagging
   - jekyll-responsive-image
 
-include:
-  - _pages
-
 exclude:
   - vendor
   - Gemfile
@@ -50,3 +47,8 @@ tag_permalink_style:  pretty
 
 responsive_image:
   template: _includes/responsive-image.html
+  default_quality: 90
+  sizes:
+    - width: 400
+    - width: 720
+    - width: 1024

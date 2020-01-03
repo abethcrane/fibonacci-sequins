@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_2310.jpg'
+image: 'images/posts/2015/08/IMG_2310.jpg'
 ---
 
 [We loved meeting University of Michigan Wolverine (#GoBlue!) Rachael Miller, an all-around renaissance woman whose style has evolved from "hiding" to embracing her inner punk-fairy-princess. She specializes in tech and dabbles in RPG games, art, sculpture and floating through the woods in the most beautiful maxi dress we've ever seen! ]

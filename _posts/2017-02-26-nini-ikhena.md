@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2017/01/IMG_2486.jpg'
+image: 'images/posts/2017/01/IMG_2486.jpg'
 ---
 
 *Meet Nini - a passionate, hilarious, fellow Microsoft-fashion-blogger. She grew up in Nigeria and cares deeply about empowering women and advancing tech in Africa, and her fashion blog (The Nerdly Beautiful) is absolutely darling.*

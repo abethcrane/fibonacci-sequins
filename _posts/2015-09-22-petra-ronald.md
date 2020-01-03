@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/09/IMG_4070.jpg'
+image: 'images/posts/2015/09/IMG_4070.jpg'
 ---
 
 *Petra Ronald will get into your head. In fact, not only will she get into your head, but she will beat the pants off of you in sports, while schooling you in behavioural science.*

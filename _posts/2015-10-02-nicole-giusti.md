@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/09/IMG_7455.jpg'
+image: 'images/posts/2015/09/IMG_7455.jpg'
 ---
 
 *A new thing we learned was that the textiles industry is the second biggest cause of waste on earth. Nicole Giusti ain't having none of that and shared with us what she does to avoid contributing to this worldwide problem.  What's Nicole doing when she's not saving the world, DJ'ing or making music? Read on to find out! *

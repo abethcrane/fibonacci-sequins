@@ -7,7 +7,7 @@ tags: [early-career, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/10/IMG_2901.jpg'
+image: 'images/posts/2015/10/IMG_2901.jpg'
 ---
 
 *This week’s Fibonacci Sequins star is very special to us because Dona hired Hector Diaz way back in the day for his first internship at Microsoft during an event in Mexico City.  Since then, she has loved watching that brilliant young student bloom into a successful software engineer, and also become a cornerstone in the men’s fashion scene as a star fashion blogger and collaborator!  Read on to see how Hector’s transformation happened and what’s next!*

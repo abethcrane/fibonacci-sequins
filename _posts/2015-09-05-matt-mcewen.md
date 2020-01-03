@@ -6,7 +6,7 @@ author: Beth Crane
 tags: [Student, fashion-dudes]
 location: Sydney
 field: Science
-image: '/images/posts/2015/09/IMG_2311.jpg'
+image: 'images/posts/2015/09/IMG_2311.jpg'
 ---
 
 *Beth went to UNSW with Matt and took advantage of being back in Sydney to hit him up for a photo shoot. Matt's a fast-talking quantum physicist and theatre nerd who embodies the idea of form-following-function; his outfits don't just have to take him from the office to dinner, but also to messing with hardware and running rehearsals.*
@@ -41,7 +41,7 @@ It's also got huge lapels, and I have an entertaining tendency to hang my lanky 
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2330-1024x683.jpg" caption: "Jacket: Billabong" %)
+{% responsive_image path: "images/posts/2015/09/IMG_2330-1024x683.jpg" caption: "Jacket: Billabong" %}
 
 With very little prompting or effort - it's all very Form Follows Function. This is not to say that form is unimportant (people who think it is tend to look silly, and that has its own disadvantages), but things should look and be the way they are for a reason that's more than just lone aesthetics.
 

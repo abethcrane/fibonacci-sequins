@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/05/IMG_8781.jpg'
+image: 'images/posts/2016/05/IMG_8781.jpg'
 ---
 
 *We met Jill during her Microsoft internship last summer (gosh it's been a while) - we were delighted that she'd taken the initiative to bring props to the shoot! Dona was (of course) instantly drawn to Jill because of her beautiful writing accessories.*

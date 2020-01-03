@@ -5,7 +5,7 @@ date: 2016-09-02 08:20
 author: Beth Crane
 tags: [Student]
 location: Edinburgh
-image: '/images/posts/2016/08/IMG_6874.jpg'
+image: 'images/posts/2016/08/IMG_6874.jpg'
 ---
 
 *Beth met Alex when she was on a trip to [Edinburgh](https://fibonaccisequinsblog.com/?s=edinburgh) with Microsoft - Alex's style is both unique and deliberate, which is always a joy to hear about. We traipsed around Edinburgh as the weather changed from sunny to blustery and drizzly; and her outfit performed exactly as well as she said it would! (Unlike Beth's....).*
@@ -29,7 +29,6 @@ Basically, I’m a computer scientist now because my parents told me to get a jo
 The weather in Scotland is variable. One minute it could be a beautiful day, the next you could be struggling through gale force winds. Dressing for the elements is your number one priority. To keep cozy, I’m wearing a wool peacoat from Calvin Klein, Eddie Bauer Jeans, and a pair of obscenely comfortable Green Doc Marten 1910s. They’re all practical student-staples for traipsing across the city.
 
 When you’re limited by weather, prints and patterns can make practical outfits more interesting. I’m wearing lord and Taylor blue button down and an outrageously bright Au Jour La Jour jumper. The sweatshirt is one of my prized finds: It’s funky and unique. The combination of sunshine-yellow and printed hyenas makes this my favorite piece.[ 
-](/images/posts/2016/08/IMG_6905.jpg)
 
 {% responsive_image path: "images/posts/2016/08/IMG_6905-1024x683.jpg" %}
 

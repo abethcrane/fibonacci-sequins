@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/07/IMG_1416.jpg'
+image: 'images/posts/2016/07/IMG_1416.jpg'
 ---
 
 *Sneha joins our ranks as another socially-minded budding entrepreneur; she likes thrift clothes, is already tri-lingual, and her startup just kick-started $13,000. Pretty freaking cool, right? Read on for her story.*

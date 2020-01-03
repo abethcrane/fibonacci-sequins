@@ -7,14 +7,14 @@ tags: [early-career, where-are-they-now]
 location: Seattle
 company: Twitter
 field: Tech
-image: '/images/posts/2019/09/IMG_5975.jpg'
+image: 'images/posts/2019/09/IMG_5975.jpg'
 ---
 
 *Longtime readers might remember Nicole from [way back in 2015](https://fibonaccisequinsblog.com/nicole-giusti/), in the early days of the blog. She was an undergraduate student back then (and wore all black for our shoot), and now she's a badass full time engineer and grad student. I (and so many people we walked past) could not get enough of her outfit! Check it out* 🔻
 
 ### Tell us a little about you!
 
-My name is Nicole (she/her). I live in Seattle with my partner, Eric, and two chihuahuas: Gracie & Frankie. I’m a full-time software engineer at Twitter and a part-time Computer Science MS student at University of Washington. In my spare time, I like arts and crafts (especially collaging, painting, knitting, & sewing). I love music, and I learned how to play a lot of instruments growing up as a band kid. I love the Sims 4, standup comedy, roller skating, astrology, and yoga. I’m very passionate about socialist, feminist, and animal rights activism. I’ve kept a journal since I was 11 years-old. I have a mountain of half-finished projects and books that I am 75% through. 
+My name is Nicole (she/her). I live in Seattle with my partner, Eric, and two chihuahuas: Gracie & Frankie. I’m a full-time software engineer at Twitter and a part-time Computer Science MS student at University of Washington. In my spare time, I like arts and crafts (especially collaging, painting, knitting, & sewing). I love music, and I learned how to play a lot of instruments growing up as a band kid. I love the Sims 4, standup comedy, roller skating, astrology, and yoga. I’m very passionate about socialist, feminist, and animal rights activism. I’ve kept a journal since I was 11 years-old. I have a mountain of half-finished projects and books that I am 75% through.
 
 ### What are you wearing?
 
@@ -59,7 +59,9 @@ Most of the other influences on my style have been more subtle. A couple years a
 
 {% responsive_image path: "images/posts/2019/09/IMG_5981.jpg" %}
 
-So what am I trying to say with this outfit? YOU CAN BE TOUGH IN PINK. Like really tough. That’s why I love this pink pepper spray. It says "feminine, soft, cute", but it also says "don’t fuck with me" (which is my mantra). I used to be a total doormat- I was easily steamrolled over, ignored, and bullied. I don’t let that happen anymore (at least not as often). The entire outfit is actually pretty masculine. This style of trousers is traditionally masculine (they are technically unisex, not women’s pants). I’m wearing a "tech" t-shirt which is usually associated with men, though the actual design in feminine. The shoes are obviously the best part. They are sparkly and covered in rhinestones, but these shoes are hard, rough, and sharp- like armor. Trust me, you would not want to be kicked by these shoes.
+So what am I trying to say with this outfit? YOU CAN BE TOUGH IN PINK. Like really tough. That’s why I love this pink pepper spray. It says "feminine, soft, cute", but it also says "don’t fuck with me" (which is my mantra).
+
+s   I used to be a total doormat - I was easily steamrolled over, ignored, and bullied. I don’t let that happen anymore (at least not as often). The entire outfit is actually pretty masculine. This style of trousers is traditionally masculine (they are technically unisex, not women’s pants). I’m wearing a "tech" t-shirt which is usually associated with men, though the actual design is feminine. The shoes are obviously the best part: they are sparkly and covered in rhinestones, but these shoes are hard, rough, and sharp - like armor. Trust me, you would not want to be kicked by these shoes.
 
 ### Is your professional style different from your personal style?
 

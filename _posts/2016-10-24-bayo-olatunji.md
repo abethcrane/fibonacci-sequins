@@ -7,7 +7,7 @@ tags: [early-career, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/10/IMG_1589.jpg'
+image: 'images/posts/2016/10/IMG_1589.jpg'
 ---
 
 *Bayo was such a delight to shoot. After rescheduling multiple times we finally met up on a grey morning in Volunteer Park. Bayo's love for uniqlo was apparently, but it was amazing to see how he came into himself in his second outfit. We had a blast talking and posing, and hope you have just as much fun reading through his interview :)*

@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/05/IMG_8572.jpg'
+image: 'images/posts/2016/05/IMG_8572.jpg'
 ---
 
 *We had the pleasure of meeting Cassie Bub when she was an intern and immediately we knew what we were going to make her do for her photos...I mean, let's be real, how often are you going to meet a computer scientist + musician + GYMNAST!  We managed to catch this feisty multi-hyphenate in a net and insisted she tell us all the things. *

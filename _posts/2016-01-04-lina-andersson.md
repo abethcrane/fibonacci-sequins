@@ -5,7 +5,7 @@ date: 2016-01-04 20:06
 author: Beth Crane
 tags: [Student]
 location: Edinburgh
-image: '/images/posts/2015/12/IMG_6682.jpg'
+image: 'images/posts/2015/12/IMG_6682.jpg'
 ---
 
 *Beth was lucky enough to go on a whirlwind recruiting trip to Edinburgh in November, where she met some fabulous Comp Sci students - you'll see their profiles over the next few months.*

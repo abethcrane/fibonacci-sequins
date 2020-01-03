@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_1594.jpg'
+image: 'images/posts/2015/08/IMG_1594.jpg'
 ---
 
 *Dona had the pleasure of meeting Priya Ganesan at [Grace Hopper](http://gracehopper.org/) 2014 where Priya asked her to speak at Stanford about the intersection of tech and other industries for the [SHE++](http://www.sheplusplus.org/) organization's fall event. Dona was continually impressed by Priya's love of bright colors and classic lines during all of their meetings, a trend, it turns out she brings to life in all of her outfits. We learned that Priya's younger sister Maya is also quite the fashionista.  We call this week Ganesan Week and we will be showing off both sisters (and a special guest!) *

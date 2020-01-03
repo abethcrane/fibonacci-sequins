@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_3166-1024x683.jpg'
+image: 'images/posts/2015/08/IMG_3166-1024x683.jpg'
 ---
 
 *Mahak Mithani danced her way into our lives this summer in a whirlwind of energy around everything she touched from tech, to dance, to cooking to fashion! We loved getting to know this tiny powerhouse and hearing about her Canada to Texas to Canada to Texas moves and how she uses her creative outlets to cope with change and to stay in touch with her community.  What Bollywood star did Mahak dazzle with a dance performance? Read on to find out! *

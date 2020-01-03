@@ -4,7 +4,7 @@ title: "About Dona Sarkar"
 date: 2015-08-10 10:10
 author: Dona Sarkar
 tags: [industry-veterans]
-image:
+image: "images/posts/2015/08/Luly1.jpg"
 ---
 
 ### Tell us a little about you.

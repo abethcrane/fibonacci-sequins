@@ -7,7 +7,7 @@ tags: [industry-veterans, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/05/IMG_9958.jpg'
+image: 'images/posts/2016/05/IMG_9958.jpg'
 ---
 
 *This week's Fibonacci Sequins post is dedicated to a very special person. James has been Dona's longtime friend and mentor and she credits much of her career successes to the advice that he is not shy about giving.  After she read his [Career Superpowers](http://amzn.to/25Ib4WS) book on an offhand recommendation, she knew she had to meet this Master of Stagecraft.  After a month of stalking and hustling, she attended one of his jaw-dropping talks and convinced him they should obviously be friends. *

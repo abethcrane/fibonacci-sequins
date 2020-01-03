@@ -17,7 +17,11 @@
     {% if page.image %}
       <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-l'>
         <div class='c-post-hero__media'>
-          <img class='c-post-hero__image js-fadein' src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}">
+          {% responsive_image_block %}
+            path: "{{ page.image }}"
+            alt: "{{ page.title }}"
+            class: "c-post-hero__image js-fadein"
+          {% endresponsive_image_block %}
         </div>
       </div>
     {% endif %}

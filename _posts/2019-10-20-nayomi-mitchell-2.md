@@ -6,7 +6,7 @@ author: Beth Crane
 tags: [early-career, where-are-they-now]
 location: Seattle
 company: Microsoft
-image: '/images/posts/2019/10/IMG_6339.jpg'
+image: 'images/posts/2019/10/IMG_6339.jpg'
 ---
 
 *I'm excited to welcome Nayomi back to the blog, as the latest person in our* [*Where are they now?*](https://fibonaccisequinsblog.com/tag/where-are-they-now/) *series. When we [featured Nayomi back in 2016](https://fibonaccisequinsblog.com/nayomi-mitchell/) she was just starting her career, and she's now been at Microsoft for over 3 years*, *carving out a role that allows her to blend her mix of interests and talents.*
@@ -82,7 +82,7 @@ trying to find clothes that satisfy my taste and the guidelines for what looks p
 
 {% responsive_image path: "images/posts/2019/10/IMG_6418.jpg" %}
 
-IG \| [Nayomitchell](https://www.instagram.com/Nayomitchell/)
+IG | [Nayomitchell](https://www.instagram.com/Nayomitchell/)
 
 *I caught up with Nayomi when I was in Seattle for my birthday, and she suggested Volunteer Park for the shoot! It was a perfect location, and I hope you love the photos. As always, feel free to reach out if you or someone you know would be a good fit for the blog!*
 

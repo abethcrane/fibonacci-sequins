@@ -7,7 +7,7 @@ tags: [fashion-post]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/12/IMG_6013.jpg'
+image: 'images/posts/2015/12/IMG_6013.jpg'
 ---
 
 Here at Fibonacci Sequins, we insist on celebrating every single thing, including this incredible year we've had as well as finding free stuff like this excellent free DOOR by the side of the road.

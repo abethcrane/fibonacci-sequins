@@ -4,7 +4,7 @@ title: "About Beth Crane ✨"
 date: 2019-10-17 05:09
 author: Beth Crane
 tags: [early-career]
-image: '/images/pages/2019/10/IMG_0086.jpg'
+image: 'images/pages/2019/10/IMG_0086.jpg'
 ---
 
 ### Tell us a little about you.

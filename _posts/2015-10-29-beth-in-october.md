@@ -5,7 +5,7 @@ date: 2015-10-29 05:31
 author: Dona Sarkar
 tags: [fashion-post]
 location: Seattle
-image: '/images/posts/2015/10/IMG_3769.jpg'
+image: 'images/posts/2015/10/IMG_3769.jpg'
 ---
 
 I love fall. I mean it's amusing to me that you call it fall (Autumn is such a good name!), but I still love it. Especially in Seattle, where I'm start to remember what cold feels like, while still having time to appreciate the sunlight before it disappears for 6 months.

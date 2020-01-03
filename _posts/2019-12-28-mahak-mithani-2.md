@@ -6,7 +6,7 @@ author: Beth Crane
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2019/12/IMG_6821.jpg'
+image: 'images/posts/2019/12/IMG_6821.jpg'
 ---
 
 ### Tell us a little about you?

@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/10/IMG_3523.jpg'
+image: 'images/posts/2015/10/IMG_3523.jpg'
 ---
 
 *We hella loved meeting California native Meera Parat in her fave place: the outdoors. We took advantage of the spectacular day to photograph this awesome lady. During this session, we learned that Meera is not just an accomplished computer science student, but she's also very interested in machine learning and its applications to the field of medicine. Read on to find out more!*

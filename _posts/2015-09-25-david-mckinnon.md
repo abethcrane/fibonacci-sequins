@@ -6,7 +6,7 @@ author: Beth Crane
 tags: [Student, fashion-dudes]
 location: Sydney
 field: Tech
-image: '/images/posts/2015/09/IMG_2136.jpg'
+image: 'images/posts/2015/09/IMG_2136.jpg'
 ---
 
 *Beth went to UNSW with David, running into him in different classes here and there, but she properly met him over Southern Summer last year when he interned at Microsoft (with crazy blue hair, of course!). His willingness to climb trees and show off dramatic cinematic poses made this shoot exactly the kind of thing Beth loves doing (Dona - you'll be glad to hear I didn't climb any myself!).*

@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/05/IMG_5549.jpg'
+image: 'images/posts/2016/05/IMG_5549.jpg'
 ---
 
 *We had such a darling time shooting Nayomi as a Microsoft intern, and we're stoked to feature her on the blog now as our way of saying welcome back! Her outfit is the definition of timeless-chic-with-a-pop-of-color, and we love everything about it.*

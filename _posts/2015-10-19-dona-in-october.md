@@ -5,7 +5,7 @@ date: 2015-10-19 07:43
 author: Dona Sarkar
 tags: [fashion-post]
 location: Seattle
-image: '/images/posts/2015/10/IMG_3866.jpg'
+image: 'images/posts/2015/10/IMG_3866.jpg'
 ---
 
 Ah, fall. Where a not-so-young woman’s thoughts turn to...cozy mornings spent with a hot cup of coffee wrapped in knits and (faux) furs. I LOVE fall. It feels like...new beginnings.  New year full of possibilities. A chance for reinvention.  But first thing: The Fall Wardrobe.

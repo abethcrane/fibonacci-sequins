@@ -7,7 +7,7 @@ tags: [industry-veterans, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/10/IMG_0880.jpg'
+image: 'images/posts/2016/10/IMG_0880.jpg'
 ---
 
 *Dr. Gourlay, I presume?*

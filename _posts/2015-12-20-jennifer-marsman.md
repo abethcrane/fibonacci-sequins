@@ -5,7 +5,7 @@ date: 2015-12-20 10:24
 author: Beth Crane
 tags: [industry-veterans]
 location: Texas
-image: '/images/posts/2015/11/IMG_5045.jpg'
+image: 'images/posts/2015/11/IMG_5045.jpg'
 ---
 
 *Dona's had the pleasure of knowing OF Jennifer Marsman for many years, but only had the pleasure of meeting this lovely, brilliant, hilarious lady during during a rendition of her infamous [Career Advice To the Tune of Glee](http://blogs.msdn.com/b/jennifer/archive/2014/10/07/career-advice-secrets-to-success-in-the-style-of-glee.aspx). Since then, Dona knew they had to be best friends forever. Read on to find out more about Jennifer's amazing job, her style and her advice for the next gen of people who want her job!*

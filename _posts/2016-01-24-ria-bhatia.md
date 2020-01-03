@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/09/7300041.jpg'
+image: 'images/posts/2015/09/7300041.jpg'
 ---
 
 *All this talk of The Great Northeast Snowstorm has got us thinking back to last July when we met Ria Bhatia from Penn State. It was easily 90 degrees out when we did this shoot, but her faux fur vest was so luxe that we all had to try it on!  We bet she's happy to have it in the frozen northeast right now! Ria was kind enough to open source her day-to-day and share with us what keeps her so busy. Read on to find out more about this mentoring-minded computer scientist. *

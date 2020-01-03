@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_1634.jpg'
+image: 'images/posts/2015/08/IMG_1634.jpg'
 ---
 
 *A few weeks ago we reached out to our friend [Priya Ganesan](https://fibonaccisequinsblog.com/priya-ganesan/), Stanford University junior and Google intern to see if she'd be interested in a profile and to our surprise, she mentioned that her little sister, Maya was also studying Computer Science and also would love to be profiled.  We profiled and photographed the sisters together, along with their ****gorgeous****** **mother* *Lakshmi.  *

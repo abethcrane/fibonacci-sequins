@@ -5,7 +5,7 @@ date: 2016-01-31 09:42
 author: Beth Crane
 tags: [Student]
 location: Edinburgh
-image: '/images/posts/2016/01/IMG_6644.jpg'
+image: 'images/posts/2016/01/IMG_6644.jpg'
 ---
 
 *Welcoming us back to our series on the fabulous students at the University of Edinburgh we have Rachel Painter (she actually does paint!). Rachel warned us that she wore primarily dark colors, so Beth and Rachel met up in [the Grassmarket](https://en.wikipedia.org/wiki/Grassmarket) to use the colorful doors as backdrops (and take advantage of the cute coffeeshops to change and buy tea, because gosh was it cold!).*

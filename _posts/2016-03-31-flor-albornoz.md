@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2016/02/IMG_0557.jpg'
+image: 'images/posts/2016/02/IMG_0557.jpg'
 ---
 
 *Dona and Beth are at //Build this week teaching creatives about holograms with the Holographic Academy. While downing copious amounts of coffee, they were reminded of fellow coffee addict Flor Albornoz who they met this summer. They loved Flor's dedication to tech as well as dressing for her name. **What?** Read on!*

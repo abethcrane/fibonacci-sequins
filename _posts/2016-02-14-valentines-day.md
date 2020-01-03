@@ -5,7 +5,7 @@ date: 2016-02-14 07:32
 author: Beth Crane
 tags: [fashion-post]
 location: Seattle
-image: '/images/posts/2016/02/IMG_8285.jpg'
+image: 'images/posts/2016/02/IMG_8285.jpg'
 ---
 
 Here at Fibonacci Sequins, we're all about recycling. After all, we're Seattle-ites (sometimes). We have to pass the recycle test before we're allowed to live here! (That's not true, but it might as well be). We'll come back to recycling in a minute.

@@ -5,7 +5,7 @@ date: 2016-02-09 11:59
 author: Beth Crane
 tags: [Student, fashion-dudes]
 location: Edinburgh
-image: '/images/posts/2016/01/IMG_6503.jpg'
+image: 'images/posts/2016/01/IMG_6503.jpg'
 ---
 
 *Harry is the third of our five Edinburgh students in this series. When Beth asked around at the CS events for who she should profile, the unanimous response was for this guy right here, so you can guess how much fun the shoot was! Read on for sentences like "So naturally I play Guitar for an Indie/Alternative Rock band her*e." (Gosh, naturally!).

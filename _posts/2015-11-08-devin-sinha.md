@@ -7,7 +7,7 @@ tags: [early-career, fashion-dudes]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/11/IMG_4371.jpg'
+image: 'images/posts/2015/11/IMG_4371.jpg'
 ---
 
 *After a bit of a hiatus due to a heavy travel fall, we are back! And we are back with a vengeance with one of the most talented tech dudes we know! Devin Sinha is not only an awesome software engineer, but also a hit musician, social media expert as well as being an all-around super friendly guy.  Dona loved working with him in Windows and when Devin brought his guitar into the office, [team meetings were awesomely musical](https://www.facebook.com/literati/videos/vb.2204306/10103858457941173/?type=2&theater). We couldn't resist the opportunity to kidnap Devin, drag him into a field and make him play a few of his hit songs for us while we did this profile. *

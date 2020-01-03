@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/08/IMG_1045.jpg'
+image: 'images/posts/2015/08/IMG_1045.jpg'
 ---
 
 *Next up on Fibonacci Sequins is our friend from up north, Beverly Shen! Beverly impressed us with her beautiful, colorful pieces as well as her openness about her style being heavily influenced by the strong women in her life, her older sisters Kim and Laura, as well as their mother. We loved photographing Beverly in all of her moods, but especially the "We can do it!" power pose!*
@@ -34,7 +34,7 @@ I purchased the neon green dress from TopShop last year for $20 (such a steal!).
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1529-1024x683.jpg" caption: "Shoes: [Naturalizer](http://www.naturalizer.com/)" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1529-1024x683.jpg" caption: "Shoes: Naturalizer" %}
 
 While growing up my mom used to love to dress my two older twin sisters and me in matching outfits, so I spent most of my childhood "tripleting" with my sisters. As we grew up we each developed our own sense of style, but that doesn’t stop me from "borrowing" clothing from my sisters’ closets (tripling the size of my wardrobe, without the guilt of having to buy everything!).
 
@@ -42,7 +42,7 @@ Now days as a busy college student my outfits are centered around comfort during
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1514-683x1024.jpg" caption: "Shirt: [Joe Fresh](https://www.joefresh.com) / Jeans: [H&M](http://www.hm.com/us/)" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1514-683x1024.jpg" caption: "Shirt: <a href='https://www.joefresh.com'>Joe Fresh</a> / Jeans: H&M" %}
 
 There’s this strange notion perpetrated by popular media that all women in tech/engineering are nerdy and unattractive. But I can tell you first hand, some of the most inspiring and badass women I’ve met are in the tech industry! It can be daunting to learn coding when is seems like everyone who codes is male. I remember being the only girl in my grade 12 AP compsci class and feeling extremely intimidated by all the boys in my class who already knew multiple languages and had written their own apps. But so what if they already know how to code? The whole point of taking the class was to learn how to code!
 

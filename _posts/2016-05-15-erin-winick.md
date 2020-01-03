@@ -5,7 +5,7 @@ date: 2016-05-15 23:26
 author: Beth Crane
 tags: [Student]
 location: Florida
-image: '/images/posts/2016/02/12752095_10208619961325390_1291299455_o-1024x683.jpg'
+image: 'images/posts/2016/02/12752095_10208619961325390_1291299455_o-1024x683.jpg'
 ---
 
 *THERE IS ANOTHER ENGINEER/FASHION DESIGNER/WRITER in the world!  Beth had the pleasure of meeting Erin Winick during a talk she was invited to give in Florida as a guest of our former FibSeq star, [Ming Yang](https://fibonaccisequinsblog.com/ming-yang/).*

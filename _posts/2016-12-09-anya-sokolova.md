@@ -7,7 +7,7 @@ tags: [early-career]
 location: Seattle
 company: Microsoft
 field: Tech
-image: /images/posts/2016/12/IMG_9765.jpg'
+image: 'images/posts/2016/12/IMG_9765.jpg'
 ---
 
 ### Tell us a little about you.

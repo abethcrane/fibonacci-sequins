@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/09/IMG_3862-1024x683.jpg'
+image: 'images/posts/2015/09/IMG_3862-1024x683.jpg'
 ---
 
 *This summer, we were delighted to meet Tanya Talkar, a MIT student with the Most. Awesome. Sweater. Ever. who talked about combining her love of tech with her desire to better human-kind.  How? Oh, only working on a cancer vaccine, helping autistic children and enabling nursing home citizens to communicate more easily with their care-givers.  You know, NBD. *

@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: '/images/posts/2015/10/7300030.jpg'
+image: 'images/posts/2015/10/7300030.jpg'
 ---
 
 We were geeking out a bit to meet the lovely woman who OPENED FOR MAROON 5 at a private concert this summer. Nilofer Rajpurkar aka Nilli Minaj was the definition of multi-faceted with her preppy-professional outfits one minute and total skateboarding hip-hop star the next. We were scaling the side of a building to get great shots of this adventurous young woman. Read on!

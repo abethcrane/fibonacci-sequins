@@ -7,7 +7,7 @@ tags: [early-career]
 location: Texas
 company: National Instruments
 field: Tech
-image: '/images/posts/2015/11/IMG_5322.jpg'
+image: 'images/posts/2015/11/IMG_5322.jpg'
 ---
 
 *What do you do after a week of being surrounded by women in tech at Grace Hopper? Well if you're Beth, the answer is travel 2 hours to seek out another one! Alison did a semester abroad at the University of New South Wales, which is where I met her - she actually hosted my first ever Friendsgiving. Austin is a beautiful city, and I'm so glad I had Alison to show me around - I only wish it had been a little less hot!*
@@ -57,7 +57,7 @@ My senior design project has to be it. My team created a home automation system 
 {% responsive_image path: "images/posts/2015/11/IMG_5477-1024x683.jpg" %}
 
 - [Twitter - @alispss](http://twitter.com/alispss) 
-- [Instagram - @alispss](http://instagram.com/alispss)
+- [Instagram - @alisonmontag](http://instagram.com/alisonmontag)
 
 *Buying a house, kicking ass at roller derby, working at National Instruments and (not that she mentioned it) baking up a storm too! All that plus some great advice - reading this definitely has me inspired to kick my productivity up a notch, although I don't think either of us'll be brave enough for Roller Derby any time soon (not that Dona would let me anyway!).*
 
