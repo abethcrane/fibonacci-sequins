@@ -6,7 +6,8 @@
 
       <ul class='c-footer-list o-plain-list'>
         {% for tag in site.tags %}
-          <li><a href='{{ site.baseurl }}/tag/{{ tag[0] }}'>{{ tag[0] }}</a><li>
+        {% assign words = tag[0] | split: '-' %}
+          <li><a href='{{ site.baseurl }}/tag/{{ tag[0] }}'>{% for word in words %}{{ word | capitalize }} {% endfor %}</a><li>
         {% endfor %}
       </ul>
     </div>
