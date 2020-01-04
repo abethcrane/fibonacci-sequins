@@ -22,7 +22,7 @@ Outside of school work and large amounts of caffeine doses, I rock climb and wor
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2016/02/IMG_0583-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/02/IMG_0583.jpg" %}
 
 I’m wearing a butterfly/flower dress that I paired with black (golden heel) shoes. I purchased the dress recently and I am in love with how classy and fun it looks!  The shoes are from H&M, and they're my favorite pair of heels by far; I love the detail in the heel and how it can match with any type of outfit - I've worn them to both formal and causal occasions. A pair of black heels truly is a woman's best friend!
 
@@ -30,7 +30,7 @@ In Spanish, my name means flower so I always try my best to pair my clothes with
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/02/IMG_0571-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/02/IMG_0571.jpg" %}
 
 My style has DEFINITELY evolved the most in college. I used to wear long baggy shirts, sneakers and jeans –I was trying too hard to fit in as an engineering student. In a way, I had lost my personality and I wasn’t being true to myself. My outfits made me feel uncomfortable and it was when I joined a sorority full of other women engineers that I decided to embrace my feminine side. I began to experience with patterns and colored jeans. Soon enough, colored jeans became part of my signature style! Most of my colored pants range from pink to bright yellow.
 
@@ -44,7 +44,7 @@ I love dressing up because it gives me a confidence boost. I live by the motto, 
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/02/IMG_0568-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/02/IMG_0568.jpg" %}
 
 Do it! I chose STEM because I wanted to facilitate the day to day lives of people. My major gives me the opportunity to make this possible by allowing me to see all the fields (medicine, consumer products, power and much more) where engineers are valued. A lot of people might not see it this way but engineers have a much closer connection for the betterment of humanity. Engineers put together tools that allow people to remain connected and explode their full potential.
 
@@ -54,13 +54,13 @@ You will be surprised with how far you can go in this field by proving people wr
 
 ### Anything else you'd like to share with the audience?
 
-{% responsive_image path: "images/posts/2016/02/IMG_0590-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/02/IMG_0590.jpg" %}
 
 As we keep changing into different phases in life, it's easy to put our well-being at the bottom of our to-do list. It's easy to forget who we are because we try to hard to fit in with the rest. Don't be afraid to show the world and yourself who you are. Don't forget that you possess qualities that no other can provide and you also see the world in a different perspective that no one else will. Be bold. Say what you want to say. Do it with passion. Dream wide awake. You are a unique person who has tons to offer so don't let anyone dull your spark. When times get tough, remember that where there's a will, there's a way.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/02/IMG_0574-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/02/IMG_0574.jpg" %}
 
 You can find Flor on [facebook](https://www.facebook.com/flor.alb).
 

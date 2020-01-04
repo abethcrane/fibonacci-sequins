@@ -14,7 +14,7 @@ No lie, the big, fat issues of Vogue, Elle, Harper’s, Cosmo, Marie Claire, Gla
 
 Then comes the best part, the shopping.  This year I did what I usually do - got some lower-cost basics as well as a few statement pieces.  Here are some of the outfits I’m loving:
 
-{% responsive_image path: "images/posts/2015/10/IMG_3866-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_3866.jpg" %}
 
 OMG this coat. This coat is my favorite thing I bought this year and is reserved for fashion events and date nights with my sweetheart.
 
@@ -22,11 +22,11 @@ I got it in NYC during my book launch event with consumer press. I was walking t
 
 I wore this to the Rachel Zoe show at Bellevue Fashion Week and just random people kept asking where it was from. I felt so bad I didn’t have cards to give credit to Tom. The man is a genius. I will be making a stop into both 3NY and Tim's boutique every chance I get for sure.
 
-{% responsive_image path: "images/posts/2015/10/IMG_3804-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_3804.jpg" %}
 
 The *piece de resistance* of the whole shoot? The boots. OH THE BOOTS! I have been lusting and longing for these [Stuart Weitzman Highland](http://www.stuartweitzman.com/store/item/?itemid=92682&mktid=PLA&gclid=Cj0KEQjwwIKxBRDKhOz7ytT30vkBEiQAT1NaPQcIWp0IjVprQCO9la6mZiRPWhmoKGCgzd5fGxIcthsaAmKq8P8HAQ) over-the-knee suede boots for 2 years. Last time I was in NYC in 2013 I tried them on 3 different times and talked myself out of buying them since they were expensive.  I instead, "bought around them", where I got 3 other pairs of boots that I didn’t like as much, that weren’t as good quality and wound up spending as much as I would have on these!  I wear these pretty much every day.  The heel is high (around 4 inches), but is chunky so I can walk around in them all day. I found these [lower cost ones](http://amzn.to/1Lxtf5T) that are a great intro pair for other boot addicts.
 
-{% responsive_image path: "images/posts/2015/10/IMG_3706-1024x656.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_3706.jpg" %}
 
 This next outfit (featuring said boots) is something I’d wear to work, around town to brunch, or take on a trip. Just great basics that can be mixed with many other things.
 
@@ -40,7 +40,7 @@ The last outfit is just fun.  This is something I’d wear for a stroll around 
 
 A lot of people ask me about my fuchsia lipstick that I wear almost every day. It's this incredible long-wearing liquid-turned-matte by Kat Von D called [Bauhaus](http://amzn.to/1LhratF). Extremely flattering on all skin-tones.
 
-{% responsive_image path: "images/posts/2015/10/IMG_39721-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_39721.jpg" %}
 
 Under the cape, I’m in [suede pants](http://amzn.to/1juo3p5) from Rachel Roy, who makes really good quality basics and a [sheer white blouse](http://amzn.to/1QFMfPL) with gold, metal tassle things from my Zara haul. The shoes are trusty Fluevogs, lovely ones called [Ludovika](https://www.fluevog.com/shop/4294-ludovika-burgundy?item=113&of=213&anchor=true&show=all),  a pair I got in San Francisco during the HoloLens team's [//BUILD event in San Francisco](https://youtu.be/xXNuRead66E) (BONUS! You can see our very own Beth Crane in this vid). I love these because they are cute with the laces in or pulled out.
 

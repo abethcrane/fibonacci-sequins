@@ -28,7 +28,7 @@ I also have a huge adventurous side to me so hiking, rowing, and swimming in ran
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/09/IMG_4739-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/09/IMG_4739.jpg" %}
 
 My [blue dress](http://amzn.to/1OG5FEh) (Forever21) really shows off the fun colorful side of me - since I’m Indian I have dark features and bold prints are something I can actually pull off. I love this dress because it makes a statement and it can be dressed down or up.
 
@@ -36,7 +36,7 @@ My other outfit is an American Rag [vest](http://amzn.to/1nGKOba) with some dar
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/09/IMG_4311-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/09/IMG_4311.jpg" %}
 
 My style evolved from Hollister print shirts to a more sophisticated look, probably because I graduated high school. Big milestones along the way were realizing that skirts will always look a little off on me (so I finally stopped investing in them), and discovering the true genius of Sperry’s after breaking them in for a year.
 
@@ -52,7 +52,7 @@ We all have the power to create and build, so don’t let any historical notions
 
 ### What would you say is the project you’ve done that you’re proudest of?
 
-{% responsive_image path: "images/posts/2015/10/IMG_4504-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_4504.jpg" %}
 
 Last summer I got to work in the Open Source Technology Center and I wrote networking providers for Linux servers. This experience exposed me the world of open source operating systems which is something I really knew nothing about before. I learned so much about how to produce code in a team setting. I got through my internship by asking loads of questions and that's something that I'm not afraid of anymore. I used to think asking questions was a sign of weakness but really when you're asking the right questions it can be a sign of knowledge and understanding.
 
@@ -60,7 +60,7 @@ I'm looking forward to the future when I can work on more projects at Microsoft 
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/09/IMG_4819-683x1024.jpg" %}[Twitter](http://twitter.com/rbitia) / [Instagram](http://instagram.com/rbitia) / [Facebook](http://facebook.com/rbitia)
+{% responsive_image path: "images/posts/2015/09/IMG_4819.jpg" %}[Twitter](http://twitter.com/rbitia) / [Instagram](http://instagram.com/rbitia) / [Facebook](http://facebook.com/rbitia)
 
 *We absolutely adored the feline'esque Ria and her passion for mentoring newer students as well as infiltrating the amazing world of open source technology. We know she will make some killer contributions--spreading her mentoring and wisdom even further! We are amazed at Ria's busy schedule of formal coaching/mentoring, being in an engineering sorority, parade captain, outdoors activities, and oh yeah, classes!  This awesome young woman is absolutely killing it at Penn State this year and we can't wait to see what she does this summer. *
 

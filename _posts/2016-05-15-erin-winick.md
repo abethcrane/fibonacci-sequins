@@ -42,7 +42,7 @@ Additionally, sewing my own pieces has given me complete freedom to make exactly
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8754-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8754.jpg" %}
 
 I am a huge proponent of the maker movement *(a 1000x YES!).* I believe so much of what STEM consists of is creativity and problem solving. If you are considering on of the STEM fields, get as much experience having fun with it and getting involved as early as you can. Get hands on experience making things or solving problems.
 
@@ -52,7 +52,7 @@ Do not limit yourself or be afraid to pave your own path.
 
 What is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8742-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8742.jpg" %}
 
 Taking the leap and actually starting Sci Chic is definitely the thing I am proudest of doing. It took a lot for me to actually take the huge step of forming this company - it's honestly really scary putting yourself and your idea out there. You face a lot of judgement in addition to adulation and your success or failure is very public.
 
@@ -60,7 +60,7 @@ However, I am so happy to have done it. The past 6 months that Sci Chic has been
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8725-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8725.jpg" %}
 
 It always bothers me when people expect engineers and scientists to be antisocial. To be honest, most of the best scientists and engineers are fantastic communicators. Being able to express yourself, your ideas and your creations to others is an extremely valuable skill and allows you to do well in the STEM fields. Personally I love writing, meeting new people and connecting with different groups of people.
 
@@ -68,7 +68,7 @@ I hope more people embrace this side of them - I think this will create a bett
 
 How do you see fashion and the STEM fields combining in the future?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8734-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8734.jpg" %}
 
 With wearable technology on the forefront of everyone’s minds I think science and engineering and going to become and increasing part of the fashion industry.
 
@@ -78,13 +78,13 @@ I think in the next 10 years the people in the fashion industry that fully embra
 
 ### Anything else you'd like to share with the audience?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8707-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8707.jpg" %}
 
 Do not be afraid to take an untraditional path. I never thought in a million years I would be able to combine my loves of fashion, 3D printing, making, writing, communication and engineering into one project, but somehow it worked out. There is something perfect out there for you. Do not stop until you find it.
 
 ### What is the best way for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8800-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8800.jpg" %}
 
 I'm most active on Sci Chic’s social media pages which you can find here:
 

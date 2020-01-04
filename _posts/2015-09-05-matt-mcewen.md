@@ -13,7 +13,7 @@ image: 'images/posts/2015/09/IMG_2311.jpg'
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/09/IMG_2011-683x1024.jpg" caption: "Coat: Esprit" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2011.jpg" caption: "Coat: Esprit" %}
 
 I'm a 4th year Physics and Computer Engineering student at [UNSW](http://www.unsw.com/) in Sydney, Australia, spending far too much of my time on totally unrelated pursuits.
 
@@ -27,7 +27,7 @@ But I spend most of my time doing theater; I've taken two major lead roles in m
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/09/IMG_2349-1024x683.jpg" caption: "Headphones: [<a href='http://amzn.to/1N9FrtQ'>AudioTechnica</a>" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2349.jpg" caption: "Headphones: [<a href='http://amzn.to/1N9FrtQ'>AudioTechnica</a>" %}
 
 The shirt is a good example of how I buy new clothes - I wandered past a pop-up factory clearance in the city years ago and it was on special, so I decided I needed another shirt.
 
@@ -41,7 +41,7 @@ It's also got huge lapels, and I have an entertaining tendency to hang my lanky 
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2330-1024x683.jpg" caption: "Jacket: Billabong" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2330.jpg" caption: "Jacket: Billabong" %}
 
 With very little prompting or effort - it's all very Form Follows Function. This is not to say that form is unimportant (people who think it is tend to look silly, and that has its own disadvantages), but things should look and be the way they are for a reason that's more than just lone aesthetics.
 
@@ -49,7 +49,7 @@ I tend to end up in coloured shirts+jeans+boots+jackets a lot because it's the m
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2015-1024x683.jpg" caption: "Shoes: Palladium" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2015.jpg" caption: "Shoes: Palladium" %}
 
 I'd like to specifically point out my boots and my headphones -
 
@@ -69,7 +69,7 @@ The one thing I will say about them is that the laces on my original pair were s
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/09/IMG_1950-1024x683.jpg" caption: "Jeans: Just Jeans" %}
+{% responsive_image path: "images/posts/2015/09/IMG_1950.jpg" caption: "Jeans: Just Jeans" %}
 
 
 Get Stuck In Immediately!
@@ -84,7 +84,7 @@ Don't wait till you're rich, and don't wait till university. Start doing cool sh
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2311-683x1024.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong / Shirt: ThinkGeek / Boots: Palladium" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2311.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong / Shirt: ThinkGeek / Boots: Palladium" %}
 
 Definitely working at the quantum computing center.
 
@@ -100,7 +100,7 @@ Casual afternoon tasks at the center include attempting to become a semi-expert 
 
 ### What's a misconception about a STEM field that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2112-1024x683.jpg" caption: "Jeans: Just Jeans / Coat: Esprit" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2112.jpg" caption: "Jeans: Just Jeans / Coat: Esprit" %}
 
 QUANTUM PHYSICS IS NOT ABOUT CATS.
 
@@ -127,7 +127,7 @@ Those cross-discipline isomorphisms are super cool, but also are really interest
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/09/IMG_2328-683x1024.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong" %}
+{% responsive_image path: "images/posts/2015/09/IMG_2328.jpg" caption: "Jeans: Just Jeans / Jacket: Billabong" %}
 
 
 I write blogs and other things but haven't unified where I publish them yet. When I do, it'll be located at [doublestruck.me](http://doublestruck.me/)

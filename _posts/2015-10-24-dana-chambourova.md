@@ -40,7 +40,7 @@ As I said before, I dream about Loft clothes (probably because they send way too
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/10/IMG_3459-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_3459.jpg" %}
 
 Believe in yourself and remind yourself every day how kickass you are (fake it, till you make it). If you wake up every morning believing it, it will show in the confidence you do things, remind you that you should speak your mind and will also help other believe in you and your ideas.
 
@@ -48,7 +48,7 @@ Sometimes, this field might feel like it's not made for you and be intimidating.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/10/IMG_3488-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/10/IMG_3488.jpg" %}
 
 [https://instagram.com/dnicolaeva](http://instagram.com/dnicolaeva) & [goodreads.com/dnicolaeva](http://goodreads.com/dnicolaeva)
 

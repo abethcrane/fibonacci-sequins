@@ -20,21 +20,21 @@ One of the first things I did after moving to Austin was buy a pair of rollerska
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/11/IMG_5346-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5346.jpg" %}
 
 Most of what I am wearing is second hand. The [dress](http://amzn.to/20WkUwA), the [shoes](http://amzn.to/21sPIqV), the [vest](http://amzn.to/1TGwson), the [purse](http://amzn.to/21sPGPM), as well as all of the [jeans](http://amzn.to/1TGwwEI) I own. I found them all on different visits to Plato's Closet. Thrift shopping is the easiest way to get exposed to a ton of different styles, especially things you wouldn't normally pick up. It's also super budget friendly, so I don't feel bad buying something I'm not sure I'll wear. The hat is from World Market where I stumbled upon it on my mission to get Tim Tams.
 
-{% responsive_image path: "images/posts/2015/11/IMG_5512-1024x680.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5512.jpg" %}
 
 My coworkers joke that I own hundreds of [shirts with cats](http://amzn.to/20WlfPR) on them. I'd like to use this opportunity to point out that I only own 3 cat shirts. I think I got this particular funky space cat shirt from the men's department at Kohls. It pays off to browse different sections sometimes, you might just find something you like. The jeans are American Eagle, but I got them from Plato's Closet along with the sandals.
 
-{% responsive_image path: "images/posts/2015/11/IMG_5433-686x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5433.jpg" %}
 
 My typical roller derby outfit is a baggy shirt (we LOVE [this one](http://amzn.to/1R3bryo)), a pair of shorts, and a bright sports bra for a bit of pop. We practice in a warehouse so the hot summers can be brutal if you don't have proper air flow and skin exposure. I caught this shirt during a sponsored SXSW party last year. I thought the sassy-ness matched my personality so even though it was far too large for me, I cut off the sleeves and repurposed it into a workout shirt. The shorts and sports bra are from Target's activewear section. I bought my [skates](http://amzn.to/21sQ691) from the local roller derby shop (Medusa Skates) about four months ago. They are my babies.
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/11/IMG_5489-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5489.jpg" %}
 
 I used to be a jeans and t-shirt kind of girl. Well, I still am, I love to be comfortable. You won't find me torturing myself with heels for long periods of time, anything too tight, or bulky jewelry. The simpler the better for me. My style initially started developing in college when I was figuring out who I am. I started gravitating toward to a lot of muted colors and dark neutrals in solids or stripes. I think of it as sort of a laid back, moody, classic style.
 
@@ -42,19 +42,19 @@ The Austin mentality has really started influencing the types of clothes I've be
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/11/IMG_5457-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5457.jpg" %}
 
 I think it's important to remember when you're getting into STEM that you have to be ok with failing sometimes. It'll be difficult. Despite that, you shouldn't forget to praise your own small successes and don't let the mistakes get to you. I always have a hard time admitting when I don't know something, but it's important to remember that it's impossible to know everything and no one can fault you for that. Don't doubt yourself and don't let other people dictate what you should think of what you're doing.
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/11/IMG_5398-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5398.jpg" %}
 
 My senior design project has to be it. My team created a home automation system that's goal was to mesh different standards in an easy to setup and control platform. We covered the whole spectrum of programming from kernel and user-mode development, to web back-end, to web and mobile apps. I spent most of my time working on the web page which was something totally different than I had ever done. While I did learn a lot, I'm most proud of our team dynamic and how dedicated we all were to the project. I want to be that dedicated to every project I work on in the future.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/11/IMG_5477-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/11/IMG_5477.jpg" %}
 
 - [Twitter - @alispss](http://twitter.com/alispss) 
 - [Instagram - @alisonmontag](http://instagram.com/alisonmontag)

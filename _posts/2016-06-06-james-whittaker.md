@@ -22,7 +22,7 @@ I specialize in enjoying life. I’m really picky about the activities I engage 
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2016/05/IMG_9755-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_9755.jpg" %}
 
 I have on cool socks. Socks are the fashion equivalent of your soul. They aren’t on full external display and people have to be around you for a while before getting a glimpse of them. Mine have little beer mugs on them *([we found them!](http://amzn.to/25IbxYY))*. Yep, that’s my soul all right...it’s a little malty. I enjoy exerting my personality with my clothes. I wear a lot of music t’s that I buy when I go to concerts with my kids. And, of course, I have built a brand out of my "do epic shit" shirts. Those are fun and almost serve as a warning to people about what I am really like as a person.
 
@@ -34,7 +34,7 @@ This is one reason I don’t wear suits. The European suit culture, to me, screa
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/05/IMG_9729-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_9729.jpg" %}
 
 My style is low-effort. I am blessed by sharing my life with people who like to shop. They pick things out for me. Sometimes I come home to a great big pile of clothes and I get to try on things while they assess my look. I love those days! Whenever there is an intersection of "dad that looks good on you" and "this feels good on me" then I keep it. Anything that fails either of those tests goes back.
 
@@ -44,7 +44,7 @@ Einstein famously didn’t give a shit about how he looked. I’m not so sure I 
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/05/IMG_9699-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_9699.jpg" %}
 
 Caution advised. Careers in STEM are great. Education in STEM...not so much. I think we over rotate on math and arcane facts and figures that just aren’t useful in real careers. When was the last time anyone, other than an 11th grade math teacher, needed to factor a trinomial in their actual job? STEM edu tends toward the rote but a STEM career is everything but rote. It requires a lot of creativity so do not let the educational system take away from your creative self. Never neglect the arts. Never neglect your creative lifestyle. If you are going to study STEM, get a creative side hustle going to ensure your creative juices remain nice and liquid.
 
@@ -54,7 +54,7 @@ Having said all that, learn to code. It’s the last human skill that will be us
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/05/IMG_9865-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_9865.jpg" %}
 
 My most recent one, the class I am giving on Creativity. But ask me again next year and I’ll tell you something new. Like Bob Dylan said: those who aren’t busy reinventing themselves are busy dying. I don’t like resting on my past glories. I’ve done cool shit, but I did that cool shit yesterday and yesterday stopped mattering the moment the sun rose today. I disappointed a lot of people off when I stopped teaching my Career Superpowers class but I had to do it. It was getting too easy. I could just step up and slay it every time. I felt a need to challenge myself to do something new, something I have to learn to get good at. Something I might be a little scared of. Something that might just beat me.
 
@@ -62,7 +62,7 @@ People put a lot of expectations on you to keep doing what you are doing. They l
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/05/IMG_0005-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_0005.jpg" %}
 
 [@docjames](http://twitter.com/docjamesw) on Twitter and at my new website [docjamesw.com](http://docjamesw.com) *(recordings of his amazing talks!)*
 

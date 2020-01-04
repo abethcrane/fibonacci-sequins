@@ -26,7 +26,7 @@ I think of myself as a game developer but I now get paid to make platforms (like
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2016/10/IMG_0938-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0938.jpg" %}
 
 Tron is my go-to outfit for any occasion where I can get away with it. Which is perhaps more often than you might think.
 
@@ -36,7 +36,7 @@ The galactic onesie and tight pants are another homage to futuristic looks scien
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0828-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0828.jpg" %}
 
 I used to subscribe to the fashion sense espoused by Einstein, Obama, Zuckerberg -- have replicas of the same thing, and save your decision-making cycles for more important topics. But then I also like to go to cyber goth clubs, so I always had this "business in the daytime, party at night" fashion dichotomy. One day I heard a colleague described as "works like a coal miner, dresses like a rock star" and I thought, that's what I want for my epitaph, so I gradually started looking for items that I could wear every day that had a more distinct sense of style.
 
@@ -44,7 +44,7 @@ Not quite rock star, but more stylish than a closet full of hoodies.
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1005-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1005.jpg" %}
 
 I love our local designer, Michelle Conley, who runs Mishu Boutique.
 
@@ -56,7 +56,7 @@ I envy the variety of legitimate and stylish looks women have. Men have less var
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0874-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0874.jpg" %}
 
 I feel the same way about coding that I hear poets and novelists describe their passion for writing. Either you can't help but write or you do something else. Because coding at upper levels is something you have to want to do. It's how you spend your free time. It's what you'd do if you had fuck-you money. That's me. My dream is to make $10 million then focus 100% on making game tech that I want to make.
 
@@ -66,7 +66,7 @@ The advice is: Get into STEM because you can't be kept from it. Don't pursue STE
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0953-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0953.jpg" %}
 
 HoloLens, especially the parts where we took broken or incomplete ingredients and turned them into viable products.
 
@@ -74,7 +74,7 @@ We used to classify HoloLens into 2 categories: Hard and Miracle. We used to hav
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0852-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0852.jpg" %}
 
 That STEM is for nerdy guys. Wrong on both counts.
 
@@ -86,13 +86,13 @@ Similarly for cosplay. And here's where STEM comes full circle: to get exception
 
 ### Anything else you'd like to share with the audience?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0980-728x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0980.jpg" %}
 
 The most important aspect in life is sharing it with others. Who you're with is more important than where you are or what you do. Find people who synergize with you, form a team, and grow that team together.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/10/IMG_0930-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_0930.jpg" %}
 
 You can find me on [twitter: @MiJaGourlay](http://twitter.com/mijagourlay).
 

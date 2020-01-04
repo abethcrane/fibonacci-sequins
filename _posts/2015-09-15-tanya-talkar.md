@@ -7,14 +7,14 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'images/posts/2015/09/IMG_3862-1024x683.jpg'
+image: 'images/posts/2015/09/IMG_3862.jpg'
 ---
 
 *This summer, we were delighted to meet Tanya Talkar, a MIT student with the Most. Awesome. Sweater. Ever. who talked about combining her love of tech with her desire to better human-kind.  How? Oh, only working on a cancer vaccine, helping autistic children and enabling nursing home citizens to communicate more easily with their care-givers.  You know, NBD. *
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/09/IMG_3862-1024x683.jpg" caption: "Shirt: The Limited" %}
+{% responsive_image path: "images/posts/2015/09/IMG_3862.jpg" caption: "Shirt: The Limited" %}
 
 I'm a rising senior at MIT getting ready to finish my Masters and head out into the real world. I’ve always been drawn to technology - finding ways to make school projects easier by writing a short program or exploring the new applications of computer science in biology and linguistics. Over the summer I worked in the OneDrive Mobile team, which was a great experience.
 
@@ -22,7 +22,7 @@ I'm a rising senior at MIT getting ready to finish my Masters and head out into 
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/09/IMG_3902-683x1024.jpg" caption: "Shirt: The Limited" %}
+{% responsive_image path: "images/posts/2015/09/IMG_3902.jpg" caption: "Shirt: The Limited" %}
 
 I pretty quickly realized that I wanted to dress in things that made me feel comfortable and fit me well, even though they might not be the 'right style'. I love solid colored tops paired with more subtle bottoms. But of course, I can’t resist the occasional print or sequined item (*we loooooove sequined items!*).
 
@@ -30,7 +30,7 @@ I pretty quickly realized that I wanted to dress in things that made me feel com
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/09/IMG_3871-683x1024.jpg" caption: "Shirt: The Limited / Shorts: Ann Taylor Loft" %}
+{% responsive_image path: "images/posts/2015/09/IMG_3871.jpg" caption: "Shirt: The Limited / Shorts: Ann Taylor Loft" %}
 
 Experiment. Go and explore the field to see what exciting new things are happening. If you find yourself wanting to just read more and more, then you know that STEM is for you. After all, you want to make sure that you’re really passionate about whatever you choose to follow in life.
 
@@ -38,7 +38,7 @@ Experiment. Go and explore the field to see what exciting new things are happeni
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/09/IMG_3975-1024x683.jpg" caption: "Shoes: Anna Klein / Shorts: Ann Taylor Loft / Shirt: The Limited" %}
+{% responsive_image path: "images/posts/2015/09/IMG_3975.jpg" caption: "Shoes: Anna Klein / Shorts: Ann Taylor Loft / Shirt: The Limited" %}
 
 As part of an assistive technology class at school, I worked on a project which brought a nurse call system to a residential nursing home in Boston. We were able to create an iOS application that worked on iPads and would enable residents to call for help from anywhere within the home, not just within their rooms, so that they could get the aid that they needed.
 

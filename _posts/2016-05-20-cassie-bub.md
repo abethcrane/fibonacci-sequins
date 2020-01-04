@@ -38,7 +38,7 @@ It's scary to put yourself out there, whether that's a new outfit or as simple a
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8415-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8415.jpg" %}
 
 One of the cool things about the field as it is evolving now, is that is incredibly low-cost to you to get involved. There is still a learning curve to get started, but there are so many resources online that are free and make it easy to learn. If you really like something in the STEM field utilize these resources that people have created for you! There is so much information out there, and it's never to late to start!
 
@@ -46,12 +46,12 @@ I was intimidated by the people who said they had been coding for years and knew
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8422-1024x683.jpg" %} 
+{% responsive_image path: "images/posts/2016/05/IMG_8422.jpg" %} 
 This past summer I worked on Bing answers and was able to incorporate my love for music into something really cool! [I created a guitar tuner](https://www.bing.com/search?q=guitar+tuner&go=Submit&qs=n&form=QBLH&pq=guitar+tuner&sc=8-11&sp=-1&sk=&ghc=1&cvid=ca04a98645654bdcb930d9e149559790), and so far it seems like people are really liking it!
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/05/IMG_8406-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/05/IMG_8406.jpg" %}
 
 [Twitter](https://twitter.com/cassiebub) & [Instagram](https://instagram.com/c_bub) :)
 

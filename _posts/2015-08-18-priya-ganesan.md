@@ -14,7 +14,7 @@ image: 'images/posts/2015/08/IMG_1594.jpg'
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/08/IMG_1594-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1594.jpg" %}
 
 I'm a rising junior and Computer Science major at Stanford University. I'm focusing my studies on natural language processing and information analysis because a) it's fun, and b) the applications to other fields are exciting and endless.
 
@@ -26,7 +26,7 @@ I love to read (I used to run a book blog, sadly now defunct), play tennis, danc
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/08/IMG_1700-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1700.jpg" %}
 
 Yellow Top/Snake Leggings: My sister urged me not to get these leggings because she thought they looked creepy, but I thought the snake pattern was different and cool! The first time I wore them, I actually scared myself because I mistook my leg for a snake at one point. I love the cheerful yellow color and cutout pattern on the straps of the top, and the boots are super comfy - I wear them everywhere!
 
@@ -36,7 +36,7 @@ Cream Lace Top/Jeans: Although I'd like to say that I dress up every day, I have
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1914-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1914.jpg" %}
 
 I've always loved bright, colorful, flashy clothes. I think this may be partially because Indian clothes are so vibrant and opulent. But I also think of myself as a pretty playful person and wearing colorful clothes makes me feel happier and more energetic.
 
@@ -46,7 +46,7 @@ I don't wear glitter anymore, but I still try to wear clothes that are fun, whet
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1670-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1670.jpg" %}
 
 Some of the coolest jobs that utilize STEM aren't in inherently STEM fields, and aren't just desk jobs either. One of my friends is a tech intern this summer at a major fashion retailer and gets to see some of the ins and outs of the fashion industry. Another friend gets to constantly travel around the world and meet new people for her tech job. And some of the most impactful and fulfilling jobs are at the intersection of science/tech and another field.
 
@@ -54,7 +54,7 @@ Also, just because you are interested in STEM doesn't mean you have to be obsess
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1882-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1882.jpg" %}
 
 You can find me on [Facebook](http://facebook.com/priyagan) :)
 

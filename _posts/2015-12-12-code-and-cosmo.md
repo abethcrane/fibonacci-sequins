@@ -18,7 +18,7 @@ First up was kicking off [Computer Science](https://blogs.microsoft.com/firehose
 
 I met many students, ages 6-17. They had all been coding for two or more years.They weren’t approaching the two games (Minecraft and Star Wars) with newness and wonder.
 
-{% responsive_image path: "images/posts/2015/12/IMG_2439-e1449947421361-768x1024-1.jpg" caption: "Leo hacked the Star Wars game and got it to crash in 20 minutes. Someone hire this kid!" %}
+{% responsive_image path: "images/posts/2015/12/IMG_2439.jpg" caption: "Leo hacked the Star Wars game and got it to crash in 20 minutes. Someone hire this kid!" %}
 
 They were approaching them with confidence and even some fun attitude! For example, six year old Leo was like, "Who needs an hour for this? I was able to finish and even crash the game by adding a 100 new character in 20 minutes."
 

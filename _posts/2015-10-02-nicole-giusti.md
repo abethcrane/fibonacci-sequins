@@ -14,7 +14,7 @@ image: 'images/posts/2015/09/IMG_7455.jpg'
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/09/IMG_7445-683x1024.jpg" caption: "Nose Ring: <a href='https://www.etsy.com/shop/Holylandstreasures'>Holylands Treasures</a>" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7445.jpg" caption: "Nose Ring: <a href='https://www.etsy.com/shop/Holylandstreasures'>Holylands Treasures</a>" %}
 
 I’m from Camarillo, CA, and next year, I’m graduating with my B.S. in Computer Science (and a minor in Women’s and Gender Studies) from Cal Poly in San Luis Obispo, CA. Last summer, I was a software dev intern on the Windows Updates Deployment team.
 
@@ -22,7 +22,7 @@ On a typical Friday night, you’ll probably find me playing Dungeons and Dragon
 
 ### Tell us a little about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/09/IMG_7357-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7357.jpg" %}
 
 My dress (very similar [here](http://amzn.to/1Vtqut4)) and [cardigan](http://amzn.to/1Rlhlg4) are both from Goodwill. With all the textile waste and sweatshop labor issues in the fashion industry, I’m a strong advocate of the recycled clothing movement! In a similar vein the the belt is ~~stolen~~ borrowed from my sister who has equally great, albeit very different, style.
 
@@ -32,7 +32,7 @@ My favorite part of this outfit is definitely my KCPR pin.
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/09/IMG_7442-1024x683.jpg" caption: "Shoes: Divided" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7442.jpg" caption: "Shoes: Divided" %}
 
 My mom dressed me and my younger sister identically (purple tracksuits, Pokémon shirts, etc.) until middle school, but I’ve been through a lot of phases since then. Most notably, I used to be a scene girl, so I wore a lot of eyeliner, black hoodies, and neon-colored pants.
 
@@ -40,7 +40,7 @@ Nowadays, I’m probably wearing any combination of floral prints, fishnets, dad
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/09/IMG_7388-683x1024.jpg" caption: "Cardigan: American Apparel" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7388.jpg" caption: "Cardigan: American Apparel" %}
 
 If you feel like you’re too behind to start, you’re not, and don't let anyone say you are.
 
@@ -52,7 +52,7 @@ About a year ago the same person who made that rude comment asked me for help on
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/09/IMG_7364-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7364.jpg" %}
 
 Three years ago, I became very involved in a club at my school to promote women in tech called [Women Involved in Software and Hardware](http://www.calpoly.edu/~wish/) (WISH). I coordinated outreach events to encourage young women to pursue tech fields (e.g., teaching kids how to make a soft circuit LED crafts, leading Lean In circles, etc.), and I organized WISH’s mentorship program.
 
@@ -60,7 +60,7 @@ Last spring, I became president of WISH, which was one my proudest accomplishmen
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/09/IMG_7455-683x1024.jpg" caption: "Mascara: Maybelline Great Lash Mascara / Eyeliner: Wet n Wild H2O Proof Liquid Eyeliner / Foundation: Maybelline BB Cream / Contour: L'Oreal True Match / Lipstick: Kat Von D Studded Kiss Lipstick (Slayer)" %}
+{% responsive_image path: "images/posts/2015/09/IMG_7455.jpg" caption: "Mascara: Maybelline Great Lash Mascara / Eyeliner: Wet n Wild H2O Proof Liquid Eyeliner / Foundation: Maybelline BB Cream / Contour: L'Oreal True Match / Lipstick: Kat Von D Studded Kiss Lipstick (Slayer)" %}
 
 Follow me on [instagram](http://instagram.com/nicole.giusti)!
 

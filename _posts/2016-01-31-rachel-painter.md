@@ -16,7 +16,7 @@ Hey, I’m Rachel. I’m a second year student at University of Edinburgh studyi
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2016/01/IMG_6626-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6626.jpg" %}
 
 As a plus sized person, especially shopping in female oriented lines, there aren’t a ton of options compared to straight sizing so about half my wardrobe is from Asos’s Curve line which I really adore. It is modern and interesting and my [cropped top](http://amzn.to/1ngumxW), [jeans](http://amzn.to/1OG4jcX), and [long cardigan](http://amzn.to/1nGJqVW) are from this line (not currently available).
 
@@ -26,7 +26,7 @@ For shoes I particularly gravitate towards the brand Vagabond which in terms of 
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/01/IMG_6618-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6618.jpg" %}
 
 Oh god, my style used to be all over the place. I’d like interesting "edgy" items but then flip back to super feminine dresses and cardigans to jeans and tops. Teenage years were an odd slightly embarrassing mix of hot topic and the local department store.
 
@@ -36,7 +36,7 @@ Lately I’ve been re-incorporating some more feminine elements into my style bu
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/01/IMG_6637-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6637.jpg" %}
 
 Don’t be intimidated. This is obviously easier said than done but there is a huge misconception that STEM is only for geniuses who know exactly what they’re doing and what they want to pursue. All throughout my childhood and high school I had an affinity for the humanities but it was certain aspects of science and math that really interested me and with my love for computers I decided to challenge myself and major in a subject that I'm passionate about, even if it doesn't come naturally to me.
 
@@ -44,7 +44,7 @@ I came into this major with no real background in programming, just a vague idea
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/01/IMG_6585-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6585.jpg" %}
 
 No specific large project stands out in my mind but I get a lot of satisfaction and pride out of the art I create. I rarely share it, and if I do it is usually with a couple close friends, so it is purely just for my benefit. I love being able to create and express myself and I find it a more unlimited and personal expression than fashion.
 
@@ -54,13 +54,13 @@ I'm mostly self taught when it comes to art and have about zero experience drawi
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2016/01/IMG_6593-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6593.jpg" %}
 
 To be honest I think most of the stereotypes associated with computer science have a basis in reality but it isn’t nearly as overwhelming as portrayed; You won’t be the only not white/cis/straight/dude, you won’t be the only one who isn’t consumed by the newest technology or nerd culture, and you won't be the only one who does or doesn’t like video games.
 
 ### Anything else you'd like to share with the audience?
 
-{% responsive_image path: "images/posts/2016/01/IMG_6651-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/01/IMG_6651.jpg" %}
 
 Don’t take yourself too seriously with clothes, or in general really. Have fun, experiment, try really hard or don’t try at all. Clothes are like fun playgrounds that you get to show off to everyone so wear what you want unapologetically. 
 

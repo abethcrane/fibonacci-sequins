@@ -22,7 +22,7 @@ My other passions include women empowerment, gender equality, and advancing tech
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2017/01/IMG_2405-819x1024.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2405.jpg" %}
 
 In my first outfit, I'm wearing a sweater from Free People, one of my favorite stores to shop at. They have the most unique pieces! I particularly adore the sleeves on the sweater; the bigger they are, the better! I love the versatility and class of denim and paired the sweater with a denim on denim to preserve the blue color palette.
 
@@ -30,7 +30,7 @@ My second outfit shows a different side of style and my love for lace and all th
 
 The last outfit is one you'll probably find me wearing on a typical day! I'm all for oversized capes that allow you to layer up easily, and I picked up this one from Zara.
 
-**How did your style evolve to what it is now?{% responsive_image path: "images/posts/2017/01/IMG_2474-1024x683.jpg" %}**
+**How did your style evolve to what it is now?{% responsive_image path: "images/posts/2017/01/IMG_2474.jpg" %}**
 
 I started off having no clue what personal style meant.
 
@@ -40,7 +40,7 @@ I went from wearing whatever I saw on everyone else, to viewing my style as a fo
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2614-768x1024.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2614.jpg" %}
 
 I love a number of brands ranging from African designers creating amazing Afrofusion pieces to haute couture. I'd say - Stella Jean, Delpozo, Georges Hobeika, Grassfields, Ofuure, AAKS, Zuhair Murad, Elie SAAB, ASOS, Free People, Zara, Iamisigo, and the list goes on!
 
@@ -48,7 +48,7 @@ It's hard to pick one style icon that inspires me. I find that I gain most of my
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2548-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2548.jpg" %}
 
 There's a lot of variety in STEM, from working as a data scientist at Microsoft to working as a cosmetic engineer at MAC. I'd suggest doing research on STEM careers in different fields, and seeing what you lean towards.
 
@@ -58,7 +58,7 @@ If you end up taking a class and not enjoying it, that's okay too! It's worth gi
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2575-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2575.jpg" %}
 
 At work as a Program Manager, I recently shipped a product called [the OMS Gateway](https://blogs.technet.microsoft.com/msoms/tag/oms-gateway/), that helped unblock a number of our top customers who were unable to send critical data to the cloud from thousands of servers that had no internet connectivity.
 
@@ -68,19 +68,19 @@ Along a different vein, I partnered with a fashion illustrator, poet and fashion
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2634-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2634.jpg" %}
 
 You can be interested in a STEM field and have other varying interests as well. I wish I was more aware of this in college and spent less time feeling bad about not fitting in. One of my favorite designers, Tom Ford, is an architect, fashion designer, screenwriter and film director and I'm fascinated by how multitalented he is and the way he honors each facet. You don't need to enjoy playing video games (if you do, that's completely fine too!) or spend all your free time developing to be considered a true developer or to validate your love for the field.
 
 ### Anything else you'd like to share with the audience?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2669-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2669.jpg" %}
 
 I'm a strong believer in living life from a place of love, and not fear and each day I aspire to live out this truth. I'd love to encourage everyone reading to do the same, and face life authentically and fearlessly.
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2017/01/IMG_2649-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2017/01/IMG_2649.jpg" %}
 
 I love connecting with new people, you can find me here:
 

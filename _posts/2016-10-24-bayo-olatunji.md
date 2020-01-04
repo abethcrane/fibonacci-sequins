@@ -24,16 +24,16 @@ I believe the sky is NOT the limit - our imaginations are. This belief lead me t
 
 I used to be very much anti-chic, but my sister has made it her mission to fix that.
 
-{% responsive_image path: "images/posts/2016/10/IMG_1508-683x1024.jpg" %} 
+{% responsive_image path: "images/posts/2016/10/IMG_1508.jpg" %} 
 I  usually like to find clothes that are simple and elegant. When I was in China, I discovered Uniqlo, which I have to say is high on my fav store list now. I got a few nice button up shirts, T shirts, and a simple Jacket. This (hopefully) usually keeps me in the simple-yet-elegant bucket.
 
-{% responsive_image path: "images/posts/2016/10/IMG_1627-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1627.jpg" %}
 
 This is a Nigerian outfit that was made when I went home last year. Every time I go back home my mom always commissions our tailor to make us a new outfit for that year. The jacket is one I got made when I was in Thailand. I noticed they pair very well together and have combined them since. It's multi-cultural :)
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1473-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1473.jpg" %}
 
 As I mentioned earlier, I used to not be a "chic" person. I kind of wore whatever was comfortable. I couldn’t find a good intersection between comfort, elegant, and NOT STUPIDLY EXPENSIVE. My sister wanted to make sure I didn’t embarrass her when we are out together (jk), so she started buying me nice looking clothes as gifts.
 
@@ -41,13 +41,13 @@ My sister’s efforts + being around chic people + having $$ has allowed me to 
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1603-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1603.jpg" %}
 
 Uniqlo hahaha. I just discovered it and I will rave about their clean and simple style to the world.
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1465-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1465.jpg" %}
 
 STEM is basically seeping into everything, so STEM can probably lead you into any interest. This path you are about to choose is going to be difficult, but trust me, it’s definitely worth it. Here are some things to remember:
 
@@ -58,7 +58,7 @@ STEM is basically seeping into everything, so STEM can probably lead you into an
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1614-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1614.jpg" %}
 
 I have worked on so many things at Microsoft and believe me, I am very proud of them all. For this let's do a throwback - at MIT I took a class called [6.111](http://web.mit.edu/6.111/www/f2015/index.html) which focused on digital systems. For our final project, we decided to create the game, Guitar Hero, using FPGAs and real guitars. The number of things we had to learn was ridiculous but so much fun. Some at the top of my mind are:
 
@@ -72,7 +72,7 @@ I know many of you have stories of living in the lab, I'd love you to share th
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2016/10/IMG_1544-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/10/IMG_1544.jpg" %}
 
 [Facebook](https://www.facebook.com/bayo0) / [Twitter](https://twitter.com/lilibayo) (I should use this more) / [Instagram](https://www.instagram.com/lilijason6/)
 

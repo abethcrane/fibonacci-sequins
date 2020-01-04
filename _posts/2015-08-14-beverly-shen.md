@@ -14,7 +14,7 @@ image: 'images/posts/2015/08/IMG_1045.jpg'
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/08/IMG_1045-683x1024.jpg" caption: "Sign: Microsoft Stationery / Dress: TopShop / Shoes: Nine West" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1045.jpg" caption: "Sign: Microsoft Stationery / Dress: TopShop / Shoes: Nine West" %}
 
 My name is Beverly Shen and I am going into my junior year of computer engineering at the University of Toronto. I'm a Canadian through and through, born and raised in the nation's capital, Ottawa. I’m currently in my second summer internship on the Microsoft Office team and loving all the experiences and new skills I'm learning here. I don't know if I chose the engineering life or if it chose me, but with both my parents being computer and electrical engineers, and my grandparents being mechanical engineers, I was immersed into math and sciences from a young age.
 
@@ -24,7 +24,7 @@ One of my personal goals for this upcoming school year is getting in shape which
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/08/IMG_1303-683x1024.jpg" caption: "Skirt: <a href='http://www.zara.com/us/en/woman-c270086.html'>Zara Italia</a> / Shoes: <a href='http://www.naturalizer.com'>Naturalizer</a>"  %}
+{% responsive_image path: "images/posts/2015/08/IMG_1303.jpg" caption: "Skirt: <a href='http://www.zara.com/us/en/woman-c270086.html'>Zara Italia</a> / Shoes: <a href='http://www.naturalizer.com'>Naturalizer</a>"  %}
 
 This floral skirt was brought back from Italy by my mother. The bold splashes of colour from floral pattern and the flare of the skirt when I twirl makes me feel dainty and elegant. Going along with that whimsical feeling I lace braided my hair and clipped it up with a cute white bow. In this outfit I feel like I’m dressed for a relaxing afternoon of high tea at the Fairmont Hotel :)
 
@@ -34,7 +34,7 @@ I purchased the neon green dress from TopShop last year for $20 (such a steal!).
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1529-1024x683.jpg" caption: "Shoes: Naturalizer" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1529.jpg" caption: "Shoes: Naturalizer" %}
 
 While growing up my mom used to love to dress my two older twin sisters and me in matching outfits, so I spent most of my childhood "tripleting" with my sisters. As we grew up we each developed our own sense of style, but that doesn’t stop me from "borrowing" clothing from my sisters’ closets (tripling the size of my wardrobe, without the guilt of having to buy everything!).
 
@@ -42,7 +42,7 @@ Now days as a busy college student my outfits are centered around comfort during
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1514-683x1024.jpg" caption: "Shirt: <a href='https://www.joefresh.com'>Joe Fresh</a> / Jeans: H&M" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1514.jpg" caption: "Shirt: <a href='https://www.joefresh.com'>Joe Fresh</a> / Jeans: H&M" %}
 
 There’s this strange notion perpetrated by popular media that all women in tech/engineering are nerdy and unattractive. But I can tell you first hand, some of the most inspiring and badass women I’ve met are in the tech industry! It can be daunting to learn coding when is seems like everyone who codes is male. I remember being the only girl in my grade 12 AP compsci class and feeling extremely intimidated by all the boys in my class who already knew multiple languages and had written their own apps. But so what if they already know how to code? The whole point of taking the class was to learn how to code!
 
@@ -50,7 +50,7 @@ If science or technology is something you’re interested in, don’t be afraid 
 
 ### Who inspires you the most?
 
-{% responsive_image path: "images/posts/2015/08/IMG_1386-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_1386.jpg" %}
 
 As cheesy as it sounds my number one role model has always been my mom. I guess you could say I am following in my mother's footsteps with my choice to major in computer engineering. My mom is one of the most hardworking and intelligent people I know. Never one to shy away from voicing her opinion, my mom taught me the importance of being assertive and well-spoken, which can be a very useful skill in an industry primarily dominated by men. My mom has shown me that despite what some say, women can find a work life balance between motherhood and pursuing excellence in her career. She always told me that gender and race do not determine how far you go in your career, but rather it is diligence and hard work that leads to success.
 

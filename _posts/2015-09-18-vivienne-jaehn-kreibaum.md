@@ -7,7 +7,7 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'images/posts/2015/08/IMG_3325-683x1024.jpg'
+image: 'images/posts/2015/08/IMG_3325.jpg'
 ---
 
 *One day Beth and Dona were nonchalantly strolling through the woods when, lo and behold, we encountered the one and only Alice.*
@@ -19,7 +19,7 @@ image: 'images/posts/2015/08/IMG_3325-683x1024.jpg'
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/08/IMG_3325-683x1024.jpg" caption: "Dress: H&M" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3325.jpg" caption: "Dress: H&M" %}
 
 I entered the tech industry to develop skills that I can use to hopefully revolutionize the clean energy industry. I have a vision of integrating science with art: to engineer a world that uses its food, water, and energy resources more intuitively, while showcasing STEM design through edgy film documentaries and art exhibits.
 
@@ -33,7 +33,7 @@ My other interests include scuba diving, rugby, hiking, reading (voraciously!) a
 
 #### Baby Blue Dress
 
-{% responsive_image path: "images/posts/2015/08/IMG_3353-1024x683.jpg"%}
+{% responsive_image path: "images/posts/2015/08/IMG_3353.jpg"%}
 
 This baby-blue dress is from H&M—a simply modest and flattering piece that suited my student budget. It's actually the first piece of brand new clothing that I bought from a chain retail store in over a year (I secretly dread clothing shopping!).
 
@@ -43,7 +43,7 @@ My pearl-toned earrings are from my local Salvation Army thrift shop, all the 
 
 #### Black Salsa Outfit
 
-{% responsive_image path: "images/posts/2015/08/IMG_3620-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3620.jpg" %}
 
 I like to think that Macklemore is my personal style icon, because that vest came straight from a thrift shop (\#itwas99cents), and the skirt is actually a bathing suit cover-up in disguise! It's one of those reversible dresses that can be worn many ways - I have taken this thing from white sand dunes in the Caribbean to high school semi-formal dances.
 
@@ -53,7 +53,7 @@ I wore my favourite earrings here because they add a pop of colour and wildfire
 
 #### Alice-in-Wonderland traipsing through the woods
 
-{% responsive_image path: "images/posts/2015/08/IMG_3683-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3683.jpg" %}
 
 Can you guess who designed this dress? I can’t! It was a lucky find at the Eastside Flea Market during one of its many visits to UBC’s Vancouver campus. Whoever it was originally designed or manufactured by, their brand has since been revitalized into a reworked piece of recycled fashion. I love supporting local vendors, flea markets, and consignment stores to give old fabric new life; I believe that there are more than enough quality pieces of clothing out there to suit my every need—it’s just about finding the right way to reuse what is already available. It is also a great way to reduce consumption of raw materials and ensure that I'm not supporting unethical labour.
 
@@ -63,7 +63,7 @@ The earrings that I like to match with this outfit remind me of a solar system, 
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3642-1024x683.jpg" caption: "Earrings: bought in Tanzania" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3642.jpg" caption: "Earrings: bought in Tanzania" %}
 
 
 Back in elementary school, I definitely went through a tomboy and punk-goth phase. High school saw me grow into a more classy and modest individual, but I definitely explored some questionable outfits along the way. Now, working at a tech company allows me to lounge in jeans and a sweater on those cold rainy days, or playful summer dresses and bright skirts when it’s 30+ degrees outside (in Celsius, because I’m Canadian).
@@ -76,13 +76,13 @@ Earrings are typically my only accessory, and I love lace and high-waisted or hi
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3694-2-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3694.jpg" %}
 
 Since I mostly shop consignment, I don’t often purchase from big brands. But that doesn’t mean I haven't cultivated an indulgent Instagram following for companies like Kit and Ace (ethically produced cashmere), For Love and Lemons (abundantly lacey clothing and lingerie), Freddy (jeans that are girl’s butt's best friend), ALO Yoga (great for working out, dance, and... yoga!)
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3364-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3364.jpg" %}
 
 1. Do not be turned off by the words "boring" or "difficult"; frankly, working in STEM makes you feel like you can do anything! STEM is a field based upon service, and chartered by innovation and creation - the products we create empower people to push the boundaries of achievement. After all, *Engineering* is just a fancy word for 'inventing' and *Technology* is just a fancy word for 'cool gadgets powered by math and science'.
 2. If you feel that you would miss out on your artistic side by pushing yourself into STEM, think again! There are many examples of visionary organizations who are out to change the world by using STEM design to reach out to people through art.
@@ -92,7 +92,7 @@ Since I mostly shop consignment, I don’t often purchase from big brands. But t
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3507-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3507.jpg" %}
 
 For professional purposes, feel free to check out my [LinkedIn account;](https://www.linkedin.com/profile/view?id=AAkAAAsarg0BnjLin2mZ3kqJWJAySuf9QcYEYko&authType=NAME_SEARCH&authToken=E_Or&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A186297869%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1442515187042%2Ctas%3AVivienne%20Jaehn-Kreibaum) I follow a lot of companies in the tech and renewable energy industry, and am always updating my profile to reflect the kind of person that I envision myself being. I get a lot of great inspiration and ideas from other professionals.
 

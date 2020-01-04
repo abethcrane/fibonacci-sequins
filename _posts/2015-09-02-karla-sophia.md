@@ -14,7 +14,7 @@ We reached out to Karla Larriva to do a photo shoot with us and she brought alon
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/08/IMG_2392-1024x683.jpg" caption: "Karla on the right: Shirt: Worthington / Necklace: Ecuador / Jeans: Target / Shoes: Payless Shoes<br />Sophia on the left: Sweater: Nordstrom" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2392.jpg" caption: "Karla on the right: Shirt: Worthington / Necklace: Ecuador / Jeans: Target / Shoes: Payless Shoes<br />Sophia on the left: Sweater: Nordstrom" %}
 
 **Karla:** I was born and raised in Ecuador, although I'm currently living in Utah pursuing a Computer Engineering degree at Brigham Young University in Provo. This Summer I'm a Program Manager intern for ECO-Operations under MSIT, where I'm in charge of the well-being of a project which will be used to report service health of systems in our organization.
 
@@ -28,7 +28,7 @@ I love being able to go to new places around the world and embrace new cultures 
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/08/IMG_2600-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2600.jpg" %}
 
 **Karla:** My jewelry is made of [Tagua nut](http://amzn.to/1UqMONS) (aka vegetable ivory), a common type of jewelry in Ecuador (similar necklace [here](http://amzn.to/1KqzCt9)).
 
@@ -38,7 +38,7 @@ My more formal outfit is something that I usually wear for big meetings or Chur
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_2552-683x1024.jpg" caption: "acket: Purchased in Venice / Shirt: Nordstrom / Jeans: Seven for all Mankind / Shoes: Joe's Jeans" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2552.jpg" caption: "acket: Purchased in Venice / Shirt: Nordstrom / Jeans: Seven for all Mankind / Shoes: Joe's Jeans" %}
 
 **Karla: **I went through different phases of style throughout High School until I found the type of fashion that I like: playful and chic. Two examples;
 
@@ -50,7 +50,7 @@ In addition, I love pokemon, digimon, anime, etc. I always carry with me my poke
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_2608-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2608.jpg" %}
 
 **Karla:** Get into the field! If you have passion, STEM isn't as hard as people think - so don't let what society says define you :)
 
@@ -62,7 +62,7 @@ My overall advice - don’t make assumptions about what you like and dislike bef
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/08/IMG_2579-1024x683.jpg" caption: "Glasses: Dolce & Gabbana / Headband: American Eagle" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2579.jpg" caption: "Glasses: Dolce & Gabbana / Headband: American Eagle" %}
 
 **Sophia: **I couldn’t narrow it down to just one, so here are my two proudest project accomplishments thus far:
 
@@ -71,7 +71,7 @@ My overall advice - don’t make assumptions about what you like and dislike bef
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/08/IMG_2461-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_2461.jpg" %}
 
 - [Sophia's Instagram](https://instagram.com/sophiapandey/)
 - [Sophia's Twitter](https://twitter.com/SophiaPandey19)

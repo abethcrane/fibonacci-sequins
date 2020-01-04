@@ -7,30 +7,30 @@ tags: [Student]
 location: Seattle
 company: Microsoft
 field: Tech
-image: 'images/posts/2015/08/IMG_3166-1024x683.jpg'
+image: 'images/posts/2015/08/IMG_3166.jpg'
 ---
 
 *Mahak Mithani danced her way into our lives this summer in a whirlwind of energy around everything she touched from tech, to dance, to cooking to fashion! We loved getting to know this tiny powerhouse and hearing about her Canada to Texas to Canada to Texas moves and how she uses her creative outlets to cope with change and to stay in touch with her community.  What Bollywood star did Mahak dazzle with a dance performance? Read on to find out! *
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/posts/2015/08/IMG_3166-1024x683.jpg" caption: "Dress: H&M / Blazer: Plato's Closet / Necklace: Divine Jewelry" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3166.jpg" caption: "Dress: H&M / Blazer: Plato's Closet / Necklace: Divine Jewelry" %}
 
 I’ll be a sophomore at Texas A&M University in the fall. I was born in Toronto, Canada, but I now live in Houston. I study Computer Science, but I have many interests outside of the classroom. I’m a dance teacher and choreographer at Bollywood Shake, as well as a captain of the A&M Bollywood dance team, Akh Mastani! Dancing has been my passion for many years, and I feel that choreography requires a lot of the same skills and processes as engineering. When I graduate from college, I hope to have an awesome job in the tech field, and attend culinary school after work. I watch Food Network religiously and love to cook for my friends and family!
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2015/08/IMG_3248-683x1024.jpg" caption: "Nails: Ipsy (4 Alarm Fire)" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3248.jpg" caption: "Nails: Ipsy (4 Alarm Fire)" %}
 
 My mom got this shalwar kameez for me from Pakistan. It’s a traditional dress, comprised of a long top (kameez), pants (shalwar), and a scarf (dupatta). I love wearing it because it looks so elegant and the length gives me another excuse to wear heels. My culture is a huge part of who I am, and I embrace it every chance I get, whether it be through dance, food, or clothes. In my imaginary world, I’m a Bollywood star, so I take any chance I get to dress like one!
 
-{% responsive_image path: "images/posts/2015/08/IMG_3078-683x1024.jpg" caption: "Dress: H&M/ Blazer: Plato's Closet / Shoes: Rampage Jayney / Anklet: Hand-made by Mahak's Dad!" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3078.jpg" caption: "Dress: H&M/ Blazer: Plato's Closet / Shoes: Rampage Jayney / Anklet: Hand-made by Mahak's Dad!" %}
 
 This outfit brings back memories for me because I wore this dress  on my three-year anniversary with my boyfriend. I got it from H&M, which is one of my favorite stores, because it’s cute, affordable, and the name is my boyfriend’s and my initials! The watch  was a gift from him on our one-year anniversary. He got down on one knee and held up the watch as a prom-posal. I paired the outfit with a blue blazer for color and cream-colored heels  because I’m in denial that I’m 5’3".
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3194-1024x683.jpg" caption: "Watch: Fossil / Treble Clef Ring: Something Silver" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3194.jpg" caption: "Watch: Fossil / Treble Clef Ring: Something Silver" %}
 
 My dad is a software engineer for a chain of department stores, which is where I get my passion for coding as well as access to clothes (yay, employee discount!). When it came time for me to decide what to do for the rest of my life, I knew I wanted a career in which I could express myself through the clothes I wear. No uniforms, no strict dress codes, and no scrubs.
 
@@ -38,7 +38,7 @@ Business casual is probably my favorite way to dress. I love going to thrift sho
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3202-683x1024.jpg" caption: "Earrings: SW Warehouse / Glasses: Wayfarers" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3202.jpg" caption: "Earrings: SW Warehouse / Glasses: Wayfarers" %}
 
 I love wayfarers. I prefer glasses to contacts - they are a sort of security blanket for me, and I find myself reaching to slide them up to the bridge of my nose during awkward situations. (Sometimes I use a specific finger to slide them up when I am particularly angered by someone, but want to be as subtle as possible.)
 
@@ -48,19 +48,19 @@ My nail polish was delivered to me in my first Ipsy cosmetics bag subscription. 
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3188-1024x683.jpg" caption: "Glasses: Wayfarers / Silver earrings: Stage Stores" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3188.jpg" caption: "Glasses: Wayfarers / Silver earrings: Stage Stores" %}
 
 Don’t think twice, just go for it! Embrace all the different aspects of you that make you different from everyone else in the field, because that’s how innovation happens. When I first started coding, I was intimidated by everyone else who had been doing this for years. Don’t lose the faith you have in yourself. You’ve gotten this far, why not see what else you’re capable of? We live in an era where technology is continuously evolving and impacting billions of lives every day. Seize every opportunity to contribute to it!
 
 ### What would you say is the project you've done that you're proudest of?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3233-1024x683.jpg" caption: "Dress: Shalwar Kameez: brought from Pakistan" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3233.jpg" caption: "Dress: Shalwar Kameez: brought from Pakistan" %}
 
 Choreography has become a creative outlet for me over the past several years. I’ve pieced together dances for kids as young as three, to adults older than fifty! I love when my dance company puts on a show, as it gives me an opportunity to showcase all the work I’ve done in the recent months. The greatest moment for me was when we were able to fly Bollywood actress, Preity Zinta, in from India to watch our show! We were able to dance on stage with her for a bit, and our performance was featured on Fox News! It’s a cool feeling to stand next to someone you’ve only ever admired on screen, and sort of reverse the roles, so now you’re the one performing while they watch and applaud!
 
 ### What is the best way (if any) for people to follow you on social media?
 
-{% responsive_image path: "images/posts/2015/08/IMG_3294-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2015/08/IMG_3294.jpg" %}
 
 Check out my personal website([mahakmithani.com](http://mahakmithani.com)) or my [facebook](https://www.facebook.com/mahak.mithani), [instagram](https://instagram.com/mahakmithani) or [youtube](https://www.youtube.com/user/mahakmithani) :)
 
