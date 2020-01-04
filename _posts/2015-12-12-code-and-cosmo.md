@@ -26,19 +26,19 @@ It was incredible to see the difference between these students and many I’ve 
 
 I realized during this event the power of what [Code.org](https://code.org/) is doing. They aren’t just teaching computer science in the classroom, they are teaching confidence and modern thinking ability.
 
-{% responsive_image path: "images/posts/2015/12/KatieC-1024x576.jpg" caption: "Power Women Unite! Katie Couric and Julie Larson-Green, the Chief Experiences Office at Microsoft talking Women in Tech" %}
+{% responsive_image path: "images/posts/2015/12/KatieC.jpg" caption: "Power Women Unite! Katie Couric and Julie Larson-Green, the Chief Experiences Office at Microsoft talking Women in Tech" %}
 
 Computer Science doesn’t care where you come from or who your parents are. Code.org is leveling the playing field, one classroom at a time by teaching this new "superpower" that absolutely should be taught in every classroom.
 
 In contrast, the next event I went to was [Joanna Coles’](https://en.wikipedia.org/wiki/Joanna_Coles) Cosmo 100 Influential [Women’s Power Lunch](http://www.wsj.com/articles/the-fun-fearless-power-lunch-1449612072).  This is a yearly event that Joanna throws to bring together women in media, fashion, publishing, design, politics and this year, tech.  Julie Larson-Green, Chief Experiences Office at Microsoft was the belle of the ball giving away gifts and being a stunning fashionista as always.
 
-{% responsive_image path: "images/posts/2015/12/01e5d2851422d5655bd3d1b244278582daeed61330-1024x768.jpg" caption: "Eva Chen of Instagram, Stella Bugbee of The Cut and Laverne Cox of Orange in the New Black" %}
+{% responsive_image path: "images/posts/2015/12/01e5d2851422d5655bd3d1b244278582daeed61330.jpg" caption: "Eva Chen of Instagram, Stella Bugbee of The Cut and Laverne Cox of Orange in the New Black" %}
 
 I was a happy peon, star-struck by being in the same room with so many women I’ve admired for years.  I mean, we all grew up with DJ Tanner and Katie Couric!  It was pretty incredible watching deals being made, guest appearances being planned and relationships being formed in a series of frenzied conversations.
 
 I had a chance to meet one of my heroes, the great Rebecca Minkoff, the first mainstream fashion designer to embrace tech in her fashion line and stores with phone charging handbags and virtual dressing room mirrors.
 
-{% responsive_image path: "images/posts/2015/12/01e39045797316c199bb7956f32c51f77507615312-768x1024.jpg" caption: "Candace Cameron Bure--host on The View. Will always be childhood role model DJ Tanner!" %}
+{% responsive_image path: "images/posts/2015/12/01e39045797316c199bb7956f32c51f77507615312.jpg" caption: "Candace Cameron Bure--host on The View. Will always be childhood role model DJ Tanner!" %}
 
 Also, it was a pleasure to meet Eva Chen, who earlier this year joined a tech company! She made the move from being Editor-in-Chief of Lucky Magazine to being the Head of Fashion Partnerships at Instagram.
 
@@ -48,11 +48,11 @@ I realized how strange it was to hear these incredibly accomplished women who le
 
 And simply because of lack of exposure. These women solve some of the world’s biggest problems every day, yet, they felt that it was "too late" for them to become tech literate.
 
-{% responsive_image path: "images/posts/2015/12/Capture-1024x629.jpg" caption: "Me with Courtney Kemp Agboh, host of STARZ Power and Janet Mock, host of MSNBC." %}
+{% responsive_image path: "images/posts/2015/12/Capture.jpg" caption: "Me with Courtney Kemp Agboh, host of STARZ Power and Janet Mock, host of MSNBC." %}
 
 *It’s never too late to become tech literate.* Tech changes so fast that what I learned in college many years ago is no longer relevant. In fact the people graduating college today are more up-to-date with tech than anyone in my generation.  We constantly have to be learning to stay relevant.  This morning as I wrote this article, I was learning about [Flarum](http://flarum.org/docs/), an open source forum software for a project I’m doing at work.  My skill is not knowing every single tech tool out there, it’s being able to quickly analyze one to see if it suits my needs and what I need to learn to use it.
 
-{% responsive_image path: "images/posts/2015/12/0174aeb1f055530eeedcff0bca92de89467ff0ffd3-768x1024.jpg" caption: "With Karen Fondu, President of L'Oreal Paris" %}
+{% responsive_image path: "images/posts/2015/12/0174aeb1f055530eeedcff0bca92de89467ff0ffd3.jpg" caption: "With Karen Fondu, President of L'Oreal Paris" %}
 
 It's so critical for business leaders to understand how to do certain business critical things more easily: how do you scale your online business to more customers? How do you collect customer data and use it to create new things and experiences?
 
@@ -60,7 +60,7 @@ How can we automate old, manual processes and kill off mind-numbing work?
 
 If I have one goal after the Cosmo lunch, it was to make clear to business leaders that you do not need to "make" tech to be tech literate. You do not need to become a coder to use tech to make your business and life better. Just like you don’t need to write books to be *literate*.
 
-{% responsive_image path: "images/posts/2015/12/0127057c2121dc1db288d65911e563548b6cc01fba-706x1024.jpg" caption: "That's not Tilda Swinton! With the great Joanna Coles. Hostess and Partythower Extraordinaire." %}
+{% responsive_image path: "images/posts/2015/12/0127057c2121dc1db288d65911e563548b6cc01fba.jpg" caption: "That's not Tilda Swinton! With the great Joanna Coles. Hostess and Partythower Extraordinaire." %}
 
 ***And most of all, it’s definitely not too late to become tech literate.***
 

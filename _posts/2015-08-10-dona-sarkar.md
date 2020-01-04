@@ -33,7 +33,7 @@ I love fashion that has a story and most of my favorite pieces are either design
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2015/08/RunWay1-683x1024.jpg" caption: "Dress: <a href='http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16'>Sue Wong</a>" %}
+{% responsive_image path: "images/posts/2015/08/RunWay1.jpg" caption: "Dress: <a href='http://www.shopstyle.com/action/loadRetailerProductPage?id=449375190&pid=uid4889-31045667-16'>Sue Wong</a>" %}
 
 I went through a plethora of styles before I found "me". When I was in high school, I can honestly say I had zero style. Seriously, zero.  I was a shy, nerdy kid and I never wanted to draw attention to myself so I wore huge everything. In college, I decided to change who I was and really embraced a bohemian, feminine aesthetic with long skirts and giant silver jewelry. When I first started working, I thought I had to dress like a stereotypical tech guy, so I wore baggy cargo pants and free t-shirts from career fairs. I realized I wasn’t being myself and in turn, wasn’t doing my best work, so I decided to start dressing like the pictures I kept dogearing in magazines.
 
@@ -41,7 +41,7 @@ Now I would say my style is "statement". I love attention-grabbing statement pie
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/posts/2015/08/Vogue-680x1024.jpg" caption: "Dress: <a href='http://www.shopstyle.com/browse/dresses?fts=rag+and+bone+leather'>Rag & Bone</a> / Shoes: <a href='http://www.jeffreycampbellshoes.com/vault/spike#.VcTaf25Viko'>Jeffrey Campbell Spike Lita's</a>" %}
+{% responsive_image path: "images/posts/2015/08/Vogue.jpg" caption: "Dress: <a href='http://www.shopstyle.com/browse/dresses?fts=rag+and+bone+leather'>Rag & Bone</a> / Shoes: <a href='http://www.jeffreycampbellshoes.com/vault/spike#.VcTaf25Viko'>Jeffrey Campbell Spike Lita's</a>" %}
 
 My favorite designer is [Luly Yang](https://lulyyang.com/). She's not only incredibly talented with color and texture, but she really understands a woman's body. Every single thing I've ever tried on from her lines have been infinitely flattering and her ready-to-wear collection makes it easy for me to wear Luly for more than special occasions.
 

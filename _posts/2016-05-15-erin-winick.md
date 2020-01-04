@@ -5,7 +5,7 @@ date: 2016-05-15 23:26
 author: Beth Crane
 tags: [Student]
 location: Florida
-image: 'images/posts/2016/02/12752095_10208619961325390_1291299455_o-1024x683.jpg'
+image: 'images/posts/2016/02/12752095_10208619961325390_1291299455_o.jpg'
 ---
 
 *THERE IS ANOTHER ENGINEER/FASHION DESIGNER/WRITER in the world!  Beth had the pleasure of meeting Erin Winick during a talk she was invited to give in Florida as a guest of our former FibSeq star, [Ming Yang](https://fibonaccisequinsblog.com/ming-yang/).*
@@ -22,7 +22,7 @@ You can also find me hiking, reading, watching Project Runway *(are you my soulm
 
 ### Tell us about what you're wearing.
 
-{% responsive_image path: "images/posts/2016/02/12699307_10208619961405392_862846899_o-683x1024.jpg" %}
+{% responsive_image path: "images/posts/2016/02/12699307_10208619961405392_862846899_o.jpg" %}
 
 I am definitely a budget shopper and snatch up deals where I can find them. My [trench coat](http://amzn.to/23R58o8) is a classic from Banana Republic, but I actually got it at Goodwill for $15. My black [flower sweater](http://amzn.to/229iGw1) is from Ann Taylor which I also got on sale. I love Ann Taylor and Loft because of how simple and elegant their pieces look. My skinny [jeans](http://amzn.to/1XaYh8O) and boots are from Target, where I am definitely a loyal shopper as well.
 
@@ -32,7 +32,7 @@ All of my jewelry is by Sci Chic. The DNA Necklace and Suspension Bridge Ring ar
 
 ### How did your style evolve to what it is now?
 
-{% responsive_image path: "images/posts/2016/02/12755430_10208619961285389_446809589_o-1024x683.jpg" %}
+{% responsive_image path: "images/posts/2016/02/12755430_10208619961285389_446809589_o.jpg" %}
 
 I used to not really pay much attention to my clothes and my fashion in high school, but as I started college I wanted to make a good impression on the people I meet and interact with and decided to step-up my fashion game a bit.
 

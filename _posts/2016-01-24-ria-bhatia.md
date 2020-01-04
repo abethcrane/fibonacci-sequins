@@ -44,7 +44,7 @@ Statement necklaces also became a thing in college but I definitely haven’t wo
 
 ### Any advice for a young person thinking about getting into a STEM field?
 
-{% responsive_image path: "images/posts/2015/09/7300040-1024x768.jpg" %}
+{% responsive_image path: "images/posts/2015/09/7300040.jpg" %}
 
 Find a mentor to look up to asap; being in any STEM field is difficult and you’re going to need a mentor to help guide you even when you feel like quitting. You are capable of achieving anything but you need support and resources to help you achieve anything, so always ask for help and remember that you’re never in this alone.
 

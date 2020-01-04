@@ -53,4 +53,4 @@ Love
 
 Dona & Beth
 
-{% responsive_image path: "images/posts/2015/12/Reindeer-300x190.jpg" caption: "Reindeer!!" %}
+{% responsive_image path: "images/posts/2015/12/Reindeer.jpg" caption: "Reindeer!!" %}
