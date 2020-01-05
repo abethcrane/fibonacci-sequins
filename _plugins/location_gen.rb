@@ -8,7 +8,6 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'location_page.html')
       self.data['location'] = location
-      self.data['pagination']['location'] = location
     end
   end
   class LocationGenerator < Generator
