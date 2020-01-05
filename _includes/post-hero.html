@@ -2,15 +2,19 @@
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--4-4-s {% if page.image %} o-grid__col--2-4-l {% endif %} {% unless page.image %} o-grid__col--2-3-m o-grid__col--center {% endunless %}'>
       <div class='c-post-hero__content {% unless page.image %} c-post-hero__content--no-image {% endunless %}'>
-        <div class='c-post-hero__tags'>
-          {% for tag in page.tags limit:1 %}
-            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
-          {% endfor %}
-        </div>
         <h1 class='c-post-hero__title'>{{ page.title }}</h1>
         <div class='c-post-hero__meta'>
           <time datetime="{{ page.date | date: '%d %b %Y' }}">{{ page.date | date: '%d %b %Y' }}</time>
         </div>
+        <div class='c-post-hero__tags'>
+            {% for tag in page.tags %}
+              <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+            {% endfor %}
+            <br/>
+            <a href='{{ site.baseurl }}/locations/{{ page.location }}'>{{ page.location }}</a>
+            <br/>
+            {{ page.field }} 
+          </div>
       </div>
     </div>
 

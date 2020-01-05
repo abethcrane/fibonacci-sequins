@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <div class='c-archive'>
+        <h4 class='c-archive__title'>
+          {{ page.location }}
+        </h4>
+      </div>
+    </div>
+  </div>
+
+  <div class='o-grid js-grid'>
+    {% for post in site.posts %}
+      {% if post.location == page.location %}
+        {% include post-card.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

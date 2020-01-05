@@ -27,8 +27,8 @@
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
         <p class='c-footer__headline'>By Location</p>
         <ul class='c-footer-list o-plain-list'>
-            {% for Location in site.locations %}
-            <li><a href='{{ site.baseurl }}/location/{{ location[0] }}'>{{ location[0] }}</a><li>
+          {% for location in site.locations %}
+            {% if location %}<li><a href='{{ site.baseurl }}/locations/{{ location }}'>{{ location }}</a><li>{% endif %}
           {% endfor %}
         </ul>
     </div>
