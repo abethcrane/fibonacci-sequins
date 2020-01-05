@@ -3,15 +3,7 @@
 \*------------------------------------*/
 
 blockquote {
-  font-size: $font-size-h3;
+  font-style: italic;
   text-align: center;
-
-  @include mq($from: tablet) {
-    min-width: 75vw;
-  }
-
-  @include mq($from: desktop) {
-    font-size: $font-size-h2;
-    min-width: half($grid-width) + quarter($grid-width);
-  }
+  color: hsla(197, 100%, 20%, 1.0);
 }
