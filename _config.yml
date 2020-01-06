@@ -16,7 +16,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram: https://www.instagram.com/fibonaccisequinsblog
 permalink: /:title/
 timezone: America/New_York
-category_blurbs:
+tag_blurbs:
   students: "Our up-and-at-em high school & college students"
   early-career: "Starry-eyed young’uns carving out a place for themselves"
   industry-veterans: "Folks who’ve already made a definite mark" 
@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-responsive-image
+  - jekyll-include-cache
 
 exclude:
   - vendor
@@ -50,6 +51,7 @@ locations: [Edinburgh, Florida, New York, San Francisco, Seattle, Sydney, Texas]
 responsive_image:
   template: _includes/responsive-image.html
   default_quality: 90
+  cache: true
   sizes:
     - width: 400
     - width: 720

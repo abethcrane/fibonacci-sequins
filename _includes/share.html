@@ -1,10 +1,10 @@
-{% include base_path %}
+{% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ include.url }}{% endcapture %}
 
 <ul class='c-share o-plain-list'>
   <li class='c-share__item'>
     <a class='c-share__link c-share__link--twitter'
         title='Share on Twitter'
-        href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ base_path }}{{ page.url }}"
+        href="https://twitter.com/intent/tweet?text={{ include.title }}&url={{ full_url }}"
         onclick="window.open(this.href, 'twitter-share', 'width=550, height=235'); return false;">
       <div data-icon='ei-sc-twitter' data-size='s' class='c-share__icon c-share__icon--twitter'></div>
     </a>
@@ -13,7 +13,7 @@
   <li class='c-share__item'>
     <a class='c-share__link c-share__link--facebook'
         title='Share on Facebook'
-        href="https://facebook.com/sharer.php?u={{ base_path }}{{ page.url }}"
+        href="https://facebook.com/sharer.php?u={{ full_url }}"
         onclick="window.open(this.href, 'facebook-share', 'width=580, height=296'); return false;">
       <div data-icon='ei-sc-facebook' data-size='s' class='c-share__icon c-share__icon--facebook'></div>
     </a>
@@ -23,7 +23,7 @@
     <a class='c-share__link'
       title='Share on LinkedIn'
       aria-label='Share on LinkedIn'
-      href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}&title={{ page.title }}"
+      href="https://www.linkedin.com/shareArticle?mini=true&url={{ full_url }}&title={{ include.title }}"
       onclick="window.open(this.href, 'linkedin-share', 'width=580, height=296'); return false;">
       <span data-icon='ei-sc-linkedin' data-size='s' class='c-share__icon'></span>
     </a>
@@ -32,7 +32,7 @@
   <li class='c-share__item'>
     <a class='c-share__link c-share__link--pinterest'
         title='Share on Pinterest'
-        href="http://pinterest.com/pin/create/button/?url={{ base_path }}{{ page.url }}&description={{ page.title | url_encode}}"
+        href="http://pinterest.com/pin/create/button/?url={{ full_url }}&description={{ include.title | url_encode}}"
         onclick="window.open(this.href, 'google-share', 'width=580, height=296'); return false;">
       <div data-icon='ei-sc-pinterest' data-size='s' class='c-share__icon c-share__icon--pinterest'></div>
     </a>
@@ -42,7 +42,7 @@
       <a class='c-share__link'
          title='Share via Email'
          aria-label='Share via Email'
-         href="mailto:?subject={{  page.title }}&body={{ base_path }}{{ page.url }}">
+         href="mailto:?subject={{  include.title }}&body={{ full_url }}">
         <span data-icon='ei-envelope' data-size='s' class='c-share__icon'></span>
       </a>
     </li>

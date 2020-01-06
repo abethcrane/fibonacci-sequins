@@ -4,11 +4,11 @@
   <body class='{% if page.url == '/' %}is-home{% endif %}'>
 
     <div class='js-off-canvas-container c-off-canvas-container'>
-      {% include header.html %}
+      {% include_cached header.html %}
 
       {{ content }}
 
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
   </body>
 </html>

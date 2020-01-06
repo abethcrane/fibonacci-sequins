@@ -3,6 +3,7 @@ layout: post
 title: "Mahak Mithani to welcome in the new year"
 date: 2019-12-28 08:04
 author: Beth Crane
+tags: [early-career, where-are-they-now]
 location: Seattle
 company: Microsoft
 field: Tech

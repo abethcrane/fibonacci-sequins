@@ -6,10 +6,10 @@
 {% capture fixed_path %}/{{ path | strip_newlines | strip }}{% endcapture %}
 <center>
     <figure>
-        <img src="/{{ path }}"
+        <img src="/{{ fixed_path }}"
         {% if class %}class="{{ class }}"{% endif %}
         {% if alt %}alt="{{ alt }}"{% endif %}
-        srcset="{{ srcset | strip_newlines }} /{{path}} {{ original.width }}w" />
+        srcset="{{ srcset | strip_newlines }} /{{fixed_path}} {{ original.width }}w" />
         {% if caption %}
         <figcaption>{{ caption }}</figcaption>
         {% endif %}

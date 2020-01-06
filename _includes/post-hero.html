@@ -4,11 +4,12 @@
       <div class='c-post-hero__content {% unless page.image %} c-post-hero__content--no-image {% endunless %}'>
         <h1 class='c-post-hero__title'>{{ page.title }}</h1>
         <div class='c-post-hero__meta'>
-          <time datetime="{{ page.date | date: '%d %b %Y' }}">{{ page.date | date: '%d %b %Y' }}</time>
+          {{ page.date | date: '%d %b %Y' }}
         </div>
         <div class='c-post-hero__tags'>
             {% for tag in page.tags %}
-              <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+              {% assign words = tag[0] | split: '-' %}
+              <a href='{{ site.baseurl }}/tag/{{ tag }}'>{% for word in words %}{{ word | capitalize }} {% endfor %}</a>
             {% endfor %}
             <br/>
             <a href='{{ site.baseurl }}/locations/{{ page.location }}'>{{ page.location }}</a>

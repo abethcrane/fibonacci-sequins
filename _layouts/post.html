@@ -2,10 +2,8 @@
 layout: default
 ---
 
-{% include base_path %}
-
 {% if page.image %}
-  <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
+  <meta itemprop='og:image' content='{{ site.url }}{{ site.baseurl }}{{ page.image }}'>
 {% endif %}
 
 {% include post-hero.html %}
@@ -22,7 +20,7 @@ layout: default
 
         <div class='o-grid'>
           <div class='o-grid__col o-grid__col--4-4-s'>
-              {% include share.html %}
+              {% include_cached share.html title=page.title url=page.url %}
           </div>
         </div>
 
@@ -39,7 +37,7 @@ layout: default
   
         <hr>
 
-        {% include disqus.html %}
+        {% include_cached disqus.html url=page.url %}
 
       </article>
 
