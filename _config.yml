@@ -12,7 +12,7 @@ title: "Fibonacci Sequins"
 email: hello@bethcrane.com
 description: Celebrating fresh style and interesting humans in STEM fields
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fibonaccisequinsblog.com/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram: https://www.instagram.com/fibonaccisequinsblog
 permalink: /:title/
 timezone: America/New_York
