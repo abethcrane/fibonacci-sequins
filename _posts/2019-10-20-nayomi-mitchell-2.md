@@ -9,7 +9,7 @@ company: Microsoft
 image: 'images/posts/2019/10/IMG_6339.jpg'
 ---
 
-*I'm excited to welcome Nayomi back to the blog, as the latest person in our* [*Where are they now?*](https://fibonaccisequinsblog.com/tag/where-are-they-now/) *series. When we [featured Nayomi back in 2016](https://fibonaccisequinsblog.com/nayomi-mitchell/) she was just starting her career, and she's now been at Microsoft for over 3 years*, *carving out a role that allows her to blend her mix of interests and talents.*
+*I'm excited to welcome Nayomi back to the blog, as the latest person in our [*Where are they now?*](https://fibonaccisequinsblog.com/tag/where-are-they-now/) series. When we [featured Nayomi back in 2016](https://fibonaccisequinsblog.com/nayomi-mitchell/) she was just starting her career, and she's now been at Microsoft for over 3 years, carving out a role that allows her to blend her mix of interests and talents.*
 
 ### Tell us a little about you?
 

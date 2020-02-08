@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mahak Mithani to welcome in the new year"
-date: 2019-12-28 08:04
+date: 2020-01-01 08:04
 author: Beth Crane
 tags: [early-career, where-are-they-now]
 location: Seattle
@@ -9,6 +9,8 @@ company: Microsoft
 field: Tech
 image: 'images/posts/2019/12/IMG_6821.jpg'
 ---
+
+*I'm stoked to have Mahak here to kick us off for the new year/decade! This is Mahak's second appearance on the blog, as part of our [Where are they now?](https://fibonaccisequinsblog.com/tag/where-are-they-now/) series. Back in 2015 when we [featured Mahak for the first time](https://fibonaccisequinsblog.com/mahak-mithani/) she was an intern at Microsoft and studying in Texas, and since then she's moved to Seattle full-time and is back to tell us about how she set her sights on a team and secured an offer there (and all of the other side projects she has going on to keep her busy!)*
 
 ### Tell us a little about you?
 
@@ -84,3 +86,4 @@ Instagram:
 - Personal [@mahak.mithani](https://www.instagram.com/mahak.mithani/)
 - Food blog [@TheBrownCouple](https://www.instagram.com/TheBrownCouple)
 
+*P.S. Check out Mahak's [first appearance on the blog](https://fibonaccisequinsblog.com/mahak-mithani/).*
