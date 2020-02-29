@@ -60,7 +60,7 @@ $block-max-width: 1300px;
     margin-bottom: half($base-spacing-unit);
 
     &:not(:first-child) {
-      margin-top: double($base-spacing-unit) + half($base-spacing-unit);
+      margin-top: $base-spacing-unit;
     }
   }
 

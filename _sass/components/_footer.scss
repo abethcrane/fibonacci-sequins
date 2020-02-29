@@ -21,7 +21,7 @@
   }
 
   &__bottom {
-    margin-top: double($base-spacing-unit);
+    margin-top: $base-spacing-unit;
     padding-top: double($base-spacing-unit);
     border-top: 1px solid $color-border;
 
