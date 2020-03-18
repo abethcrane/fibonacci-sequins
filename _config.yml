@@ -22,6 +22,7 @@ tag_blurbs:
   industry-veterans: "Folks who’ve already made a definite mark" 
   retired-from-stem: "Onwards and upwards to different and interesting things"
   fashion-post: "Sometimes we just want to post cute outfits 💁"
+  entrepeneurs: "Intrepid folks out there finding a niche and making something new"
 
 # Build settings
 markdown:  kramdown
