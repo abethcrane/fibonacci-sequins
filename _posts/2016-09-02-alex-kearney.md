@@ -3,7 +3,7 @@ layout: post
 title: "Alex Kearney shows us the dapper side of practical"
 date: 2016-09-02 08:20
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Edinburgh
 image: 'images/posts/2016/08/IMG_6874.jpg'
 ---

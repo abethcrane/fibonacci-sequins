@@ -3,7 +3,7 @@ layout: post
 title: "Erin Winick Makes It Work"
 date: 2016-05-15 23:26
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Florida
 image: 'images/posts/2016/02/12752095_10208619961325390_1291299455_o.jpg'
 ---

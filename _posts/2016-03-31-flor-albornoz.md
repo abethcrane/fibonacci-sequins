@@ -3,7 +3,7 @@ layout: post
 title: "Flor Albornoz"
 date: 2016-03-31 07:27
 author: Dona Sarkar
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

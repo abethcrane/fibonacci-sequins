@@ -3,7 +3,7 @@ layout: post
 title: "Dana Chambourova: A Madrileña in Seattle"
 date: 2015-10-24 16:41
 author: Dona Sarkar
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

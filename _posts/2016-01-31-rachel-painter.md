@@ -3,7 +3,7 @@ layout: post
 title: "Rachel Painter Brightens Our Day"
 date: 2016-01-31 09:42
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Edinburgh
 image: 'images/posts/2016/01/IMG_6644.jpg'
 ---

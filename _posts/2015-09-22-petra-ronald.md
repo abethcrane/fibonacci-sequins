@@ -3,7 +3,7 @@ layout: post
 title: "Petra Ronald Has More Fun"
 date: 2015-09-22 12:01
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

@@ -3,7 +3,7 @@ layout: post
 title: "Getting Stuck In with Matt McEwen"
 date: 2015-09-05 07:00
 author: Beth Crane
-tags: [Student, fashion-dudes]
+tags: [Students, fashion-dudes]
 location: Sydney
 field: Science
 image: 'images/posts/2015/09/IMG_2311.jpg'

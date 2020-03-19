@@ -3,7 +3,7 @@ layout: post
 title: "The Renaissance Wolverine: Rachael Miller!"
 date: 2015-08-25 07:00
 author: Dona Sarkar
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

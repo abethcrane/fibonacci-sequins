@@ -3,7 +3,7 @@ layout: post
 title: "Cassie Bub's Boots Were Meant For Walking"
 date: 2016-05-20 06:09
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

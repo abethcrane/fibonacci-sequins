@@ -3,7 +3,7 @@ layout: post
 title: "Lina the Stereotype Slayer"
 date: 2016-01-04 20:06
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Edinburgh
 image: 'images/posts/2015/12/IMG_6682.jpg'
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Beverly Shen: She Can Do It!"
 date: 2015-08-14 08:06
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

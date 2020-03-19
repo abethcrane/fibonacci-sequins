@@ -3,7 +3,7 @@ layout: post
 title: "The Adventures of Karla Larriva & Sophia Pandey"
 date: 2015-09-02 06:30
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

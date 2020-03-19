@@ -3,7 +3,7 @@ layout: post
 title: "Alex the Great"
 date: 2016-01-11 07:24
 author: Beth Crane
-tags: [early-career, Design]
+tags: [early-career]
 location: Seattle
 company: Tableau
 field: Tech

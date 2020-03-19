@@ -3,7 +3,7 @@ layout: post
 title: "The Sparkly, Superhero Tanya Talkar"
 date: 2015-09-15 09:25
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

@@ -3,7 +3,7 @@ layout: post
 title: "Vanessa Villa is fluent in gummy bears"
 date: 2016-09-12 09:04
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

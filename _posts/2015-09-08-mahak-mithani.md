@@ -3,7 +3,7 @@ layout: post
 title: "The Dancing Diva That Is Mahak Mithani"
 date: 2015-09-08 07:00
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

@@ -3,7 +3,7 @@ layout: post
 title: "Poet & Quant: Maya Ganesan"
 date: 2015-08-21 08:00
 author: Dona Sarkar
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

@@ -3,7 +3,7 @@ layout: post
 title: "Jill Jermyn - From Concerts to Coding"
 date: 2016-05-28 13:26
 author: Beth Crane
-tags: [Student]
+tags: [Students]
 location: Seattle
 company: Microsoft
 field: Tech

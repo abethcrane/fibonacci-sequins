@@ -3,7 +3,7 @@ layout: post
 title: "Harjyot Singh is an Artist in a Lab Coat"
 date: 2016-02-09 11:59
 author: Beth Crane
-tags: [Student, fashion-dudes]
+tags: [Students, fashion-dudes]
 location: Edinburgh
 image: 'images/posts/2016/01/IMG_6503.jpg'
 ---
