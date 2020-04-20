@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emily Dorsey is an absolute treasure"
+title: "Emily Dorsey égayera votre journée ☀️"
 date: 2020-04-20 09:36
 author: Beth Crane
 tags: [early-career]
