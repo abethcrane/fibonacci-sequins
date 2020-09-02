@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emily Dorsey is an absolute treasure"
+title: "Emily Dorsey égayera votre journée ☀️"
 date: 2020-04-20 09:36
 author: Beth Crane
 tags: [early-career]
@@ -84,4 +84,4 @@ Right now? Standup at 10:00.
 
 *I'll leave you with a bonus raincoat image, from an earlier photo session after realizing we'd bought the same raincoat. ☂️*
 
-{% responsive_image path: "images/posts/2020/04/IMG_5001.jpg" caption: "Taken by <a href='danholodak.com'>Dan Holodak</a>" %}
+{% responsive_image path: "images/posts/2020/04/IMG_5001.jpg" caption: "Taken by <a href='https://danholodak.com'>Dan Holodak</a>" %}
