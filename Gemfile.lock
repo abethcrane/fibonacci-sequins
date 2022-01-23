@@ -75,6 +75,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-responsive-image
   jekyll-tagging
+  rmagick
 
 BUNDLED WITH
    2.1.2
