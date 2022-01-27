@@ -7,12 +7,22 @@
           {{ page.date | date: '%d %b %Y' }}
         </div>
         <div class='c-post-hero__tags'>
+            <div class="pipe-list">
             {% for tag in page.tags %}
-              {% assign words = tag[0] | split: '-' %}
-              <a href='{{ site.baseurl }}/tag/{{ tag }}'>{% for word in words %}{{ word | capitalize }} {% endfor %}</a>
+                {% assign words = tag | split: '-' %}
+                <span><a href='{{ site.baseurl }}/tag/{{ tag }}'>{% for word in words %}{{ word | capitalize }} {% endfor %}</a></span>
             {% endfor %}
+            </div>
             <br/>
-            <a href='{{ site.baseurl }}/locations/{{ page.location }}'>{{ page.location }}</a>
+            {% if page.location %}
+                <a href='{{ site.baseurl }}/locations/{{ page.location }}'>{{ page.location }}</a>
+            {% else %}
+                <div class="pipe-list">
+                {% for location in page.locations %}
+                    <span><a href='{{ site.baseurl }}/locations/{{ location }}'>{{ location }}</a></span>
+                {% endfor %}
+                </div>
+            {% endif %}
             <br/>
             {{ page.field }} 
           </div>

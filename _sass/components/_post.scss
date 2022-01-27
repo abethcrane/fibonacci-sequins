@@ -30,3 +30,8 @@
     text-align: right;
   }
   
+  .pipe-list span:not(:first-child) {
+    &::before {
+        content: " | ";
+      }
+  }

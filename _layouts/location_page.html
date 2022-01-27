@@ -17,6 +17,8 @@ layout: default
     {% for post in site.posts %}
       {% if post.location == page.location %}
         {% include post-card.html %}
+      {% elsif post.locations contains page.location  %}
+        {% include post-card.html %}
       {% endif %}
     {% endfor %}
   </div>

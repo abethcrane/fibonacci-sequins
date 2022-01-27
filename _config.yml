@@ -47,7 +47,7 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-locations: [Edinburgh, Florida, New York, San Francisco, Seattle, Sydney, Texas]
+locations: [Edinburgh, Florida, New York, San Francisco, Seattle, Sydney, Texas, San Diego]
 
 responsive_image:
   template: _includes/responsive-image.html
