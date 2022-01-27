@@ -3,7 +3,7 @@ layout: post
 title: "Keith Kirkland is finding his way"
 date: 2020-03-17 14:36
 author: Beth Crane
-tags: [Entrepreneurs]
+tags: [entrepreneurs, fashion-dudes]
 location: New York
 company: WearWorks
 field: Tech
