@@ -8,7 +8,9 @@ location: New York
 company: Annalect
 field: Tech
 image: 'images/posts/2022/01/AN_stripesRailing.jpg'
+metaImage: 'images/posts/2022/01/AN_metaImage.jpg'
 description: "The ruthless constraints of 'finity', or how Anna Nicanorova prioritizes her life to climb mountains, inhale books, frequent museums around the world, and always be building something"
+imageDesc: "Anna in a striped white+black dress leaning backwards over a rooftop railing"
 ---
 
 *If you needed to choose just one person to live vicariously through, might I suggest Anna Nicanorova? Her life is filled to the brim with adventures, art, creation, and community. For this profile we were fortunate enough to set up inside/around Anna's apartment, bringing her highly personalized space into the story for a glimpse into how and where she makes so much magic.*

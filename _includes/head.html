@@ -6,10 +6,17 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <!-- https://ogp.me/ -->
   <!-- https://dev.twitter.com/cards/overview -->
-  <meta name="title" property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.image %}
-  <meta property="og:image" content="{{page.image | prepend: '/' | prepend: site.baseurl | prepend: site.url  | replace:'//','/' }}" />
+  <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:title" property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.metaImage or page.image %}
+    {% assign image = page.image %}
+    {% if page.metaImage %}
+      {% assign image = page.metaImage %}
+    {% endif %}
+  <meta property="og:image" content="{{image | prepend: '/' | prepend: site.baseurl | prepend: site.url  | replace:'//','/' }}" />
+  <meta name="twitter:image:alt" property="og:image:alt" content="page.imageDesc" />
   <meta name="twitter:card" content="summary_large_image" />
   {% else %}
   <meta name="twitter:card" content="summary" />
