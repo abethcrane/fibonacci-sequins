@@ -41,7 +41,7 @@ The early part of my career was mostly self-centered: I was obsessed with my cod
 
 ### Are there any misconceptions about STEM fields that you'd like to clear up?
 
-{% responsive_image path: "images/posts/2022/01/AN_whiteColor.jpg" %}
+{% responsive_image path: "images/posts/2022/01/AN_whitecolor.jpg" %}
 I am very frustrated with the perception that writing code is hard or that in order to be a software engineer one should be “good at math”. In my opinion, writing code is a very creative endeavor that is more closely related to writing poetry, than solving constrained equations. I think the software engineering field needs creative people who often, probably intimidated by misconceptions, choose to pursue humanities.
 
 ### How has your style evolved to what it is now?
