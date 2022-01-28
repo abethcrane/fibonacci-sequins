@@ -3,25 +3,27 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>{{ site.title }}</title>
-  <!-- https://ogp.me/ --> <!-- https://dev.twitter.com/cards/overview -->
-  <meta name="twitter:description" property="og:description" content="{{ site.description }}">
-  <meta name="twitter:title" property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- https://ogp.me/ -->
+  <!-- https://dev.twitter.com/cards/overview -->
+  <meta name="title" property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.image %}
-  <meta name="twitter:image" property="og:image" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:image" content="{{page.image | prepend: '/' | prepend: site.baseurl | prepend: site.url  | replace:'//','/' }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  {% else %}
+  <meta name="twitter:card" content="summary" />
   {% endif %}
-
   <meta property="og:site_name" content="{{site.title}}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace:'//','/' }}" />
-  <meta name="twitter:card" content="summary_large_image" />
+  {% if site.twitter_username %}
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
-  
+  {% endif %}
   <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace:'//','/'  }}">
-  <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ 'feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-
-  <link rel="stylesheet" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+  <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url  | replace:'//','/'  }}">
+  <link rel="stylesheet" href="{{ '/assets/css/app.css' | prepend: site.baseurl }}">
 
   <script>
     var base_url = {{ site.baseurl | jsonify }},

@@ -8,6 +8,7 @@ location: New York
 company: Annalect
 field: Tech
 image: 'images/posts/2022/01/AN_stripesRailing.jpg'
+description: "The ruthless constraints of 'finity', or how Anna Nicanarova prioritizes her life to climb mountains, inhale books, frequent museums around the world, and always be building something"
 ---
 
 *If you needed to choose just one person to live vicariously through, might I suggest Anna Nicanarova? Her life is filled to the brim with adventures, art, creation, and community. For this profile we were fortunate enough to set up inside/around Anna's apartment, bringing her highly personalized space into the story for a glimpse into how and where she makes so much magic.*
@@ -19,7 +20,7 @@ I lead the tech team at Annalect where I work with diverse teams of web and data
 
 My main sport is high altitude mountaineering; I love to climb high mountains and try to make at least one big expedition per year. When I am not climbing, I am usually training by running, cycling and hiking. I also fly planes - I have not yet obtained my pilot’s license but I can land a plane and talk to ATC towers.
 
-I have a penchant for bookstores and libraries, which leads me to compulsive accumulation and consumption of books. I need art for inspiration and mediation, so I frequent all museums around the world from big institutions that contain major masterpieces to extremely niche ones that can be located in an elevator shaft. I am easily impressed by large and complicated massive structures that humans build, so I often set my leisure trips around architectural destinations or factory tours. I am also very passionate about education and try to give back by mentoring and teaching coding in public schools. In the little time that is left, I am learning Chinese and Spanish and volunteering in soup kitchens.
+I have a penchant for bookstores and libraries, which leads me to compulsive accumulation and consumption of books. I need art for inspiration and meditation, so I frequent all museums around the world from big institutions that contain major masterpieces to extremely niche ones that can be located in an elevator shaft. I am easily impressed by large and complicated massive structures that humans build, so I often set my leisure trips around architectural destinations or factory tours. I am also very passionate about education and try to give back by mentoring and teaching coding in public schools. In the little time that is left, I am learning Chinese and Spanish and volunteering in soup kitchens.
 
 ### What are you working on at the moment, and what do you love about it?
 

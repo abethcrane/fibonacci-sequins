@@ -8,6 +8,7 @@ locations: [Seattle, San Diego]
 company: Cigna
 field: Tech
 image: 'images/posts/2022/02/TF_cover.jpg'
+description: "Tess Freedel is a content writer / UX researcher by day, and a musician by night. She's got thoughts on bootcamps, teaching, and generational wealth, and she'd love to go surfing with you."
 ---
 
 *Today's post is mixing it up a bit - normally these interviews are a snapshot-in-time, but we took a 2-year hiatus between taking these photos and conducting the interview, so this slice-of-life is a little longer than normal. Let's dive in!*
@@ -65,7 +66,7 @@ However, when I meet in person or with a wider audience I typically wear darker 
 
 ### Anything exciting coming up on the horizon?
 {% responsive_image path: "images/posts/2022/02/TF_noodlesPosture.jpg" %}
- Yes! I'm working on launching my blog [buildbabybuild.com][https://buildbabybuild.com] as well as working on new material for my band, Bad Saint. It feels great to be back in the swing of producing creative material now that I’m settled in California.
+Yes! I'm working on launching my blog [buildbabybuild.com][https://buildbabybuild.com] as well as working on new material for my band, Bad Saint. It feels great to be back in the swing of producing creative material now that I’m settled in California.
 
 ### What is the best way for people to connect with you?
 
