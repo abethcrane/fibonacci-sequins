@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tess Freedel"
-date: 2022-02-16 12:10
+date: 2022-02-28 12:10
 author: Beth Crane
 tags: [early-career]
 locations: [Seattle, San Diego]

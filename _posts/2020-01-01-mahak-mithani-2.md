@@ -16,7 +16,7 @@ image: 'images/posts/2019/12/IMG_6821.jpg'
 
 My name is Mahak Mithani and I’m an incessantly sarcastic Program Manager 2 on the Mixed Reality team at Microsoft. I moved to the Seattle area from Houston two years ago and have been trying to find my niche ever since.
 
-I went to Texas A&M University where I got my Bachelor’s in Computer Science. I was an avid dancer growing up and captain of my university’s Bollywood dance team. Since moving here, I’ve constantly been looking for places to learn new styles or people to collaborate with to keep that part of me alive. Recently, I was accepted onto the University of Washington’s Bollywood dance team, where I am desperately trying to pose as a college student. I also have a food blog with my fiancé [@TheBrownCouple](https://www.instagram.com/TheBrownCouple/) on Instagram. Currently, I use it to review restaurants, but I’m hoping to go back to filming recipe videos again soon.
+I went to Texas A&M University where I got my Bachelor’s in Computer Science. I was an avid dancer growing up and captain of my university’s Bollywood dance team. Since moving here, I’ve constantly been looking for places to learn new styles or people to collaborate with to keep that part of me alive. Recently, I was accepted onto the University of Washington’s Bollywood dance team, where I am desperately trying to pose as a college student. I also have a food blog [@mahak.masala](https://www.instagram.com/mahak.masala) on Instagram. Currently, I use it to review restaurants, but I’m hoping to go back to filming recipe videos again soon.
 
 ### How has your style evolved to what it is now?
 
