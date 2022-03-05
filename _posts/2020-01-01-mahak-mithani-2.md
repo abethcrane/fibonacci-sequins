@@ -84,6 +84,6 @@ You can check out my website at [mahakmithani.com](http://mahakmithani.com/)
 Instagram:
 
 - Personal [@mahak.mithani](https://www.instagram.com/mahak.mithani/)
-- Food blog [@TheBrownCouple](https://www.instagram.com/TheBrownCouple)
+- Food blog [@mahak.masala](https://www.instagram.com/mahak.masala)
 
 *P.S. Check out Mahak's [first appearance on the blog](https://fibonaccisequinsblog.com/mahak-mithani/).*
