@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tess Freedel"
+title: "Tess Freedel is making her own path"
 date: 2022-03-05 14:30
 author: Beth Crane
 tags: [early-career]
