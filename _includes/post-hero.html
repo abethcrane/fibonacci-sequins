@@ -24,7 +24,15 @@
                 </div>
             {% endif %}
             <br/>
-            {{ page.field }} 
+            {% if page.field %}
+                <a href='{{ site.baseurl }}/fields/{{ page.field }}'>{{ page.field }}</a>
+            {% else %}
+                <div class="pipe-list">
+                {% for field in page.fields %}
+                    <span><a href='{{ site.baseurl }}/fields/{{ field }}'>{{ field }}</a></span>
+                {% endfor %}
+                </div>
+            {% endif %}
           </div>
       </div>
     </div>

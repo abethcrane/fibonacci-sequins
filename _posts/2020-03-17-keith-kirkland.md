@@ -7,7 +7,7 @@ tags: [entrepreneurs, fashion-dudes]
 location: New York
 company: WearWorks
 field: Tech
-image: 'images/posts/2020/03/IMG_7642.jpg'
+image: 'images/posts/2020/03/IMG_7681.jpg'
 ---
 
 *I met Keith at a small one-day conference called [Future of Care][foc], hosted at the Rockefeller University late last year. Keith was on a panel of entrepreneurs talking about their experiences developing new hardware devices in the medical field. Everyone on the panel was fascinating - I learned about how the process of collaborating with the FDA has changed over the past 5-10 years, trade-offs between being eco-friendly, cheap, and medical-grade, how to tell when your iterations have stopped adding value, and more. Keith was the most interestingly dressed person in the room, and he talked with vim about his soon-to-be-released product The Wayband, so I followed him out of the panel and managed to briefly introduce myself while he was bombarded with questions*
@@ -24,7 +24,7 @@ Before this I was working in the fashion industry as a handbag designer and patt
 
 ### How do you decide what to wear each day?
 
-{% responsive_image path: "images/posts/2020/03/IMG_7681.jpg" %}
+{% responsive_image path: "images/posts/2020/03/IMG_7642.jpg" %}
 
 Mostly I choose what to wear based on how I want others to feel about me and how I want to move. I used to practice martial arts and in my head I'm a ninja, so I have a weird little thing where if I can't perform a roundhouse kick, the pants don't have enough movement for me.
 

@@ -1,7 +1,19 @@
 <footer class='c-footer'>
   <div class='o-grid'>
 
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-4-l'>
+        <p class='c-footer__headline'>Navigation</p>
+          <ul class='c-footer-list o-plain-list'>
+            {% include navigation.html %}
+            <li class='c-nav__item'>
+              <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
+                <span class='c-nav__icon' data-icon='ei-search' data-size='s'></span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-4-l'>
       <p class='c-footer__headline'>Tags</p>
 
       <ul class='c-footer-list o-plain-list'>
@@ -13,23 +25,20 @@
       </ul>
     </div>
 
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-    <p class='c-footer__headline'>Navigation</p>
-      <ul class='c-footer-list o-plain-list'>
-        {% include navigation.html %}
-        <li class='c-nav__item'>
-          <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
-            <span class='c-nav__icon' data-icon='ei-search' data-size='s'></span>
-          </a>
-        </li>
-      </ul>
-    </div>
-
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-        <p class='c-footer__headline'>By Location</p>
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-4-l'>
+        <p class='c-footer__headline'>Locations</p>
         <ul class='c-footer-list o-plain-list'>
           {% for location in site.locations %}
             {% if location %}<li><a href='{{ site.baseurl }}/locations/{{ location }}'>{{ location }}</a><li>{% endif %}
+          {% endfor %}
+        </ul>
+    </div>
+
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-4-l'>
+        <p class='c-footer__headline'>Fields</p>
+        <ul class='c-footer-list o-plain-list'>
+          {% for field in site.fields %}
+            {% if field %}<li><a href='{{ site.baseurl }}/fields/{{ field }}'>{{ field }}</a><li>{% endif %}
           {% endfor %}
         </ul>
     </div>

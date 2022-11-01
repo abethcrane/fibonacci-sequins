@@ -18,8 +18,9 @@ permalink: /:title/
 timezone: America/New_York
 tag_blurbs:
   students: "Our up-and-at-em high school & college students"
-  early-career: "Starry-eyed young’uns carving out a place for themselves"
-  industry-veterans: "Folks who’ve already made a definite mark" 
+  early-career: "Starry-eyed young'uns carving out a place for themselves"
+  mid-career: "Folks who've hit their stride and know how to find a flow"
+  industry-veterans: "When your reputation precedes you" 
   retired-from-stem: "Onwards and upwards to different and interesting things"
   fashion-post: "Sometimes we just want to post cute outfits 💁"
   entrepeneurs: "Intrepid folks out there finding a niche and making something new"
@@ -47,7 +48,8 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-locations: [Edinburgh, Florida, New York, San Francisco, Seattle, Sydney, Texas, San Diego]
+locations: [Edinburgh, Florida, New York, San Francisco, Seattle, Sydney, Texas, San Diego, Michigan]
+fields: [Science, Tech, Engineering, Math]
 
 responsive_image:
   template: _includes/responsive-image.html

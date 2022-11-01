@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <div class='c-archive'>
+        <h4 class='c-archive__title'>
+          {{ page.field }}
+        </h4>
+      </div>
+    </div>
+  </div>
+
+  <div class='o-grid js-grid'>
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.field == page.field %}
+        {% include post-card.html %}
+        {% assign counter = counter | plus: 1 %}
+      {% elsif post.fields contains page.field  %}
+        {% include post-card.html %}
+        {% assign counter = counter | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if counter == 0 %}
+    <div class="c-content c-post">
+        <p>Looks like we haven't interviewed anyone in this field (or they weren't in this field when we interviewed them!).</p>
+        <p>If you know someone we should chat with, please <a href="mailto:hello@bethcrane.com">send us an email</a> and introduce us! ✨</p>
+    </div>
+  {% endif %}
+</div>

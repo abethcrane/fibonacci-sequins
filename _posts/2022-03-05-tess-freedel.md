@@ -66,7 +66,7 @@ However, when I meet in person or with a wider audience I typically wear darker 
 
 ### Anything exciting coming up on the horizon?
 {% responsive_image path: "images/posts/2022/02/TF_noodlesPosture.jpg" %}
-Yes! I'm working on launching my blog [buildbabybuild.com][https://buildbabybuild.com] as well as working on new material for my band, Bad Saint. It feels great to be back in the swing of producing creative material now that I’m settled in California.
+Yes! I'm working on launching my blog [buildbabybuild.com](https://buildbabybuild.com) as well as working on new material for my band, Bad Saint. It feels great to be back in the swing of producing creative material now that I’m settled in California.
 
 ### What is the best way for people to connect with you?
 
