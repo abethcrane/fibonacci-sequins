@@ -9,6 +9,7 @@ company: Atomic Object
 fields: [Tech, Math]
 image: 'images/posts/2022/11/KD_park.jpg'
 description: "Kory Dondzila is a transfeminine genderfluid software developer and consultant, with a focus on computer graphics and computational geometry. Outside of work you can find them playing games, cooking, or building up a highly curated wardrobe, one piece at a time."
+imageDesc: "Kory, dressed in all black (including a mask), holding an open umbrella (adorned with Cthulhu), stands in front of a fountain in a park in St. Louis, MO."
 ---
 
 *I was delighted to attend [Strange Loop](https://thestrangeloop.com/) in St. Louis in September, where I met many lovely, fascinating folks. Kory's outfits stole the show, and she and I managed to sneak a shoot in between [the talks](https://www.youtube.com/watch?v=UNMF5AS4SLg&list=PLcGKfGEEONaDO2dvGEdodnqG5cSnZ96W1). Let me introduce you to them!*

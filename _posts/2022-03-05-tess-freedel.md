@@ -9,6 +9,7 @@ company: Cigna
 field: Tech
 image: 'images/posts/2022/02/TF_cover.jpg'
 description: "Tess Freedel is a content writer / UX researcher by day, and a musician by night. She's got thoughts on bootcamps, teaching, and generational wealth, and she'd love to go surfing with you."
+imageDesc: "Tess wears a pale blue dress wih a print of cartoon eyes, under a white leather jacket, and poses next to a sticker for her band Bad Saint, out on the streets of Georgetown"
 ---
 
 *Today's post is mixing it up a bit - normally these interviews are a snapshot-in-time, but we took a 2-year hiatus between taking these photos and conducting the interview, so this slice-of-life is a little longer than normal. Let's dive in!*
