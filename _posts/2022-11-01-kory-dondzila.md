@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kory Dondzila always has her umbrella"
-date: 2022-11-01 11:30
+title: "Kory Dondzila always has an umbrella (this specific one, actually)"
+date: 2022-11-04 17:30
 author: Beth Crane
 tags: [mid-career]
 locations: [Michigan]
@@ -11,7 +11,7 @@ image: 'images/posts/2022/11/KD_park.jpg'
 description: "Kory Dondzila is a transfeminine genderfluid software developer and consultant, with a focus on computer grapahics and computational geometry. Outside of work you can find them playing games, cooking, or building up a highly curated wardrobe, one piece at a time."
 ---
 
-*I was fortunate to attend [Strange Loop](https://thestrangeloop.com/) in St. Louis in September, where I met many lovely, fascinating folks. Kory's outfits stole the show, and she and I managed to sneak a shoot in amongst [the talks](https://www.youtube.com/watch?v=UNMF5AS4SLg&list=PLcGKfGEEONaDO2dvGEdodnqG5cSnZ96W1). Let me introduce you to them!*
+*I was delighted to attend [Strange Loop](https://thestrangeloop.com/) in St. Louis in September, where I met many lovely, fascinating folks. Kory's outfits stole the show, and she and I managed to sneak a shoot in between [the talks](https://www.youtube.com/watch?v=UNMF5AS4SLg&list=PLcGKfGEEONaDO2dvGEdodnqG5cSnZ96W1). Let me introduce you to them!*
 
 ### Tell us a little about you.
 
@@ -30,7 +30,7 @@ The hooded double slit dress was made by a friend who owns [Bad Latitude](https:
 
 I bought the corset and utility bag from [Lady Heather's Fashions](https://www.ladyheathers.com/), who I met at [GenCon](https://www.gencon.com/) back in August. She makes leather fashion and accessories, although this particular corset isn't one of her own creations.
 
-The other interesting piece is the umbrella: it features Cthulhu, and I bought it from [Vermilion Collection](https://shop.vermilion.cc/) (it can also be acquired from [HPLHS](https://store.hplhs.org/collections/apparel)), which I almost always have with me. It’s great for blocking the rain as well as the sun, and has become very useful in both regards - immediately upon arriving in St. Louis by Amtrak for Strange Loop it started downpouring. I’m pretty sure that the 2 coworkers I was traveling with wished they had an umbrella that day.
+The other interesting piece is the umbrella: it features Cthulhu, and I bought it from [Vermilion Collection](https://shop.vermilion.cc/) (it can also be acquired from [HPLHS](https://store.hplhs.org/collections/apparel)), which I almost always have with me. It’s great for blocking the rain as well as the sun, and has become very useful in both regards - for instance, I took the Amtrak to Strange Loop with 2 coworkers, and it started downpouring immediately upon arriving in St. Louis; I’m pretty sure my coworkers wished they had an umbrella that day.
 
 ### What are the differences for you between working at a consultancy and a product company?
 
@@ -40,8 +40,7 @@ I’ve not personally had a full-time position at a product company, but I have 
 ### What drew you to tech?
 
 {% responsive_image path: "images/posts/2022/11/KD_red2.jpg" %}
-I actually have an art background - a double BFA in Animation and Game Development. Those fields intersect closely with programming, and it turned out that I picked up programming with ease. Where my original focus was art, I switched into doing tool development and game programming. After finishing those degrees I figured that if I was going to get into those areas I would probably need more than just a few coding classes, and a lot more math. That led me to getting my Masters in Computer Science.
-
+I actually have an art background - a double BFA in Animation and Game Development. Those fields intersect closely with programming, and I picked it up with ease. I switched from my original focus of art into doing tool development and game programming, and then after finishing those degrees I figured that if I was going to continue in those areas I would probably need more than just a few coding classes (and a lot more math!). That led me to getting my Masters in Computer Science.
 
 ### How did you land where you are now? Did you have a plan?
 
@@ -60,9 +59,9 @@ There’s a lot of complexity around that, which can involve a fair bit of geome
 ### Are you working on anything fun at the moment?
 
 {% responsive_image path: "images/posts/2022/11/KD_red.jpg" %}
-I recently made a room randomizer for the old Sierra game [Shivers](https://en.wikipedia.org/wiki/Shivers_(video_game)), from 1995. Shivers is a classic first person point-and-click adventure game, with a small community of speedrunners. Despite not speedrunning games (yet), I fell into the community due to my love of the game.
+I recently made a room randomizer for the old Sierra game [Shivers](https://en.wikipedia.org/wiki/Shivers_(video_game)), from 1995. Shivers is a classic first person point-and-click adventure game, with a small community of speedrunners. Despite not speedrunning games myself (yet), I fell into the community due to my love of the game.
 
-They already had a randomizer for other parts of the game but had been unsuccessful at making a room randomizer, and due to my knowledge of graph theory I was asked to handle the algorithm. I did, and it’s been working quite well! It's currently in beta, and it'll be pretty exciting to see it used in speedruns officially (and maybe on Games Done Quick).
+They already had a randomizer for other parts of the game but had been unsuccessful at making a room randomizer, and due to my knowledge of graph theory I was asked to handle the algorithm. I did, and it’s been working quite well! It's currently in beta, and it'll be pretty exciting to see it used in speedruns officially (and maybe on [Games Done Quick](https://gamesdonequick.com/)).
 
 ### Is your professional style different from your personal style?
 
