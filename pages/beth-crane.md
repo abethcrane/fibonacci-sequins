@@ -1,103 +1,119 @@
 ---
 layout: page
 title: "About Beth Crane ✨"
-date: 2019-10-17 05:09
+date: 2022-11-07 22:09
 author: Beth Crane
-tags: [early-career]
-image: 'images/pages/2019/10/IMG_0086.jpg'
+tags: [mid-career]
+field: tech
+image: 'images/pages/2022/11/BC_headshot.jpg'
+description: "Beth Crane runs this blog. She lives in Brooklyn, works at Flatiron Health, and loves dancing to her friends' music. You can find her by looking for the colorful hair."
+imageDesc: "Beth, with rainbow hair, wearing her ridiculous oversized green glasses, stares straight into the camera. She's wearing a black kazland shirt."
 ---
 
 ### Tell us a little about you.
 
-{% responsive_image path: "images/pages/2019/10/IMG_9154.jpg" caption: "Hanging out on some arty steps in Hongdae, Seoul. Wearing shorts (it is *so* difficult to find high-rise shorts that are decent but not knee-length!) and a linen shirt, both from J-Crew." %}
+{% responsive_image path: "images/pages/2022/11/BC_brents_gators.jpg" caption: "The shirt says gators we've met" alt: "Beth's wearing a purple shirt (with drawings of gators on it) and purple sunglasses, and pointing at a sign for a diner that says Brent's Drugs" %}
 
-Hi, I'm Beth! I have colorful hair and I love natural light and my least favorite sound is airplanes flying over my apartment.
+Hi, I'm Beth! I have colorful hair and I love natural light and I'm trying to figure out why I exist in this world.
 
-I live in NYC at the moment (as of 2 months ago), my heart is in Seattle, and all my childhood memories are of Sydney.
+I live in Brooklyn. I'm a Staff Software Engineer at [Flatiron Health](https://flatiron.com) - we're working to reimagine the infrastructure of cancer care in order to learn from the experience of every person with cancer (only 4% of whom are currently in clinical trials), and to try to improve the lives of everyone who comes into contact with it.
 
-I'm a software engineer at [Flatiron Health](http://flatiron.com) - we're working to learn from the experience of every cancer patient (only 4% of whom are currently in clinical trials 😬).
-
-I'm also a [photographer](http://instagram.com/abethcrane) (more on [flickr](http://flickr.com/photos/105674507@N06)), a big fan of my friends' bands ([Bad Saint](http://www.badsaintband.com/#home-section), [Linda from Work](https://www.lindafromwork.com), [Biblioteka](https://www.biblioteka.us/)), and low-key into plants 🌱
+I'm also a photographer (you can find sporadic updates on [instagram](http://instagram.com/abethcrane) or regular updates on [flickr](http://flickr.com/photos/105674507@N06)), a big fan of [my friends' bands](https://open.spotify.com/playlist/3WGbWOm5jg7r5o6KOdpIgX?si=f6b4111421d345c2), just enough into mechanical keycaps to be dangerous, and happily keeping my ~20 houseplants alive 🌱
 
 Ask me about Effective Altruism, or why Nobody Wants To See Birds.
 
 ### What are you working on at the moment, and what do you love about it?
 
-{% responsive_image path: "images/pages/2019/10/IMG_7645.jpg" caption: "This Blazer is from Free People and it's one of my favorite jackets" %}
+{% responsive_image path: "images/pages/2022/11/BC_seattle_layering.jpg" caption: "" alt: "Beth's wearing a little black dress over a gray turtleneck, standing in front of the Seattle Wheel" %}
 
-I just started a new job about 2 months ago and so mostly I'm working on learning a lot. People often describe it as drinking from the firehose, but this time around for me it feels like being a sponge - absorbing as much as possible!
-
-It's the most intense onboarding I've done - I'm learning about the healthcare industry, about oncology (Cancer: The Emperor of all maladies is a great book I highly recommend), about medical billing, how Flatiron operates, the relationship between Roche (parent company) + Flatiron, + all of the sibling companies, getting to know all my coworkers, and navigating a new city and norms! On top of that, the tech stack is very standard, but largely new to me (coming from VR) so I'm working with databases for the first time (*wild*, I know), and learning react.
-
-I love that I'm learning a lot (I bought [this great notebook](https://designworksink.com/products/5775b003ebbd1a06a7c30276) that I take to every meeting), that my team are super friendly, and that my manager is giving me the space to prioritize gathering context and reading up on best practices over immediately contributing code.
-
-### What do you feel most you in and why?
-
-{% responsive_image path: "images/pages/2019/10/IMG_0217.jpg" caption: "Zara skirt, UO sweater, Ecco boots" %}
-
-{% responsive_image path: "images/pages/2019/10/IMG_0219.jpg" caption: "Photo by <a href='http://instagram.com/danwiththeblue'>Dan Holodak</a>" %}
-
-A short skirt, crop tee, denim jacket, lightweight dangly earrings. A mix of black/white/colors. Good walking boots. Mascara and Sephora's blackberry sorbet lipstick. It's an outfit combo that makes me feel put together, cute, and fun!
-
-That said, I feel most *free* when I know my outfit can take me anywhere. So a 3-seasons outfit of sneakers, leggings, a sweat-resistant shirt, a lightweight sweater.
+I'm currently working on a project at Flatiron that involves making it easier for clinicians to order and review the results of genomic tests, without leaving the Electronic Medical Record (EMR) app — i.e. without faxing something, or logging into another website. There's some surprisingly complex pieces, and I'm learning a lot about cloud services, infrastructure as code, and enabling different parts of a system to talk to each other. I've been working very cross-functionally on my current team, which has been challenging and rewarding - I think we can often fail to acknowledge how much friction can be involved in learning to partner smoothly and successfully across multiple disciplines.
 
 ### How did you land where you are now? Did you have a plan?
 
-{% responsive_image path: "images/pages/2019/10/IMG_4978.jpg" caption: "I bought this jumpsuit in a vintage shop in Amsterdam and it's everything" %}
+{% responsive_image path: "images/pages/2022/11/BC_rainbow_shirt.jpg" caption: "This shirt was a gift, and the earrings are 8 balls" alt: "Lots of sunflares. Beth's wearing a rainbow button down and black shorts"     %}
 
-I would love to be the kind of person who has a 5/10/20 year roadmap for their life, but I'm not. Instead, I try to live my life such that good opportunities come knocking, and I'm able to be open to them. I want the default path (the path of least resistance), to be one that's going to lead to growth, happiness, and more opportunities.
+I have never had a plan in my life.
 
-I want to make the world better, but I'm not sure just yet how to go about doing that. I'm gathering context, collecting experiences, and working on becoming better at a concrete skill (software engineering) in the hopes that along the way I'll discover what I should be working on, and have grown into someone who can add value at it.
-
-That's all the meta-level, the object level answer is that I accepted my intern return offer from Microsoft after graduating, worked there on some very cool cutting edge tech for almost 5 years, and now I've pivoted completely to a smaller company on the opposite coast working with very classic tech in healthcare.
-
-### How has your style evolved to what it is now?
-
-{% responsive_image path: "images/pages/2019/10/IMG_4978.jpg" caption: "I bought this jumpsuit in a vintage shop in Amsterdam and it's everything" %}
-
-
-{% responsive_image path: "images/pages/2019/10/IMG_2278.jpg" caption: "Icebreaker merino wool shirt, Ona bag, Gap Jeans, Snapchat Spectacles, UO Coco red sweater" %}
-
-My style's evolved partly out of practical necessity - I traveled for 4 months this year, so I started to upgrade to performance fabrics, because it was pretty important that my shirts could handle a long plane trip without getting too sweaty. Things like Icebreaker merino wool, or [Ably](https://ablyapparel.com/) shirts (a local Seattle company!). That tends to come with an element of more casual/block colors, so really leaning into combining basics in a fun way.
-
-I went to a restaurant in London that described the dress code as Art Casual, and that's solidly aspirational - I try to dress so that I could walk in almost anywhere and not look too out of place.
+I try to live my life such that good opportunities come knocking, and I'm able to be open to them. I want the default path (the path of least resistance), to be one that's going to lead to growth, happiness, and more opportunities. It's working out okay so far (periodic existential crises aside!).
 
 ### Do you have any style icons or favorite brands?
 
-{% responsive_image path: "images/pages/2019/10/IMG_0032.jpg" caption: "GalaxyWear jacket!" %}
+{% responsive_image path: "images/pages/2022/11/BC_daisyGrenade.jpg" caption: "Look Daisy Grenade up on spotify" alt: "Beth's wearing a tee that says Daisy Grenade, and standing inside the Union Station hotel clock tower" %}
 
-Some of my absolute favorite pieces are from [Galaxy Wear](https://www.instagram.com/galaxywear/?hl=en) - an amazing Seattle artist who creates custom painted pieces. I have a denim jacket from her that I wear as much as possible.
+I've never been someone who watched fashion shows or felt particularly up to date on the trends - so here's less on the style icons, more on the brands I've stumbled upon!
 
-This year I've been very into Gap jeans - they have a Tall line which is perfect for me and my 34" legs - \#TallPeopleProblems
+I love [Min and Mon](https://minandmon.com/) - an NYC boutique that makes incredible bags. I'm recently enamored with vintage Eagle's Eye sweaters - there are some fun ones online, but I haven't yet acquired any. Katy at [GalaxyWear](https://galaxywearunlimited.myshopify.com/) is a gem and makes my jackets into art. And now that I'm old enough to understand why socks are a great gift, I pretty much only wear [Bombas](https://bombas.com/) merino wool socks (year round!).
 
-I leaned pretty heavily on Aritzia for smarter staples when I first got to NYC. They're more fast-fashion than I'd like, and pricier, but their [Babaton blouses](https://www.aritzia.com/us/en/product/murphy-blouse/55975.html?dwvar_55975_color=1274) go with everything and look great - sometimes you just need a staple.
+### How has your style evolved to what it is now?
+
+{% responsive_image path: "images/pages/2022/11/BC_dress_10_year.jpg" caption: "Yeah, that's a fanny pack with a fancy dress" alt: "Mirror selfie of Beth wearing a fun Farm Rio dress over some puffy sleeves, with a fanny pack" %}
+
+I went on a rabbithole through my old photos to answer this, and I'm feeling very tender towards past!beth. I've always expressed myself through what I'm wearing - tiny hats, bright colors, knee high socks, a favorite bag. I thought I'd tell you about how my younger self would be so stoked to see me now, and I think that's probably still true - but she was doing alright, honestly!
+
+I think the biggest change in my style over the past few years has probably been rekindling the love of thrifting and vintage shopping I had when I was a teenager. Back when we first started FibSeq we had a few folks talk about the impact of fast fashion, and it's stuck with me - I think the next step is to stop buying clothes entirely, which I'm nowhere near! But I've been seeking out more natural fabrics - wool sweaters and silk shirts instead of pleather and polyester.
+
+One thing I love about NYC (and the Gen Z kids online), is that the definition of fashion is really broad. Anything goes these days as long as you feel cool in it. I've been trying to have more fun with it - finding novel thrifted pieces, layering dresses over floaty sleeves, pairing my sneakers with a tiny splash of neon orange with earrings in the same shade so that it ties stogether.
+
+I think my fashion game is a constant battle between me trying to create rules for myself of what I like and feel good in (because humans need heuristics to function!) and then me trying to push those boundaries and experiment, to make sure I'm not getting too complacent.
+
+These days I've been loving [floaty sleeves](https://www.urbanoutfitters.com/shop/uo-cynthia-clip-dot-sleeve-top) and flare jeans (the balance!! I'm obsessed), button up shirts (but only in a gay way), and learning to layer necklaces.
 
 ### What do you wish you'd known when you first started working?
 
-{% responsive_image path: "images/pages/2019/10/IMG_2249.jpg" caption: "This jumpsuit is also Lazy Oaf, like my pants! My sneakers are Nike - I spent a month trying to find the perfect pair of comfy/supportive sneakers that I could wear with any of my travel clothes. I wanted them to be all 1 color, but not black." %}
+{% responsive_image path: "images/pages/2022/11/BC_officeAttire.jpg" caption: "Welcome to my office bathroom. Feels surprisingly intimate." alt: "Another mirror selfie. Beth's wearing a long black cardigan (almost a cape) over jeans and a blouse" %}
 
-That you can set up regular 1:1s with your coworkers, not just your manager, and that you can at any point hit someone up for a 1:1 coffee/walk just to get to know the other person better. It's wild to me that I worked with some people for months/years and never chatted with them 1:1.
+That it's okay for it to be hard! I think it took me around a year into my first job to reach any kind of flow state, and many more for that to be a regular occurrence.
 
-### Is your professional style different from your personal style?
+That taking notes in meetings, and asking questions that refer back to them, will get you pretty dang far.
 
-{% responsive_image path: "images/pages/2019/10/IMG_20190713_110705.jpg" caption: "Pants from Lazy Oaf! They're a British brand, but I bought these pants in Sydney. Sweater is Royal Robbins." %}
+That you can set up regular 1:1s with your coworkers, not just your manager, and that you can at any point hit someone up for a 1:1 coffee/walk just to get to know the other person better.
 
-Somewhat - for a couple of reasons!
-
-Practical considerations: My new office is always freezing, so I plan what I wear around wearing a fuzzy sweater! I'm also more willing to wear nicer pants/jackets/shoes to work than I might on a weekend, because I have a fairly decent idea that most of my time is going to be spent inside an office (plus, it's fun to cosplay workplace professional :P)
-
-Stylistic differences: My wardrobe is a mostly-overlapping Venn diagram, where the work-only clothes include some tech-themed graphic tees, and the !work-only clothes include some shorter skirts, very cropped shirts, graphic tees with expletives, cocktail dresses, etc.
+That many many people feel like they are underqualified for their jobs - I think there's a moment along the way in a career, similar to the one we all eventually have with our parents, where we realize everyone is human, and doing their best, and figuring it out as they go. You're not alone, and I hope you won't let it hold you back.
 
 ### What's a project you've worked on that you're proud of?
 
-{% responsive_image path: "images/pages/2019/10/IMG_2055.jpg" caption: "Orange juice is an accessory, yes? This sweater is from UO, and the scarf is <a href='https://www.betabrand.com/plum-cotton-cashmere-convertible-blanket-scarf'>BetaBrand</a>) (it has pockets!)." %}
+{% responsive_image path: "images/pages/2022/11/BC_blue_boots.jpg"  alt: "The boots steal the show - knee high blue boots, bathroom mirror selfie, black skirt, cropped denim jacket" %}
 
-I'm honestly so proud of the work that we did on [Microsoft Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/), and the work I did on the menus for it. Working in XR is a constant process of discovering/inventing best practices - for application architecture, for running on a specific device, for the user experience.
+Earlier this year I put together [a lightning talk about Carbon Offsets](https://drive.google.com/file/d/1I9H1DEcMHACogog1ztIhtwqBE3LldQUz/view?usp=sharing) as part of a Climate-focused Hackathon at Flatiron, to highlight and discuss the news that Flatiron had purchased enough offsets to reach 100% carbon neutrality for 2021 ([announcement](https://www.linkedin.com/posts/flatiron-health_dotherightthing-carbonneutral-sustainablebusiness-activity-6925080349530079232-lr3Q/)).
 
-I was fortunate to work with some truly fantastic designers to explore what a menu should look like in a heads up display, and how it differs in VR - we built 3D equivalents of a hamburger menu, reinvented CSS for our app inside of Unity to enable hot-swapping of styles to increase accessibility, and I learned a lot about what it's like to build UI when there's a lot less of an established framework than on something like the web.
+It took probably around 12 hours to pull this together! Synthesizing information, especially on a rapidly-evolving topic with a lot of nuance, is time consuming, but it felt worthwhile to do that for carbon offsets - they're increasingly talked about (and voted about), and being able to see past the headlines is valuable.
+
+### What drew you to tech?
+
+{% responsive_image path: "images/pages/2022/11/BC_oklahoma_jacket.jpg" caption: "Does it count as double denim if they're different colors?" alt: "Beth's wearing a black denim jacket, studded with lil pearls, with blue jeans and her kazland art shirt"     %}
+
+I feel like I've been on a slow-moving current towards tech for a long time. Throughout school I was a track kid and a computer science nerd, and one of those had a more obvious future. I grew up copying snippets of HTML to decorate my Neopets store, and then to customize my MySpace page, and eventually to write this blog.
+
+The thrill of seeing something happen because of some text that I wrote (or stole) still hasn't really gone away.
+
+### Are you involved in communities outside of STEM/tech? How are they different from communities inside or around it?
+
+{% responsive_image path: "images/pages/2022/11/BC_bandits.jpg" caption: "You should look up Bandits on the Run too" alt: "Beth's drinking an iced oat chai, wearing a yellow shirt, yellow earrings, and holding a yellow phone case" %}
+
+Yes and no - not as much as I'd like to be! I've been trying to figure out for a few years now what it means to be in community.
+
+I haven't felt fully settled anywhere since I left Seattle in early 2019 - I moved, and covid hit, and then I ended up splitting my time between coasts. I'm thrilled to be back and just living in NYC now, and figuring out how I can be more involved here. I've applied to volunteer at both the Brooklyn Public Library and the Brooklyn Botanic Garden - we'll see if anything comes of either of those!
+
+A lot of my friends these days are musicians, and I've been enjoying getting to know the NYC indie music scenes by going to their shows, and occasionally taking photos at them. I love that it's all about showing up for each other - just showing up is enough. The friends I've made know how to celebrate each other, to support each other and ask for support, and to collaborate. It's like that because of necessity, and I wish it were easier, but it's also beautiful to be a part of.
+
+I'm not particularly engaged in the online tech scene - the closest I've come is the Cute Keyboard Club discord. I spend too much time on a computer, and I've been moving further and further away from social media over the past year. But I've always found community in my coworkers, and that stays true at Flatiron. I think people shy away from that sometimes, and I've thought often about how much of myself I want to invest in a place that is inherently transactional, and where the relationships often feel less real, less permanent, than those outside work.
+
+Every time someone I've treasured working with leaves I can taste the old bitterness that tells me to run away rather than dig in - but that's no way to live. I spend 40+ hours a week with my coworkers - we strive towards the same goals, we navigate the same obstacles - that's a community whether you choose to invest in it or not, and it's always made my life better to find ways to opt in. There are parts that are similar - ultimately a lot of community is just showing up, wherever you are, I think - but in many ways, once you've made it into the tech industry the hustle becomes less social, and so the communal fabric looks different.
+
+### Is your day-to-day work moving the world in the direction you want it to go? Is that something that’s important to you?
+
+{% responsive_image path: "images/pages/2022/11/BC_sweatpants_ozymandias.jpg" caption: "Sometimes it's December and you're on a roadtrip and sweatpants are enough" alt: "Beth in black sweatpants with a statue of 2 giant legs - Ozymandias" %}
+
+I've been starting to ask folks questions around things I've been noodling on, and this is one of those things. I feel very fortunate to work at Flatiron, and I have a hard time envisioning what my next step could look like - it will be a tough act to follow.
+
+[The Good Place](https://en.wikipedia.org/wiki/The_Good_Place) pointed out that everything is so interconnected that it's near-impossible to perform any action that isn't also causing harm! What a world to live in. I think a lot of tech workers are very familiar with this idea - it's hard to add up the ripple effects of what we're working on and figure out whether we think our job is having an overall positive impact. The Good Place says that despite that, despite how morally gray and interconnected everything is, we should still try to be good. To help people, to minimize harm - to not let the difficulty in navigating and measuring our impact, or the impossibility of doing uncomplicated good, stop us from trying.
+
+So I feel very lucky that in that world (this world), I've landed at a shore where I really think what we're doing helps people. Trying to piece-by-piece build an EMR that our clinic staff enjoy using matters. Figuring out with the FDA how we can use data to safely bring new drugs to market faster matters. It's a little hard to imagine wading back out into the murky waters of attention-grabbing apps that connect me with my friends but also treat me like a fly to lure in with honey, or to the dilemma of making products of convenience that end up eroding long-standing local businesses. But there are things out there worth doing the calculus for, and maybe I'll leave shore for them eventually.
+
+Before this I was working on cool new shiny tech. So maybe back there is where I'll end up next - take a break from working on something that feels clear-cut and meaningful, and do a stint working on things that are just fun. But for now it feels important to me to be here, doing this.
 
 ### What is the best way for people to connect with you?
 
-{% responsive_image path: "images/pages/2019/10/IMG_7142.jpg" caption: "Gotta love some good <a href='https://us.ecco.com/ecco-elaine-boot-244743.html'>Ecco boots</a>). I tend to buy kids-size backpacks, so that they're the perfect tiny size." %}
+{% responsive_image path: "images/pages/2022/11/BC_be_cool.jpg" alt: "Beth wears a long coat in front of a sign that says Be Cool or Get Lost" %}
 
-You're welcome to follow me on [Twitter](http://twitter.com/abethcrane) or [Instagram](http://instagram.com/abethcrane). Feel free to [send me an email](mailto:hello@bethcrane.com) for anything else 🙂
+If you already know me, text me! Otherwise, you can find me on LinkedIn, or [shoot me an email](mailto:hello@bethcrane.com).
