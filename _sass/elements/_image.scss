@@ -10,8 +10,10 @@ img {
 
 figcaption {
     font-style: italic;
+    color: $color-gray;
 }
 
 figure {
     margin-bottom: 10px;
+    padding-bottom: 10px;
 }
